@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Home"
+title                    : "home"
 title_separator          : "-"
 name                     : &name "Yaning Wu"
 description              : &description "personal description"
