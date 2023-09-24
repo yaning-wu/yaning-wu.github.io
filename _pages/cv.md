@@ -49,10 +49,8 @@ other work experience
   * produced data visualisation and storytelling content for company website and socials
  
 * August - September 2021: Research Assistant | [The Equality Trust](https://equalitytrust.org.uk/){:target="_blank" rel="noopener"}
-  * designed data visualisations for clients such as Imperial College London, McKinsey, EY, YouGov, and the BBC
-  * coded novel visualisation tools and "hacks" using HTML and CSS
-  * responded to business and private customer queries in timely and professional manner
-  * produced data visualisation and storytelling content for company website and socials
+  * researched, analysed, and visualised data on the nature of economic inequality in the UK and other high-income countries with a focus on how protected characteristics
+  * reviewed literature around economics, income and wealth inequality, and disability theory
 
 skills
 ======
