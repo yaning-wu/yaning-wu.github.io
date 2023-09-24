@@ -23,7 +23,7 @@ author_profile: true
 </details>
 <br>
 <details>
-    <summary><b>as a content creator</b></summary>
+    <summary><b>as an artist and designer</b></summary>
     <p>MSDUK</p>
 </details>
 
