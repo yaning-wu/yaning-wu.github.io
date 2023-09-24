@@ -14,4 +14,7 @@ main:
   
   - title: "creative portfolio"
     url: /creative-portfolio/
+
+  - title: "contact"
+    url: /contact/
     
