@@ -9,5 +9,5 @@ Wu et al., 2021. [Keeping Our Frontline Safe: Linking personal protective equipm
 
 *You can also find my publications on my [Google Scholar profile](https://scholar.google.co.uk/citations?user=BfQsB3gAAAAJ&hl=en){:target="_blank" rel="noopener"}.*
 
-**blogs**<br>
+**blogs and public engagement**<br>
 Personal blog (year). [Title](link){:target="_blank" rel="noopener"}.
