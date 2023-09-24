@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* [BSc in Population Health Sciences](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/population-health-sciences-bsc) (Data Science specialism), [University College London](https://www.ucl.ac.uk/), 2022 (first class honours)
-* [MSc in Global Health Science and Epidemiology](https://www.ox.ac.uk/admissions/graduate/courses/msc-global-health-science-and-epidemiology), [University of Oxford](https://www.ox.ac.uk/), 2023 (expected)
-* [PhD in Public Health and Primary Care](https://www.postgraduate.study.cam.ac.uk/courses/directory/cvphpdhpc), [University of Cambridge](https://www.cam.ac.uk/) (expected)
+* [BSc in Population Health Sciences](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/population-health-sciences-bsc) (Data Science specialism), University College London, 2022 (first class honours)
+* [MSc in Global Health Science and Epidemiology](https://www.ox.ac.uk/admissions/graduate/courses/msc-global-health-science-and-epidemiology), University of Oxford, 2023 (expected)
+* [PhD in Public Health and Primary Care](https://www.postgraduate.study.cam.ac.uk/courses/directory/cvphpdhpc), University of Cambridge (expected)
 
 Research experience
 ======
