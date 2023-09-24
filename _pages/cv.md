@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+education
 ======
 * [BSc in Population Health Sciences](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/population-health-sciences-bsc) (Data Science specialism), University College London, 2022 (first class honours)
 * [MSc in Global Health Science and Epidemiology](https://www.ox.ac.uk/admissions/graduate/courses/msc-global-health-science-and-epidemiology), University of Oxford, 2023 (expected)
 * [PhD in Public Health and Primary Care](https://www.postgraduate.study.cam.ac.uk/courses/directory/cvphpdhpc), University of Cambridge (expected)
 
-Research experience
+research experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -27,7 +27,7 @@ Research experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
-Work experience
+other work experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -39,14 +39,18 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
-Skills
+skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Languages
+  * English (native speaker)
+  * Mandarin (native speaker)
+  * French (CEFR B1-2)
+  * Egyptian colloquial Arabic (enough to get by in the city)
 
 Publications
 ======
