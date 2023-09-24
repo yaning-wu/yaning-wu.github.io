@@ -10,4 +10,4 @@ redirect_from:
 
 This is my personal website.
 
-This website was built using the [Academic Pages template] (https://academicpages.github.io/). 
+This website was built using the [Academic Pages template](https://academicpages.github.io/). 
