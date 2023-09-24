@@ -399,3 +399,15 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+.collapsible {
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 1em;
+}
