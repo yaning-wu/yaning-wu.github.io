@@ -9,22 +9,19 @@ author_profile: true
 
 <details>
     <summary><b>as a patient and member of the public</b></summary>
-    <p>SAUK, PPIE, arts council england, CG Scolio, BTRU studies</p>
+    <p>SAUK, PPIE, arts council england, CG Scolio, BTRU + other studies</p>
 </details>
-<br>
 <details>
     <summary><b>as a researcher</b></summary>
-    <p>WordSmith</p>
+    <p>WordSmith, emBRACE</p>
 </details>
-<br>
 <details>
     <summary><b>as a community organiser</b></summary>
     <p>Blossoming Wards</p>
 </details>
-<br>
 <details>
     <summary><b>as an artist and designer</b></summary>
-    <p>MSDUK</p>
+    <p>MSDUK, P4PPE</p>
 </details>
 
 
