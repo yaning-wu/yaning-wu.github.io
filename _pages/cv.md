@@ -11,9 +11,9 @@ redirect_from:
 
 education
 ======
-* [BSc in Population Health Sciences](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/population-health-sciences-bsc) (Data Science specialism), University College London, 2022 (first class honours)
-* [MSc in Global Health Science and Epidemiology](https://www.ox.ac.uk/admissions/graduate/courses/msc-global-health-science-and-epidemiology), University of Oxford, 2023 (expected)
-* [PhD in Public Health and Primary Care](https://www.postgraduate.study.cam.ac.uk/courses/directory/cvphpdhpc), University of Cambridge (expected)
+* [BSc in Population Health Sciences](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/population-health-sciences-bsc){:target="_blank" rel="noopener"} (Data Science specialism), University College London, 2022 (first class honours)
+* [MSc in Global Health Science and Epidemiology](https://www.ox.ac.uk/admissions/graduate/courses/msc-global-health-science-and-epidemiology){:target="_blank" rel="noopener"}, University of Oxford, 2023 (expected)
+* [PhD in Public Health and Primary Care](https://www.postgraduate.study.cam.ac.uk/courses/directory/cvphpdhpc){:target="_blank" rel="noopener"}, University of Cambridge (expected)
 
 research experience
 ======
@@ -49,7 +49,7 @@ skills
 * Languages
   * English (native speaker)
   * Mandarin (native speaker)
-  * French ([CEFR](https://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale) B1/2)
+  * French ([CEFR](https://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale){:target="_blank" rel="noopener"} B1/2)
   * Egyptian colloquial Arabic (enough to get by in the city)
 
 Publications
