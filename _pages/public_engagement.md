@@ -7,21 +7,26 @@ author_profile: true
 
 {% include base_path %}
 
-as a patient
-======
-* **...
+<details>
+    <summary><b>as a patient and member of the public</b></summary>
+    <p>SAUK, PPIE, arts council england, CG Scolio, BTRU studies</p>
+</details>
+<br>
+<details>
+    <summary><b>as a researcher</b></summary>
+    <p>WordSmith</p>
+</details>
+<br>
+<details>
+    <summary><b>as a community organiser</b></summary>
+    <p>Blossoming Wards</p>
+</details>
+<br>
+<details>
+    <summary><b>as a content creator</b></summary>
+    <p>MSDUK</p>
+</details>
 
-as a product developer
-======
-* **...
-
-as a volunteer
-======
-* **...
-
-as a project leader
-======
-* **...
 
 
 * WordSmith
