@@ -15,29 +15,44 @@ education
 * [MSc in Global Health Science and Epidemiology](https://www.ox.ac.uk/admissions/graduate/courses/msc-global-health-science-and-epidemiology){:target="_blank" rel="noopener"}, University of Oxford, 2023 (expected)
 * [PhD in Public Health and Primary Care](https://www.postgraduate.study.cam.ac.uk/courses/directory/cvphpdhpc){:target="_blank" rel="noopener"}, University of Cambridge (expected)
 
+awards and honours
+======
+* ...
+
 research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* March - August 2023: Research Student | [Clinical Trials Service Unit](https://www.ctsu.ox.ac.uk/){:target="_blank" rel="noopener"}, University of Oxford
+  * designed pheWAS study, conducted a literature review, ran analyses in R, and presented findings as part of MSc placement
+  * drafted Lancet-style journal article for assessment
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* April - July 2021: Research Assistant | [Aceso Global Health Consultants](https://www.acesoghc.com/){:target="_blank" rel="noopener"}
+  * edited research protocols, conducted literature reviews, and developed interventions for a [RSPH-award-winning](https://www.arc-nt.nihr.ac.uk/news-and-events/2021/september/community-led-neon-programme-wins-rsph-award/){:target="_blank" rel="noopener"} [child nutrition RCT](https://www.acesoghc.com/neon){:target="_blank" rel="noopener"}
+  * took meeting minutes and assisted research team with administrative tasks
+
+* October 2020 - March 2021: Research Team Lead | [Bentham Brooks Institute](https://benthambrooks.wixsite.com/home){:target="_blank" rel="noopener"}
+  * led six-person team to conceptualise and publish paper linking personal protective equipment policies and healthcare worker mortality during COVID-19 in four high-income countries (cited in presentations to UK policymakers)
+  * presented paper to interdisciplinary academic and student audience in 2021 research conference
 
 other work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* July 2022: Journalism Intern | [Carbon Brief](https://www.carbonbrief.org/){:target="_blank" rel="noopener"}
+  * covered a [Nature paper](https://www.nature.com/articles/s41558-022-01401-w){:target="_blank" rel="noopener"} on migration and climate change (including interviewing lead author, Harvard Kennedy School Environmental Fellow [Dr Hélène Benveniste](https://www.helenebenveniste.com/){:target="_blank" rel="noopener"})
+  * contributed to a media reaction piece about the summer 2022 UK heatwave on a tight deadline (and while melting)
+  * drafted copy for two newsletters with worldwide reach
+  * supported senior team members in designing and coding data visualisations of climate data using Highcharts, a Javascript library
+  * designed [social media](https://www.instagram.com/p/CgcTxxkqcr2/?img_index=1){:target="_blank" rel="noopener"} and website assets for published stories
+ 
+* July - November 2021; October 2021 - June 2022: Services, Support, and Content Intern | [Flourish](https://flourish.studio/){:target="_blank" rel="noopener"} (part of the [Canva](https://www.canva.com/){:target="_blank" rel="noopener"} family)
+  * designed data visualisations for clients such as Imperial College London, McKinsey, EY, YouGov, and the BBC
+  * coded novel visualisation tools and "hacks" using HTML and CSS
+  * responded to business and private customer queries in timely and professional manner
+  * produced data visualisation and storytelling content for company website and socials
+ 
+* August - September 2021: Research Assistant | [The Equality Trust](https://equalitytrust.org.uk/){:target="_blank" rel="noopener"}
+  * designed data visualisations for clients such as Imperial College London, McKinsey, EY, YouGov, and the BBC
+  * coded novel visualisation tools and "hacks" using HTML and CSS
+  * responded to business and private customer queries in timely and professional manner
+  * produced data visualisation and storytelling content for company website and socials
 
 skills
 ======
@@ -50,25 +65,21 @@ skills
   * English (native speaker)
   * Mandarin (native speaker)
   * French ([CEFR](https://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale){:target="_blank" rel="noopener"} B1/2)
-  * Egyptian colloquial Arabic (enough to get by in the city)
+  * Egyptian colloquial Arabic (enough to get by in Cairo)
 
-Publications
+publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+see [here](https://donatingbetter.github.io/publications/){:target="_blank" rel="noopener"}.
   
-Talks
+talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+see [here](https://donatingbetter.github.io/talks/){:target="_blank" rel="noopener"}.
   
-Public engagement
+public engagement
 ======
 * ...
 
-Leadership
+leadership
 ======
 * ...
 
