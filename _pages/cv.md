@@ -49,7 +49,7 @@ skills
 * Languages
   * English (native speaker)
   * Mandarin (native speaker)
-  * French (CEFR B1-2)
+  * French ([CEFR](https://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale) B1/2)
   * Egyptian colloquial Arabic (enough to get by in the city)
 
 Publications
