@@ -9,15 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<details>
-    <summary><b>education</b></summary>
-    <p>
-    <b>[BSc in Population Health Sciences](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/population-health-sciences-bsc){:target="_blank" rel="noopener"}</b> (Data Science specialism), University College London, 2022 (first class honours)
-    <b>[MSc in Global Health Science and Epidemiology](https://www.ox.ac.uk/admissions/graduate/courses/msc-global-health-science-and-epidemiology){:target="_blank" rel="noopener"}</b>, University of Oxford, 2023 (expected)
-    <b>[PhD in Public Health and Primary Care](https://www.postgraduate.study.cam.ac.uk/courses/directory/cvphpdhpc){:target="_blank" rel="noopener"}</b>, University of Cambridge (expected)
-    </p>
-</details>
-
 education
 ======
 * **[BSc in Population Health Sciences](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/population-health-sciences-bsc){:target="_blank" rel="noopener"}** (Data Science specialism), University College London, 2022 (first class honours)
