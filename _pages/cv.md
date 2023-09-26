@@ -101,7 +101,6 @@ public engagement
     <summary><b>as an artist and designer</b></summary>
     <p>MSDUK, P4PPE</p>
 </details>
-<br>
 
 volunteering
 ======
