@@ -65,13 +65,21 @@ skills
   * critical appraisal
   * tools: Rayyan.ai
 * quantitative analysis
-  * descriptive statistics (incl. calculation and visualisation)
+  * descriptive statistics (incl. calculation and presentation)
   * regression (incl. linear, logistic, mixed, Poisson, Cox)
   * missing data (incl. classification, imputation)
   * software: R (incl. loops, custom function-building, and tidyverse), Stata
+* data visualisation
+  * conventional charts (incl. line, bar, pie, scatter)
+  * epidemiology-specific charts (incl. Manhattan plots, forest plots, funnel plots, shape plots)
+  * interactive visualisations (incl. maps, data stories)
+  * tools: Canva, Autodesk Sketchbook, plain old pen and paper!
+  * software: R (ggplot2 and various add-ons), Flourish, Tableau, Datawrapper, Microsoft Excel
 * graphic and website design
   * tools: Canva, WordPress
-  * software: HTML, CSS, JavaScript 
+  * software: HTML, CSS, JavaScript
+* team-working
+  * tools: Microsoft Office Suite, Google Suite, Notion, Slack, Trello, Miro,
 * languages
   * English (native speaker)
   * Mandarin (native speaker)
