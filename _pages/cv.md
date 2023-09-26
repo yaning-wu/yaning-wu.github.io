@@ -17,44 +17,44 @@ education
 
 academic awards and honours
 ======
-06/2023 | **NIHR PhD Studentship**. Awarded full scholarship from the NIHR for a 3-year PhD in blood donor health at the University of Cambridge.<br>
-05/2023 | **ESRC DTP Studentship**. Awarded full scholarship from the ESRC for a 3.5-year PhD in psychology at the University of Nottingham.<br>
-03/2023 | **ACRC Academy PhD Studentship**. Awarded full scholarship from the Advanced Care Research Centre for a 4-year PhD in ageing and care at the University of Edinburgh.<br>
-07/2022 | **Dean's List, 2021-22**. Awarded for outstanding academic performance by graduating students, equivalent to the top 5% of student achievement within the Faculty of Population Health Sciences.<br>
-09/2021 | **Undergraduate Scholarship for Excellence, Year 2** (£3,000). Awarded to the most academically outstanding second-year undergraduate student in the Faculty of Population Health Sciences.<br>
-09/2021 | **Year 2 Prize for Overall Academic Achievement**. Awarded to the highest-scoring student across all modules in the 2022-graduating BSc Population Health cohort.<br>
-07/2019 | **AP Scholar with Distinction**. Awarded to Advanced Placement (American A-level equivalent) candidates with excellent performance across five or more exams.
+* 06/2023 | **NIHR PhD Studentship**. Awarded full scholarship from the NIHR for a 3-year PhD in blood donor health at the University of Cambridge.
+* 05/2023 | **ESRC DTP Studentship**. Awarded full scholarship from the ESRC for a 3.5-year PhD in psychology at the University of Nottingham.
+* 03/2023 | **ACRC Academy PhD Studentship**. Awarded full scholarship from the Advanced Care Research Centre for a 4-year PhD in ageing and care at the University of Edinburgh.
+* 07/2022 | **Dean's List, 2021-22**. Awarded for outstanding academic performance by graduating students, equivalent to the top 5% of student achievement within the Faculty of Population Health Sciences.
+* 09/2021 | **Undergraduate Scholarship for Excellence, Year 2** (£3,000). Awarded to the most academically outstanding second-year undergraduate student in the Faculty of Population Health Sciences.
+* 09/2021 | **Year 2 Prize for Overall Academic Achievement**. Awarded to the highest-scoring student across all modules in the 2022-graduating BSc Population Health cohort.
+* 07/2019 | **AP Scholar with Distinction**. Awarded to Advanced Placement (American A-level equivalent) candidates with excellent performance across five or more exams.
 
 research experience
 ======
-* March - August 2023: **Research Student @ [Clinical Trials Service Unit](https://www.ctsu.ox.ac.uk/){:target="_blank" rel="noopener"}, University of Oxford**
+* 03/2023 - 08/2023: **Research Student @ [Clinical Trials Service Unit](https://www.ctsu.ox.ac.uk/){:target="_blank" rel="noopener"}, University of Oxford**
   * designed pheWAS study, conducted a literature review, ran analyses in R, and presented findings as part of MSc placement
   * drafted Lancet-style journal article for assessment
 
-* April - July 2021: **Research Assistant @ [Aceso Global Health Consultants](https://www.acesoghc.com/){:target="_blank" rel="noopener"}**
+* 04/2021 -  07/2021: **Research Assistant @ [Aceso Global Health Consultants](https://www.acesoghc.com/){:target="_blank" rel="noopener"}**
   * edited research protocols, conducted literature reviews, and developed interventions for a [RSPH-award-winning](https://www.arc-nt.nihr.ac.uk/news-and-events/2021/september/community-led-neon-programme-wins-rsph-award/){:target="_blank" rel="noopener"} [child nutrition RCT](https://www.acesoghc.com/neon){:target="_blank" rel="noopener"}
   * took meeting minutes and assisted research team with administrative tasks
 
-* October 2020 - March 2021: **Research Team Lead @ [Bentham Brooks Institute](https://benthambrooks.wixsite.com/home){:target="_blank" rel="noopener"}**
+* 10/2020 - 03/2021: **Research Team Lead @ [Bentham Brooks Institute](https://benthambrooks.wixsite.com/home){:target="_blank" rel="noopener"}**
   * led six-person team to conceptualise and publish paper linking personal protective equipment policies and healthcare worker mortality during COVID-19 in four high-income countries (cited in presentations to UK policymakers)
   * presented paper to interdisciplinary academic and student audience in 2021 research conference
 
 other work experience
 ======
-* July 2022: **Journalism Intern @ [Carbon Brief](https://www.carbonbrief.org/){:target="_blank" rel="noopener"}**
+* 07/2022: **Journalism Intern @ [Carbon Brief](https://www.carbonbrief.org/){:target="_blank" rel="noopener"}**
   * covered a [Nature paper](https://www.nature.com/articles/s41558-022-01401-w){:target="_blank" rel="noopener"} on migration and climate change (including interviewing lead author, Harvard Kennedy School Environmental Fellow [Dr Hélène Benveniste](https://www.helenebenveniste.com/){:target="_blank" rel="noopener"})
   * contributed to a media reaction piece about the summer 2022 UK heatwave on a tight deadline (and while melting)
   * drafted copy for two newsletters with worldwide reach
   * supported senior team members in designing and coding data visualisations of climate data using Highcharts, a Javascript library
   * designed [social media](https://www.instagram.com/p/CgcTxxkqcr2/?img_index=1){:target="_blank" rel="noopener"} and [website](https://www.carbonbrief.org/climate-change-will-make-it-harder-for-worlds-poorest-to-migrate-study-says/){:target="_blank" rel="noopener"} assets for published stories
  
-* July - November 2021; October 2021 - June 2022: **Services, Support, and Content Intern @ [Flourish](https://flourish.studio/){:target="_blank" rel="noopener"}** (part of the [Canva](https://www.canva.com/){:target="_blank" rel="noopener"} family)
+* 07/2021 - 11/2021; 10/2021 - 06/2022: **Services, Support, and Content Intern @ [Flourish](https://flourish.studio/){:target="_blank" rel="noopener"}** (part of the [Canva](https://www.canva.com/){:target="_blank" rel="noopener"} family)
   * designed data visualisations for clients such as Imperial College London, McKinsey, EY, YouGov, and the BBC
   * coded novel visualisation tools and "hacks" using HTML and CSS
   * responded to business and private customer queries in timely and professional manner
   * produced data visualisation and storytelling content for company website and socials
  
-* August - September 2021: **Research Assistant @ [The Equality Trust](https://equalitytrust.org.uk/){:target="_blank" rel="noopener"}**
+* 08/2021 - 09/2021: **Research Assistant @ [The Equality Trust](https://equalitytrust.org.uk/){:target="_blank" rel="noopener"}**
   * researched, analysed, and visualised data on the nature of economic inequality in the UK and other high-income countries with a focus on how protected characteristics
   * reviewed literature around economics, income and wealth inequality, and disability theory
 
