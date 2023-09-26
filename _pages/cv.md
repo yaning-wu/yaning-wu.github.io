@@ -17,13 +17,13 @@ education
 
 academic awards and honours
 ======
-* 06/2023 | **NIHR PhD Studentship**. Awarded full scholarship from the NIHR for a 3-year PhD in blood donor health at the University of Cambridge.
-* 05/2023 | **ESRC DTP Studentship**. Awarded full scholarship from the ESRC for a 3.5-year PhD in psychology at the University of Nottingham.
-* 03/2023 | **ACRC Academy PhD Studentship**. Awarded full scholarship from the Advanced Care Research Centre for a 4-year PhD in ageing and care at the University of Edinburgh.
-* 07/2022 | **Dean's List, 2021-22**. Awarded for outstanding academic performance by graduating students, equivalent to the top 5% of student achievement within the Faculty of Population Health Sciences.
-* 09/2021 | **Undergraduate Scholarship for Excellence, Year 2** (£3,000). Awarded to the most academically outstanding second-year undergraduate student in the Faculty of Population Health Sciences.
-* 09/2021 | **Year 2 Prize for Overall Academic Achievement**. Awarded to the highest-scoring student across all modules in the 2022-graduating BSc Population Health cohort.
-* 07/2019 | **AP Scholar with Distinction**. Awarded to Advanced Placement (American A-level equivalent) candidates with excellent performance across five or more exams.
+* 06/2023: **NIHR PhD Studentship**. Awarded full scholarship from the NIHR for a 3-year PhD in blood donor health at the University of Cambridge.
+* 05/2023: **ESRC DTP Studentship**. Awarded full scholarship from the ESRC for a 3.5-year PhD in psychology at the University of Nottingham.
+* 03/2023: **ACRC Academy PhD Studentship**. Awarded full scholarship from the Advanced Care Research Centre for a 4-year PhD in ageing and care at the University of Edinburgh.
+* 07/2022: **Dean's List, 2021-22**. Awarded for outstanding academic performance by graduating students, equivalent to the top 5% of student achievement within the Faculty of Population Health Sciences.
+* 09/2021: **Undergraduate Scholarship for Excellence, Year 2** (£3,000). Awarded to the most academically outstanding second-year undergraduate student in the Faculty of Population Health Sciences.
+* 09/2021: **Year 2 Prize for Overall Academic Achievement**. Awarded to the highest-scoring student across all modules in the 2022-graduating BSc Population Health cohort.
+* 07/2019: **AP Scholar with Distinction**. Awarded to Advanced Placement (American A-level equivalent) candidates with excellent performance across five or more exams.
 
 research experience
 ======
