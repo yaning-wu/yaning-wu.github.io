@@ -79,7 +79,7 @@ skills
   * tools: Canva, WordPress
   * software: HTML, CSS, JavaScript
 * team-working
-  * tools: Microsoft Office Suite, Google Suite, Notion, Slack, Trello, Miro,
+  * tools: Microsoft Office Suite, Google Suite, Notion, Slack, Trello, Miro, Calendly
 * languages
   * English (native speaker)
   * Mandarin (native speaker)
