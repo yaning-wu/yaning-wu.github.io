@@ -64,12 +64,18 @@ other work experience
 
 skills
 ======
-* Literature reviewing
+* Literature searching
+  * Systematic reviews
+  * Critical appraisal
+  * Tools: Rayyan.ai
 * Quantitative analysis
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Statistical coding
+  * Descriptive statistics (incl. calculation and visualisation)
+  * Regression (incl. linear, logistic, mixed, Poisson, Cox)
+  * Missing data (incl. classification, imputation)
+  * Software: R (incl. loops, custom function-building, and tidyverse), Stata
+* Graphic and website design
+  * Tools: Canva, WordPress
+  * Software: HTML, CSS, JavaScript 
 * Languages
   * English (native speaker)
   * Mandarin (native speaker)
