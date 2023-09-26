@@ -180,7 +180,8 @@ li ol {
 
 figure {
   display: -webkit-box;
-  display: inline-block;
+  display: flex;
+   align-items: center;
   -webkit-box-pack: justify;
           justify-content: space-between;
   -webkit-box-align: start;
@@ -239,6 +240,7 @@ figcaption {
   color: mix(#fff, $text-color, 25%);
   font-family: $global-font-family;
   font-size: $type-size-6;
+
 
   a {
     color: inherit;
