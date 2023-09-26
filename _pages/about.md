@@ -14,6 +14,6 @@ You can learn more about my academic, professional, and creative background by e
 
 Alternatively, if you're in Cambridge, come say hi at the Victor Phillip Dahdaleh Heart and Lung Research Institute ([HLRI](https://www.hlri.cam.ac.uk/){:target="_blank" rel="noopener"}) near Addenbrooke's Hospital 😀
 
-<a class="twitter-timeline" data-theme="light" href="https://twitter.com/DonatingBetter?ref_src=twsrc%5Etfw">Tweets by DonatingBetter</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+![hlri-cropped](https://github.com/donatingbetter/donatingbetter.github.io/assets/145920710/1f191c4d-391d-43d0-aa30-d71676eb8c1e)
 
 This website was built using the [Academic Pages template](https://academicpages.github.io/){:target="_blank" rel="noopener"}. 
