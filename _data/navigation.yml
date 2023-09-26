@@ -1,4 +1,4 @@
-# main links links
+# main links
 main:
   - title: "cv"
     url: /cv/
@@ -14,3 +14,7 @@ main:
   
   - title: "creative portfolio"
     url: /creative-portfolio/
+
+  - title: "daily dose of piano"
+    url: /daily-dose/
+    
