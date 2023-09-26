@@ -334,8 +334,3 @@ audio::-webkit-media-controls-panel {
   -webkit-justify-content: center;
   height: 15px;
 }
-
-/* removes the remaining time stamp */
-audio::-webkit-media-controls-time-remaining-display {
-  display: none;
-}
