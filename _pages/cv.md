@@ -43,8 +43,8 @@ other work experience
 ======
 * 07/2022: **Journalism Intern @ [Carbon Brief](https://www.carbonbrief.org/){:target="_blank" rel="noopener"}**
   * covered a [Nature paper](https://www.nature.com/articles/s41558-022-01401-w){:target="_blank" rel="noopener"} on migration and climate change (including interviewing lead author, Harvard Kennedy School Environmental Fellow [Dr Hélène Benveniste](https://www.helenebenveniste.com/){:target="_blank" rel="noopener"})
-  * contributed to a media reaction piece about the summer 2022 UK heatwave on a tight deadline (and while melting)
-  * drafted copy for two newsletters with worldwide reach
+  * contributed to a [media reaction piece](https://www.carbonbrief.org/media-reaction-uks-record-smashing-40c-heatwave-and-climate-change/){:target="_blank" rel="noopener"} about the summer 2022 UK heatwave on a tight deadline (and while melting)
+  * drafted copy for two [newsletters](https://www.carbonbrief.org/newsletter-sign-up/){:target="_blank" rel="noopener"} with worldwide reach
   * supported senior team members in designing and coding data visualisations of climate data using Highcharts, a Javascript library
   * designed [social media](https://www.instagram.com/p/CgcTxxkqcr2/?img_index=1){:target="_blank" rel="noopener"} and [website](https://www.carbonbrief.org/climate-change-will-make-it-harder-for-worlds-poorest-to-migrate-study-says/){:target="_blank" rel="noopener"} assets for published stories
  
@@ -60,9 +60,9 @@ other work experience
 
 skills
 ======
-* literature searching
-  * systematic reviews
-  * critical appraisal
+* literature reviewing
+  * systematic reviews (incl. search term identification, study screening, quality assurance)
+  * critical appraisal 
   * tools: Rayyan.ai
 * quantitative analysis
   * descriptive statistics (incl. calculation and presentation)
