@@ -67,11 +67,17 @@ skills
 
 publications
 ======
-see [here](https://donatingbetter.github.io/publications/){:target="_blank" rel="noopener"}.
+**2021**<br>
+<b>Wu Y</b> et al. Keeping Our Frontline Safe: Linking personal protective equipment policies and healthcare worker mortality in the United Kingdom, United States, Germany, and New Zealand. Bentham Brooks Institute Research Journal, 2021, 1(1):125–189. Available [here](https://issuu.com/ucleuropeanhorizons/docs/final_bbi_global_health__new__1){:target="_blank" rel="noopener"}.
+
+*You can also find my publications on my [Google Scholar profile](https://scholar.google.co.uk/citations?user=BfQsB3gAAAAJ&hl=en){:target="_blank" rel="noopener"}.*
   
 talks
 ======
-see [here](https://donatingbetter.github.io/talks/){:target="_blank" rel="noopener"}.
+**2021**<br>
+17/06/2021 | Individual presentation at UCL's 2021 [R Project Showcase](https://www.ucl.ac.uk/research/domains/eresearch/developing-technical-skills-good-practice-careers/develop-better-research-software-0#Research){:target="_blank" rel="noopener"}: **Can you hear the sirens? Presenting ambulance response patterns during a coronavirus surge using multimedia**. Based on [this](https://wmjlwuh.medium.com/can-you-hear-the-sirens-61fe05efb1eb){:target="_blank" rel="noopener"} blog post. Abstract [here](https://www.ellenwebborn.com/pdf/Abstracts_v03.pdf){:target="_blank" rel="noopener"}. 
+<br><br>
+21/03/2021 | Research team presentation at the Bentham Brooks Institute Research Conference: **Keeping our frontline safe: Linking personal protective equipment policies and healthcare worker mortality in the United Kingdom, United States, Germany, and New Zealand**. Recording [here](https://www.youtube.com/watch?v=Gw9sNWdPD4E){:target="_blank" rel="noopener"}. 
   
 leadership
 ======
