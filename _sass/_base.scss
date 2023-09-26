@@ -327,23 +327,15 @@ audio::-webkit-media-controls-panel {
 
 audio {
   width: 115px;
-  height: 25px;
+  height: 15px;
 }
 
 audio::-webkit-media-controls-panel {
   -webkit-justify-content: center;
-  height: 25px;
+  height: 15px;
 }
 
-/* removes the timeline */
-audio::-webkit-media-controls-timeline {
-  display: none !important;
-}
-
-/* removes the time stamp */
-audio::-webkit-media-controls-current-time-display {
-  display: none;
-}
+/* removes the remaining time stamp */
 audio::-webkit-media-controls-time-remaining-display {
   display: none;
 }
