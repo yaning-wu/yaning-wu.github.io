@@ -12,7 +12,7 @@ I'm Yaning (she/her), a PhD student at the University of Cambridge. My research 
 
 You can learn more about my academic, professional, and creative background by exploring this site. If you'd like to discuss potential collaborations, make a suggestion, or talk about the weather, please get in touch via the sidebar links!
 
-Alternatively, if you're in Cambridge, come say hi at the Victor Phillip Dahdaleh Heart and Lung Research Institute ([HLRI](https://www.hlri.cam.ac.uk/){:target="_blank" rel="noopener"}) near Addenbrooke's Hospital 😀
+Alternatively, if you're in Cambridge, come say hi at the Victor Phillip Dahdaleh Heart and Lung Research Institute ([HLRI](https://www.hlri.cam.ac.uk/){:target="_blank" rel="noopener"}) near Addenbrooke's Hospital 😀⬇️
 
 ![hlri-cropped](https://github.com/donatingbetter/donatingbetter.github.io/assets/145920710/1f191c4d-391d-43d0-aa30-d71676eb8c1e)
 
