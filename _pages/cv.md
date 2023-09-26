@@ -60,19 +60,19 @@ other work experience
 
 skills
 ======
-* Literature searching
-  * Systematic reviews
-  * Critical appraisal
-  * Tools: Rayyan.ai
-* Quantitative analysis
-  * Descriptive statistics (incl. calculation and visualisation)
-  * Regression (incl. linear, logistic, mixed, Poisson, Cox)
-  * Missing data (incl. classification, imputation)
-  * Software: R (incl. loops, custom function-building, and tidyverse), Stata
-* Graphic and website design
-  * Tools: Canva, WordPress
-  * Software: HTML, CSS, JavaScript 
-* Languages
+* literature searching
+  * systematic reviews
+  * critical appraisal
+  * tools: Rayyan.ai
+* quantitative analysis
+  * descriptive statistics (incl. calculation and visualisation)
+  * regression (incl. linear, logistic, mixed, Poisson, Cox)
+  * missing data (incl. classification, imputation)
+  * software: R (incl. loops, custom function-building, and tidyverse), Stata
+* graphic and website design
+  * tools: Canva, WordPress
+  * software: HTML, CSS, JavaScript 
+* languages
   * English (native speaker)
   * Mandarin (native speaker)
   * French ([CEFR](https://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale){:target="_blank" rel="noopener"} B1/2)
