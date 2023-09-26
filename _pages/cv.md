@@ -50,7 +50,7 @@ other work experience
   * contributed to a media reaction piece about the summer 2022 UK heatwave on a tight deadline (and while melting)
   * drafted copy for two newsletters with worldwide reach
   * supported senior team members in designing and coding data visualisations of climate data using Highcharts, a Javascript library
-  * designed [social media](https://www.instagram.com/p/CgcTxxkqcr2/?img_index=1){:target="_blank" rel="noopener"} and website assets for published stories
+  * designed [social media](https://www.instagram.com/p/CgcTxxkqcr2/?img_index=1){:target="_blank" rel="noopener"} and [website](https://www.carbonbrief.org/climate-change-will-make-it-harder-for-worlds-poorest-to-migrate-study-says/){:target="_blank" rel="noopener"} assets for published stories
  
 * July - November 2021; October 2021 - June 2022: **Services, Support, and Content Intern @ [Flourish](https://flourish.studio/){:target="_blank" rel="noopener"}** (part of the [Canva](https://www.canva.com/){:target="_blank" rel="noopener"} family)
   * designed data visualisations for clients such as Imperial College London, McKinsey, EY, YouGov, and the BBC
