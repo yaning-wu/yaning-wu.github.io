@@ -24,7 +24,7 @@ academic awards and honours
 * 09/2021: **Undergraduate Scholarship for Excellence, Year 2**. Awarded to the most academically outstanding 2022-graduating student in the BSc programme. £3 000.
 * 09/2021: **Year 2 Prize for Overall Academic Achievement**. Awarded to the highest-scoring student across all modules in the 2022-graduating BSc Population Health cohort.
 * 07/2019: **AP Scholar with Distinction**. Awarded to Advanced Placement (American A-level equivalent) candidates with excellent performance across five or more exams.
-* * 06/2019: **Highest Honours**. Awarded to students in the top 10% of my high school's graduating class.
+* * 06/2019: **Highest Honours**. Awarded to students in the top 10% of my high school's 2019 graduating class.
 
 research experience
 ======
