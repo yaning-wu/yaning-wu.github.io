@@ -42,8 +42,9 @@ research experience
 skills
 ======
 * study design (incl. cross-sectional, case-control, cohort, and trial designs)
-  * participant recruitment (incl. power calculations)
-  * protocol and proposal drafting 
+  * research question formulation
+  * protocol and proposal drafting (incl. power calculations)
+  * project management (incl. diverse stakeholder liaison)
 * literature reviewing
   * systematic reviews (incl. search term identification, study screening, quality assurance)
   * critical appraisal 
