@@ -48,10 +48,8 @@ skills
 * study design (incl. cross-sectional, case-control, cohort, and trial designs)
   * research question formulation
   * protocol and proposal drafting (incl. power calculations)
-  * project management (incl. diverse stakeholder liaison)
-* literature reviewing
-  * systematic reviews (incl. search term identification, study screening, quality assurance)
-  * critical appraisal 
+  * literature reviewing (incl. search term identification, study screening, critical appraisal)
+  * project management (incl. diverse stakeholder liaison) 
   * tools: Rayyan.ai
 * quantitative analysis
   * descriptive statistics (incl. calculation and presentation)
@@ -65,6 +63,7 @@ skills
   * tools: Canva, Autodesk Sketchbook, plain old pen and paper!
   * software: R (ggplot2 and various add-ons), Flourish, Tableau, Datawrapper, Microsoft Excel
 * graphic and website design
+  * Instagram, Twitter, Facebook, LinkedIn assets
   * tools: Canva, WordPress
   * software: HTML, CSS, JavaScript
 * team-working
