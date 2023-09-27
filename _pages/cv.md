@@ -39,27 +39,11 @@ research experience
   * led six-person team to conceptualise and publish paper linking personal protective equipment policies and healthcare worker mortality during COVID-19 in four high-income countries (cited in presentations to UK policymakers)
   * presented paper to interdisciplinary academic and student audience in 2021 research conference
 
-other work experience
-======
-* 07/2022: **Journalism Intern @ [Carbon Brief](https://www.carbonbrief.org/){:target="_blank" rel="noopener"}**
-  * covered a [Nature paper](https://www.nature.com/articles/s41558-022-01401-w){:target="_blank" rel="noopener"} on migration and climate change (including interviewing lead author, Harvard Kennedy School Environmental Fellow [Dr Hélène Benveniste](https://www.helenebenveniste.com/){:target="_blank" rel="noopener"})
-  * contributed to a [media reaction piece](https://www.carbonbrief.org/media-reaction-uks-record-smashing-40c-heatwave-and-climate-change/){:target="_blank" rel="noopener"} about the summer 2022 UK heatwave on a tight deadline (and while melting)
-  * drafted copy for two [newsletters](https://www.carbonbrief.org/newsletter-sign-up/){:target="_blank" rel="noopener"} with worldwide reach
-  * supported senior team members in designing and coding data visualisations of climate data using Highcharts, a Javascript library
-  * designed [social media](https://www.instagram.com/p/CgcTxxkqcr2/?img_index=1){:target="_blank" rel="noopener"} and [website](https://www.carbonbrief.org/climate-change-will-make-it-harder-for-worlds-poorest-to-migrate-study-says/){:target="_blank" rel="noopener"} assets for published stories
- 
-* 07/2021 - 11/2021; 10/2021 - 06/2022: **Services, Support, and Content Intern @ [Flourish](https://flourish.studio/){:target="_blank" rel="noopener"}** (part of the [Canva](https://www.canva.com/){:target="_blank" rel="noopener"} family)
-  * designed data visualisations for clients such as Imperial College London, McKinsey, EY, YouGov, and the BBC
-  * coded novel visualisation tools and "hacks" using HTML and CSS
-  * responded to business and private customer queries in timely and professional manner
-  * produced data visualisation and storytelling content for company website and socials
- 
-* 08/2021 - 09/2021: **Research Assistant @ [The Equality Trust](https://equalitytrust.org.uk/){:target="_blank" rel="noopener"}**
-  * researched, analysed, and visualised data on the nature of economic inequality in the UK and other high-income countries with a focus on how protected characteristics
-  * reviewed literature around economics, income and wealth inequality, and disability theory
-
 skills
 ======
+* study design (incl. cross-sectional, case-control, cohort, and trial designs)
+  * participant recruitment (incl. power calculations)
+  * protocol and proposal drafting 
 * literature reviewing
   * systematic reviews (incl. search term identification, study screening, quality assurance)
   * critical appraisal 
@@ -85,6 +69,25 @@ skills
   * Mandarin (native speaker)
   * French ([CEFR](https://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale){:target="_blank" rel="noopener"} B1/2)
   * Egyptian colloquial Arabic (enough to get by in Cairo)
+    
+other work experience
+======
+* 07/2022: **Journalism Intern @ [Carbon Brief](https://www.carbonbrief.org/){:target="_blank" rel="noopener"}**
+  * covered a [Nature paper](https://www.nature.com/articles/s41558-022-01401-w){:target="_blank" rel="noopener"} on migration and climate change (including interviewing lead author, Harvard Kennedy School Environmental Fellow [Dr Hélène Benveniste](https://www.helenebenveniste.com/){:target="_blank" rel="noopener"})
+  * contributed to a [media reaction piece](https://www.carbonbrief.org/media-reaction-uks-record-smashing-40c-heatwave-and-climate-change/){:target="_blank" rel="noopener"} about the summer 2022 UK heatwave on a tight deadline (and while melting)
+  * drafted copy for two [newsletters](https://www.carbonbrief.org/newsletter-sign-up/){:target="_blank" rel="noopener"} with worldwide reach
+  * supported senior team members in designing and coding data visualisations of climate data using Highcharts, a Javascript library
+  * designed [social media](https://www.instagram.com/p/CgcTxxkqcr2/?img_index=1){:target="_blank" rel="noopener"} and [website](https://www.carbonbrief.org/climate-change-will-make-it-harder-for-worlds-poorest-to-migrate-study-says/){:target="_blank" rel="noopener"} assets for published stories
+ 
+* 07/2021 - 11/2021; 10/2021 - 06/2022: **Services, Support, and Content Intern @ [Flourish](https://flourish.studio/){:target="_blank" rel="noopener"}** (part of the [Canva](https://www.canva.com/){:target="_blank" rel="noopener"} family)
+  * designed data visualisations for clients such as Imperial College London, McKinsey, EY, YouGov, and the BBC
+  * coded novel visualisation tools and "hacks" using HTML and CSS
+  * responded to business and private customer queries in timely and professional manner
+  * produced data visualisation and storytelling content for company website and socials
+ 
+* 08/2021 - 09/2021: **Research Assistant @ [The Equality Trust](https://equalitytrust.org.uk/){:target="_blank" rel="noopener"}**
+  * researched, analysed, and visualised data on the nature of economic inequality in the UK and other high-income countries with a focus on how protected characteristics
+  * reviewed literature around economics, income and wealth inequality, and disability theory
 
 publications
 ======
