@@ -43,25 +43,33 @@ research experience
   * led six-person team to conceptualise and publish paper linking personal protective equipment policies and healthcare worker mortality during COVID-19 in four high-income countries (cited in presentations to UK policymakers)
   * presented paper to interdisciplinary academic and student audience in 2021 research conference
 
-skills
+skills and proficiencies
 ======
 * study design (incl. cross-sectional, case-control, cohort, and trial designs)
   * research question formulation
-  * protocol and proposal drafting (incl. power calculations)
+  * protocol and proposal drafting
+  * sample size and power calculations
   * literature reviewing (incl. search term identification, study screening, critical appraisal)
   * project management (incl. diverse stakeholder liaison) 
   * tools: Rayyan.ai
-* quantitative analysis
+* quantitative research methods
   * descriptive statistics (incl. calculation and presentation)
   * regression (incl. linear, logistic, mixed, Poisson, Cox)
   * missing data (incl. classification, imputation)
+  * causal inference (incl. instrumental variables, regression discontinuity, synthetic controls)
+  * classification (incl. measurement error, supervised and unsupervised machine learning) 
+  * spatial analysis (incl. clustering, autocorrelation)
   * software: R (incl. loops, custom function-building, and tidyverse), Stata
+* qualitative research methods
+  * qualitative and mixed-methods study designs
+  * focus group planning, topic guide drafting
+  * thematic and content analysis
 * data visualisation
   * conventional charts (incl. line, bar, pie, scatter)
   * epidemiology-specific charts (incl. Manhattan plots, forest plots, funnel plots, shape plots)
-  * interactive visualisations (incl. maps, data stories)
-  * tools: Canva, Autodesk Sketchbook, plain old pen and paper!
-  * software: R (ggplot2 and various add-ons), Flourish, Tableau, Datawrapper, Microsoft Excel
+  * interactive visualisations (incl. maps, multimedia data stories)
+  * tools: Canva, Autodesk Sketchbook, Flourish, Tableau, Datawrapper, Microsoft Excel, plain old pen and paper!
+  * software: R (ggplot2 and various add-ons)
 * graphic and website design
   * Instagram, Twitter, Facebook, LinkedIn assets
   * tools: Canva, WordPress
