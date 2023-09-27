@@ -7,27 +7,29 @@ author_profile: true
 
 {% include base_path %}
 
-<details>
-    <summary><b>as a patient and member of the public</b></summary>
-    <p>SAUK, PPIE, arts council england, CG Scolio, BTRU + other studies</p>
-</details>
-<details>
-    <summary><b>as a researcher</b></summary>
-    <p>WordSmith, emBRACE</p>
-</details>
-<details>
-    <summary><b>as a community organiser</b></summary>
-    <p>Blossoming Wards</p>
-</details>
-<details>
-    <summary><b>as an artist and designer</b></summary>
-    <p>MSDUK, P4PPE</p>
-</details>
+I often ponder what defines a member of the public, a patient, and a researcher or "expert" ... 
 
+I've blurred those lines during my studies, so here are some of my experiences engaging with diverse stakeholders in and outside of academia.
 
+as a patient/public contributor
+======
+* Josh Wiggett + RNOH PPIE
+* SAUK guest articles
+* CG Scolio
+* Arts Council England play
+* BTRU studies + other research involvement
 
+as a researcher
+======
 * WordSmith
-* scolio assoc/curvygirls
+* emBRACE (defunct)
+
+as a community organiser
+======
 * Blossoming Wards
+
+as an artist and designer
+======
 * MedSupplyDrive UK
-* PPIE involvement
+* Portraits For PPE
+* Bridge India
