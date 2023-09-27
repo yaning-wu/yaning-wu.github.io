@@ -55,7 +55,7 @@ skills and proficiencies
 * quantitative research methods
   * descriptive statistics (incl. calculation and presentation)
   * regression (incl. linear, logistic, mixed, Poisson, Cox)
-  * missing data (incl. classification, imputation)
+  * missing data (incl. characterisation, imputation)
   * causal inference (incl. instrumental variables, regression discontinuity, synthetic controls)
   * classification (incl. measurement error, supervised and unsupervised machine learning) 
   * spatial analysis (incl. clustering, autocorrelation)
