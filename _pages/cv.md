@@ -18,7 +18,7 @@ education
 academic awards and honours
 ======
 * 06/2023: **NIHR PhD Studentship**. Awarded full scholarship from the NIHR for a 3-year PhD in blood donor health at the University of Cambridge.
-* 05/2023: **ESRC DTP Studentship** (unused). Awarded full scholarship from the ESRC for a 3.5-year PhD in psychology at the University of Nottingham.
+* 05/2023: **ESRC DTP Studentship** (unused). Awarded full scholarship from the ESRC for a 3.5-year PhD in health psychology at the University of Nottingham.
 * 03/2023: **ACRC Academy PhD Studentship** (unused). Awarded full scholarship from the Advanced Care Research Centre for a 4-year PhD in ageing and care at the University of Edinburgh.
 * 07/2022: **Dean's List, 2021-22**. Awarded for outstanding academic performance by 2022 graduates, equivalent to the top 5% of student achievement within the Faculty of Population Health Sciences.
 * 09/2021: **Undergraduate Scholarship for Excellence, Year 2** (£3,000). Awarded to the most academically outstanding 2022-graduating student in the BSc programme.
