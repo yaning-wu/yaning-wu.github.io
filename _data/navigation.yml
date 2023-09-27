@@ -3,8 +3,8 @@ main:
   - title: "cv"
     url: /cv/
 
-#  - title: "public engagement"
-#    url: /public-engagement/    
+  - title: "public engagement"
+    url: /public-engagement/    
   
   - title: "creative portfolio"
     url: /creative-portfolio/
