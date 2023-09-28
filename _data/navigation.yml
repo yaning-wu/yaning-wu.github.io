@@ -8,6 +8,10 @@ main:
   
   - title: "creative portfolio"
     url: /creative-portfolio/
+    subfolderitems:
+    - name: "visual art"
+        url: /visual-art/
+        weight: 2
 
   - title: "piano @ royal papworth hospital"
     url: /piano-rph/
