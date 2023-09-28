@@ -8,7 +8,7 @@ author_profile: true
 
 <details>
 <summary><b>visual art</b></summary>
-{% highlight ruby %}
+  
 ![IMG_4845](https://github.com/yaning-wu/yaning-wu.github.io/assets/145920710/0ab8bbf2-55e3-461f-830d-2d54af8150df)
 <br><br>
 _**good girl**_, 2023. Ink on A4 sketchbook paper and digital drawing. Produced for mom's birthday.
@@ -63,7 +63,8 @@ _**left behind**_, 2018. Graphite on A4 card.
 ![IMG_2024](https://github.com/yaning-wu/yaning-wu.github.io/assets/145920710/64005da6-395d-4446-b842-f62eb0e2cb07)
 <br><br>
 _**self-portrait**_, 2017. Graphite on A4 card.
-{% endhighlight %}
+
+</details>
 
 ## multimedia pieces
 ...
