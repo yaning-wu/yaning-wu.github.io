@@ -17,7 +17,7 @@ author_profile: true
 ...
 
 ### social art
-![IMG_2451](https://github.com/donatingbetter/donatingbetter.github.io/assets/145920710/d3d1b244-7ad1-4072-be65-01625aa8941f)
+![IMG_2451](https://github.com/donatingbetter/yaning-wu.github.io/assets/145920710/d3d1b244-7ad1-4072-be65-01625aa8941f)
 
 
 
