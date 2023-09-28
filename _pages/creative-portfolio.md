@@ -64,15 +64,20 @@ author_profile: true
 <b><i>self-portrait</i></b>, 2017. Graphite on A4 card.
 </details> 
 
-## multimedia pieces
-...
+<details>
+  <summary><b>multimedia stories</b></summary> 
+xxx
+</details> 
 
-## poetry
-...
+<details>
+  <summary><b>poetry</b></summary> 
+xxx
+</details>
 
-## data visualisation
-...
-
+<details>
+  <summary><b>data visualisation</b></summary> 
+xxx
+</details>
 
 
 
