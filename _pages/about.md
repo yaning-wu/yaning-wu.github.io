@@ -14,6 +14,6 @@ You can learn more about my **academic**, **professional**, and **creative** bac
 
 Alternatively, if you're in Cambridge, come say hi at the Victor Phillip Dahdaleh Heart and Lung Research Institute ([HLRI](https://www.hlri.cam.ac.uk/){:target="_blank" rel="noopener"}) near Addenbrooke's Hospital 😀⬇️
 
-![hlri-cropped](https://github.com/donatingbetter/yaning-wu.github.io/assets/145920710/1f191c4d-391d-43d0-aa30-d71676eb8c1e)
+![hlri-cropped](https://github.com/yaning-wu/yaning-wu.github.io/assets/145920710/27efc361-6b76-4e28-9754-ae151afcb43e)
 
 This website was built using the [Academic Pages template](https://academicpages.github.io/){:target="_blank" rel="noopener"}. 
