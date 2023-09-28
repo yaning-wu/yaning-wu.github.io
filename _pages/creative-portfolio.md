@@ -21,7 +21,7 @@ author_profile: true
 <br><br>
 <img src="../images/xxx" alt="xxx">
 <br><br>
-<b><i>初一</i></b>, 2022.
+<b><i>初一</i></b>, 2022. Ink on printer paper.
 <br><br>
 <img src="../images/xxx" alt="xxx">
 <br><br>
