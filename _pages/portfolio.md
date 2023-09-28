@@ -5,19 +5,19 @@ permalink: /creative-portfolio/
 author_profile: true
 ---
 
-## visual art
+### visual art
 ...
 
-## multimedia pieces
+### multimedia pieces
 ...
 
-## poetry
+### poetry
 ...
 
-## data visualisation
+### data visualisation
 ...
 
-## social art
+### social art
 ![IMG_2451](https://github.com/donatingbetter/donatingbetter.github.io/assets/145920710/d3d1b244-7ad1-4072-be65-01625aa8941f)
 
 
