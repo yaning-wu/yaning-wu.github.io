@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <details>
-  <summary><h2>visual art</h2></summary>
+  <summary><b><visual art</b></summary>
 <img src="../images/good girl.jpeg" alt="xxx">
 <br><br>
 <b><i>good girl</i></b>, 2023. Ink on A4 sketchbook paper and digital drawing. Produced for mom's birthday.
