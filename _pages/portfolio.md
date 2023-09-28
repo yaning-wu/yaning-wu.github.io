@@ -5,9 +5,8 @@ permalink: /creative-portfolio/
 author_profile: true
 ---
 
-<details>
-  <summary><h2>visual art</h2></summary>
-  ![IMG_4845](https://github.com/yaning-wu/yaning-wu.github.io/assets/145920710/0ab8bbf2-55e3-461f-830d-2d54af8150df)
+## multimedia pieces
+![IMG_4845](https://github.com/yaning-wu/yaning-wu.github.io/assets/145920710/0ab8bbf2-55e3-461f-830d-2d54af8150df)
 <br><br>
 _**good girl**_, 2023. Ink on A4 sketchbook paper and digital drawing. Produced for mom's birthday.
 <br><br>
@@ -61,8 +60,6 @@ _**left behind**_, 2018. Graphite on A4 card.
 ![IMG_2024](https://github.com/yaning-wu/yaning-wu.github.io/assets/145920710/64005da6-395d-4446-b842-f62eb0e2cb07)
 <br><br>
 _**self-portrait**_, 2017. Graphite on A4 card.
-
-</details>
 
 ## multimedia pieces
 ...
