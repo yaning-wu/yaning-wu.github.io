@@ -6,60 +6,62 @@ author_profile: true
 ---
 
 ## visual art
-![IMG_4845](https://github.com/yaning-wu/yaning-wu.github.io/assets/145920710/0ab8bbf2-55e3-461f-830d-2d54af8150df)
 <br><br>
-_**good girl**_, 2023. Ink on A4 sketchbook paper and digital drawing. Produced for mom's birthday.
+<img src="../images/xxx" alt="xxx">
 <br><br>
-![IMG_3923](https://github.com/yaning-wu/yaning-wu.github.io/assets/145920710/1e782918-30b9-4f46-bdcb-246482e67a9b)
-_**bridge of sighs**_, 2023. Ink on A5 card and limited prints.
+<b><i>good girl</i></b>, 2023. Ink on A4 sketchbook paper and digital drawing. Produced for mom's birthday.
 <br><br>
-![IMG_0368](https://github.com/yaning-wu/yaning-wu.github.io/assets/145920710/2ac140a2-7310-4c62-a81e-ab0a40608679)
+<img src="../images/xxx" alt="xxx">
 <br><br>
-_**the gentleman**_, 2023. Ink and highlighter on postcard. Produced in support of Sobell House Hospice's [art auction](https://sobellhouse.org/get-involved/my-lovely-postcards/){:target="_blank" rel="noopener"} to fundraise for hospice care training for nurses.
+<b><i>bridge of sighs</i></b>, 2023. Ink on A5 card and limited prints.
 <br><br>
-![IMG_6860](https://github.com/yaning-wu/yaning-wu.github.io/assets/145920710/ecaa6614-6c4e-41ec-89a1-fed9e989c041)
+<img src="../images/xxx" alt="xxx">
 <br><br>
-_**初一**_, 2022.
+<b><i>the gentleman</i></b>, 2023. Ink and highlighter on postcard. Produced in support of Sobell House Hospice's [art auction](https://sobellhouse.org/get-involved/my-lovely-postcards/){:target="_blank" rel="noopener"} to fundraise for hospice care training for nurses.
 <br><br>
-![IMG_3574 2](https://github.com/yaning-wu/yaning-wu.github.io/assets/145920710/6ffb0c0b-badd-48df-8251-0a3f893585c6)
+<img src="../images/xxx" alt="xxx">
 <br><br>
-_**birchington-on-sea**_, 2021. Ink on A4 card. 
+<b><i>初一</i></b>, 2022.
 <br><br>
-![28E7C031-45D9-40EB-A7BE-17D5D8BD9F3C](https://github.com/yaning-wu/yaning-wu.github.io/assets/145920710/0d42bd53-1102-4fc3-a305-2ec8fb073611)
+<img src="../images/xxx" alt="xxx">
 <br><br>
-_**two boys**_, 2020. Ink on A4 card. Produced in support of MedSupplyDrive UK's [art auction](https://www.youtube.com/watch?v=gPJOg4k1Zp4){:target="_blank" rel="noopener"} to fundraise for protective equipment for healthcare workers during COVID-19.
+<b><i>birchington-on-sea</i></b>, 2021. Ink on A4 card. 
 <br><br>
-![IMG_6282](https://github.com/yaning-wu/yaning-wu.github.io/assets/145920710/4ed653f1-5e02-413f-9772-ab21ffbe4659)
+<img src="../images/xxx" alt="xxx">
 <br><br>
-_**lights will guide you home**_, 2020. Ink on A4 card and limited prints.
+<b><i>two boys</i></b>, 2020. Ink on A4 card. Produced in support of MedSupplyDrive UK's [art auction](https://www.youtube.com/watch?v=gPJOg4k1Zp4){:target="_blank" rel="noopener"} to fundraise for protective equipment for healthcare workers during COVID-19.
 <br><br>
-![IMG_6003](https://github.com/yaning-wu/yaning-wu.github.io/assets/145920710/eaf3eda7-5920-4669-969c-23c9f0a33213)
+<img src="../images/xxx" alt="xxx">
 <br><br>
-_**al-qahira**_, 2019. Ink on A3 card.
+<b><i>lights will guide you home</i></b>, 2020. Ink on A4 card and limited prints.
 <br><br>
-![IMG_7009 2](https://github.com/yaning-wu/yaning-wu.github.io/assets/145920710/7ae5f6eb-a20f-4ddb-9e10-1231ff9e8551)
+<img src="../images/xxx" alt="xxx">
 <br><br>
-_**bent, not broken**_, 2019. Ink on A3 card.
+<b><i>al-qahira</i></b>, 2019. Ink on A3 card.
 <br><br>
-![104462086_690458524842039_4555151966300466531_n](https://github.com/yaning-wu/yaning-wu.github.io/assets/145920710/1bb9a7e0-6b57-4cfd-8248-5fd944bb7e6a)
+<img src="../images/xxx" alt="xxx">
 <br><br>
-_**profit over patient**_, 2019. Ink, graphite, and colour pencil on A3 card.
+<b><i>bent, not broken</i></b>, 2019. Ink on A3 card.
 <br><br>
-![IMG_7008](https://github.com/yaning-wu/yaning-wu.github.io/assets/145920710/44aa41fd-503b-4ec1-8807-6c5b2a1c5268)
+<img src="../images/xxx" alt="xxx">
 <br><br>
-_**patient journey**_, 2019. Marker and ink on A3 card.
+<b><i>profit over patient</i></b>, 2019. Ink, graphite, and colour pencil on A3 card.
 <br><br>
-![IMG_6004](https://github.com/yaning-wu/yaning-wu.github.io/assets/145920710/bfae9e34-df40-4796-91d3-af2fb16b6b86)
+<img src="../images/xxx" alt="xxx">
 <br><br>
-_**cultural field studies**_, 2018. Ink, marker, and colour pencil on A3 card.
+<b><i>patient journey</i></b>, 2019. Marker and ink on A3 card.
 <br><br>
-![IMG_5178](https://github.com/yaning-wu/yaning-wu.github.io/assets/145920710/58bcddc9-84a3-4789-94c1-7be334ed8ccb)
+<img src="../images/xxx" alt="xxx">
 <br><br>
-_**left behind**_, 2018. Graphite on A4 card.
+<b><i>cultural field studies</i></b>, 2018. Ink, marker, and colour pencil on A3 card.
 <br><br>
-![IMG_2024](https://github.com/yaning-wu/yaning-wu.github.io/assets/145920710/64005da6-395d-4446-b842-f62eb0e2cb07)
+<img src="../images/xxx" alt="xxx">
 <br><br>
-_**self-portrait**_, 2017. Graphite on A4 card.
+<b><i>left behind</i></b>, 2018. Graphite on A4 card.
+<br><br>
+<img src="../images/xxx" alt="xxx">
+<br><br>
+<b><i>self-portrait</i></b>, 2017. Graphite on A4 card.
 
 ## multimedia pieces
 ...
