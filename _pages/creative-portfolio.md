@@ -5,9 +5,10 @@ permalink: /creative-portfolio/
 author_profile: true
 ---
 
-## visual art
-<br><br>
-<img src="../images/xxx" alt="xxx">
+<details>
+  <summary><h2>visual art</h2></summary>
+</details> 
+<img src="../images/good girl.jpeg" alt="xxx">
 <br><br>
 <b><i>good girl</i></b>, 2023. Ink on A4 sketchbook paper and digital drawing. Produced for mom's birthday.
 <br><br>
