@@ -66,7 +66,7 @@ author_profile: true
 
 <details>
   <summary><b>multimedia stories</b></summary> 
-xxx
+  <video src=”../videos/tu-es-tout.mp4” controls></video>
 </details> 
 
 <details>
