@@ -26,7 +26,7 @@ _**birchington-on-sea**_, 2021. Ink on A4 card.
 <br><br>
 ![28E7C031-45D9-40EB-A7BE-17D5D8BD9F3C](https://github.com/yaning-wu/yaning-wu.github.io/assets/145920710/0d42bd53-1102-4fc3-a305-2ec8fb073611)
 <br><br>
-_**two boys**_, 2020. Ink on A4 card. Produced in support of MedSupplyDrive UK's art auction to fundraise for protective equipment for healthcare workers during COVID-19.
+_**two boys**_, 2020. Ink on A4 card. Produced in support of MedSupplyDrive UK's [art auction](https://www.youtube.com/watch?v=gPJOg4k1Zp4){:target="_blank" rel="noopener"} to fundraise for protective equipment for healthcare workers during COVID-19.
 <br><br>
 ![IMG_6282](https://github.com/yaning-wu/yaning-wu.github.io/assets/145920710/4ed653f1-5e02-413f-9772-ab21ffbe4659)
 <br><br>
