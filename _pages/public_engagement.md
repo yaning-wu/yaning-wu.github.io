@@ -7,16 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
-I often ponder what defines a member of the public, a patient, and a researcher or "expert" ... 
-
-I can never be sure, and I blur those lines myself. What I do know, though, is that public engagement skills are crucial for any researcher, so here are some of my experiences working with diverse stakeholders in and outside of academia.
+I often blur the lines between my identities as a researcher, a patient, and a member of the public. Here are some of my experiences navigating those identities in and outside of academia! 
 
 ### as a patient/public contributor
 * Josh Wiggett + RNOH PPIE
 * SAUK guest articles
 * CG Scolio
 * Arts Council England play
-* BTRU studies + other research involvement
 
 ### as a researcher
 * WordSmith
@@ -29,3 +26,4 @@ I can never be sure, and I blur those lines myself. What I do know, though, is t
 * MedSupplyDrive UK
 * Portraits For PPE
 * Bridge India
+* blood donor advocacy
