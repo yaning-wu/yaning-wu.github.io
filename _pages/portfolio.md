@@ -4,9 +4,7 @@ title: "creative portfolio"
 permalink: /creative-portfolio/
 author_profile: true
 ---
-### visual art
-
-
+## visual art
 ![IMG_0368](https://github.com/yaning-wu/yaning-wu.github.io/assets/145920710/2ac140a2-7310-4c62-a81e-ab0a40608679)
 <br>
 _**The Gentleman**_, 2023. Ink and highlighter on postcard. Produced in support of Sobell House Hospice's art auction to fundraise for hospice care training for nurses.
@@ -34,13 +32,13 @@ _**Cultural field studies**_, 2018. Ink, marker, and colour pencil on A3 card.
 <br>
 _**Left behind**_, 2018. Graphite on A4 card.
 
-### multimedia pieces
+## multimedia pieces
 ...
 
-### poetry
+## poetry
 ...
 
-### data visualisation
+## data visualisation
 ...
 
 
