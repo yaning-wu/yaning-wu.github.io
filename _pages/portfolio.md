@@ -14,7 +14,7 @@ _**bridge of sighs**_, 2023. Ink on A5 card and limited prints.
 <br><br>
 ![IMG_0368](https://github.com/yaning-wu/yaning-wu.github.io/assets/145920710/2ac140a2-7310-4c62-a81e-ab0a40608679)
 <br><br>
-_**the gentleman**_, 2023. Ink and highlighter on postcard. Produced in support of Sobell House Hospice's art auction to fundraise for hospice care training for nurses.
+_**the gentleman**_, 2023. Ink and highlighter on postcard. Produced in support of Sobell House Hospice's [art auction](https://sobellhouse.org/get-involved/my-lovely-postcards/){:target="_blank" rel="noopener"} to fundraise for hospice care training for nurses.
 <br><br>
 ![IMG_6860](https://github.com/yaning-wu/yaning-wu.github.io/assets/145920710/ecaa6614-6c4e-41ec-89a1-fed9e989c041)
 <br><br>
