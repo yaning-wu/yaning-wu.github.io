@@ -4,7 +4,6 @@ title: "creative portfolio"
 permalink: /creative-portfolio/
 author_profile: true
 ---
-
 ### visual art
 ...
 
