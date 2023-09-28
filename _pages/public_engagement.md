@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-I become a keeper, sharer, or recipient of scientific knowledge depending on my environment. As I continue reflecting the power these identities hold, here are some descriptions of the work I've undertaken in various public engagement roles.
+I become a keeper, sharer, or recipient of scientific knowledge depending on my environment. As I continue reflecting the power these identities hold, here's some information about my public engagement experience.
 
 ### as a researcher
 * WordSmith
