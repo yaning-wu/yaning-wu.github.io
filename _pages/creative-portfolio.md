@@ -63,17 +63,17 @@ author_profile: true
 <br><br>
 <b><i>self-portrait</i></b>, 2017. graphite on A4 card.
 </details> 
-
+<br>
 <details>
   <summary><b>multimedia stories</b></summary> 
 <video src=”../videos/tu es tout.mp4” controls></video>
 </details> 
-
+<br>
 <details>
   <summary><b>poetry</b></summary> 
 xxx
 </details>
-
+<br>
 <details>
   <summary><b>data visualisation</b></summary> 
 xxx
