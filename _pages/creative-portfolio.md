@@ -80,21 +80,54 @@ author_profile: true
 
 <details>
   <summary><b>poetry</b></summary> 
-  <b>- there is the home key</b> march 2023
+  <details>
+  <summary><b>- there is the home key</b> april 2023</summary> 
   <br>
-  <iframe src=
-"https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210101201653/PDF.pdf" 
-                width="800"
-                height="500">
-        </iframe>
-  <b>poem name</b> poem date
-  <br>
-  <iframe src=
-"https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210101201653/PDF.pdf" 
-                width="800"
-                height="500">
-        </iframe>
-  
+I struck my first note and the room’s silence swelled
+from the antiseptic dispenser hazard-red on the wall 
+to the reception’s almost-spring bouquets – there
+you were cradling your coffee cup with not a word 
+to each other or me and I tuned and wondered
+how you knew her and if you awoke together
+and for how long and who you kept vigil for
+and how to spell their name and how you
+spoke the name only you knew them by
+and where sundays mostly found them.
+
+During the chorus I looked up – there
+you were holding your little one up high
+and our eyes drew together and I sparkled 
+with mine and I turned the page wondering
+how many nursery rhymes covered the miles
+to here where he sits taller than your sighs
+on your shoulders ever-enchanted by your
+smiling bright and what that smile had 
+swallowed from words too wide 
+to unknowns that seemed always wider.
+
+I reached the softest section – there
+you were as the double doors gave way
+to the figures who carried you into their
+flashing carriage in the middle of supper
+with your reading specs and today’s paper
+and I let the strings ring and wondered
+what the table you just set was like —
+the one they wrested you from tonight
+as you sat in garments you thought
+only your home would keep in sight.
+
+In a music theory class I left long ago
+they called home the key you depart from 
+and the one landing your stories safe so
+let me stop my wondering and tell this story
+so this hazard-red room may feel like another
+and if you listen for a second with a stranger
+I may stop your unknowns from growing wider
+and when I strike my last note in the final measure
+to dismiss the wailing carriages that flicker – there
+is the home key and we will come home together.
+
+  </details>
 </details>
 <br>
 
