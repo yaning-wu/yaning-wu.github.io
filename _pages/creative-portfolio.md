@@ -127,7 +127,73 @@ and when I strike my last note in the final measure<br>
 to dismiss the wailing carriages that flicker – there<br>
 is the home key and we will come home together.
   </p>
-  </details>
+  <details>
+  <summary style="margin-left:2em"><b>chicken soup</b> april 2023</summary> 
+  <p style="margin-left:3em">
+this kitchen is mine tonight<br>
+so I make chicken soup<br><br>
+
+I coax two garlic cloves<br>
+from their coats<br>
+for it is spring<br>
+and sprinkle rapeseed oil<br>
+to make a coat<br>
+for my years-scratched pot<br><br>
+
+drop one clove<br>
+on the ground<br>
+(for dramatic effect)<br>
+and slice the other<br>
+as thin as I dare<br>
+then thinner<br><br>
+
+wrestle chicken legs<br>
+from the icebox shelf<br>
+then remove their skin<br>
+and thank all the world<br>
+that I will never<br>
+become a surgeon<br><br>
+
+submerge these contents<br>
+in cold tap water<br>
+then proclaim this<br>
+“soup”<br>
+and no one shall argue<br>
+but before service:<br><br>
+
+gather green beans<br>
+in a line like primary school<br>
+then trim their toenails<br>
+and wield almost-two carrots<br>
+for their waxing appointment<br>
+then slice into discs<br><br>
+
+curate four potatoes<br>
+with all manners of blemishes<br>
+then quarter and halve<br>
+for in this crowding pot<br>
+they will become whole<br>
+(also they should be rinsed forgot that part sorry)<br><br>
+
+select one small capsicum<br>
+that looks most harmless<br>
+and add its peel and flesh<br>
+and seeds and all and<br>
+soon my fingers burn<br>
+and my tongue doubly so<br><br>
+
+season with trepidation<br>
+and then with vigour<br>
+and also with salt<br>
+and then with pepper<br>
+and leave the pot<br>
+no matter the temptation<br><br>
+
+this kitchen was mine tonight<br>
+so I made chicken soup
+  </p>
+</details>
+</details>
 </details>
 
 <!---data visualisation---> 
