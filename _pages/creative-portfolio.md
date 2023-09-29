@@ -250,12 +250,12 @@ to the stranger who stripped me of the illusion<br>
 that I had myself together.
   </p>
 </details>
+</details>
 
 <!---data visualisation---> 
-
 <details>
-  <summary><b>data visualisation</b></summary> 
-xxx
+  <summary><b>data visualisation</b></summary>
+  xxx
 </details>
 
 
