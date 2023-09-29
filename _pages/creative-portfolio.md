@@ -65,7 +65,6 @@ author_profile: true
 <br><br>
 <b><i>self-portrait</i></b>, 2017. graphite on A4 card.
 </details> 
-<br>
 
 <!---multimedia stories---> 
 
