@@ -256,5 +256,10 @@ that I had myself together.
   xxx
 </details>
 
-
+<!---awards and honours---> 
+<ul>
+  <li>xxx</li>
+  <li>xxx</li>
+  <li>xxx</li>
+</ul>
 
