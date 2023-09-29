@@ -192,6 +192,37 @@ no matter the temptation<br><br>
 this kitchen was mine tonight<br>
 so I made chicken soup
   </p>
+<details>
+  <summary style="margin-left:2em"><b>BBE: 10-07-2020</b> september 2020</summary> 
+  <p style="margin-left:3em">
+He scoured the shelves<br>
+of seeded buns and loaded loaves<br>
+like an ostrich, dilly-dallying, dignified.<br>
+His lofty frame held a dress shirt<br>
+and dark bright eyes under flowing dreadlocks.<br>
+I crouched alongside him,<br>
+examining the same baked wares.<br>
+"'Scuse me", said a gruff voice<br>
+out of thin, stale, grocery-closing-time air.<br>
+"Do you know what day it is?"<br>
+"Me? Of course! It's -- "<br>
+Forgetting my pandemic rituals,<br>
+I summoned my cell's home screen,<br>
+deciphering, decrying this fatal germ invitation.<br>
+"It's the tenth!"<br>
+"See, ha. You don't know it either!",<br>
+he quipped.<br>
+We returned to the best before's and use by's.<br>
+I waited behind him in line<br>
+and we never spoke again.<br>
+I thanked the security guard<br>
+and faced bustling Chapel Market<br>
+smelling the ocean and the toasty sun,<br>
+wondering how I smiled so big<br>
+to the stranger who stripped me of the illusion<br>
+that I had myself together.
+  </p>
+</details>
 </details>
 </details>
 </details>
