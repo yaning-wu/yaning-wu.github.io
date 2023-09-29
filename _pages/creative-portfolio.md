@@ -268,9 +268,12 @@ that I had myself together.
 </details>
 
 <!---awards and honours---> 
+<details>
+  <summary><b>awards and honours</b></summary>
 <ul>
   <li>xxx</li>
   <li>xxx</li>
   <li>xxx</li>
 </ul>
+</details>
 
