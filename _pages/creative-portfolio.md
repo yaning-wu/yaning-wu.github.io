@@ -5,6 +5,8 @@ permalink: /creative-portfolio/
 author_profile: true
 ---
 
+<!---visual art---> 
+
 <details>
   <summary><b>visual art</b></summary>
 <img src="../images/good girl.jpeg" alt="sketch of a swedish vallhund wearing a blue t-shirt with text 'you deserve all the not-so-sweet (cake emoji) in the universe'">
@@ -65,7 +67,7 @@ author_profile: true
 </details> 
 <br>
 
-
+<!---multimedia stories---> 
 
 <details>
   <summary><b>multimedia stories</b></summary> 
@@ -73,11 +75,21 @@ author_profile: true
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7rAOULkXF6U?si=NxeW05YscUv2_LUT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </details> 
 <br>
+
+<!---poetry---> 
+
 <details>
   <summary><b>poetry</b></summary> 
-xxx
+  xxx
+<details>
+  <summary style="margin-left: 25px;"><b>– there is the home key</b></summary>
+  <p style="margin-left: 25px;">hello hello</p>
+</details>
 </details>
 <br>
+
+<!---data visualisation---> 
+
 <details>
   <summary><b>data visualisation</b></summary> 
 xxx
