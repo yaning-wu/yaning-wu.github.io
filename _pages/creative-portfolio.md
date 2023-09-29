@@ -81,7 +81,7 @@ author_profile: true
 <details>
   <summary><b>poetry</b></summary> 
   <details>
-  <summary style="margin-left:2em"><b>- there is the home key</b> april 2023</summary> 
+  <summary style="margin-left:2em"><b>there is the home key</b> april 2023</summary> 
   <p style="margin-left:4em">
 I struck my first note and the room’s silence swelled<br>
 from the antiseptic dispenser hazard-red on the wall<br> 
