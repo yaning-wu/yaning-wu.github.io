@@ -193,6 +193,30 @@ this kitchen was mine tonight<br>
 so I made chicken soup
   </p>
 <details>
+  <summary style="margin-left:2em"><b>amersham</b> december 2021</summary> 
+  <p style="margin-left:3em">
+can you believe that we walked for<br>
+one<br>
+and<br>
+a<br>
+half<br>
+miles on the highway on slippingautumnleaves and<br>
+puddles glistening with<br>
+every strobe of headlights<br>
+under the fickle painted sky<br>
+until the sun closed the door<br>
+on its way out<br>
+and<br>
+every<br>
+up<br>
+hill<br>
+step<br>
+became a race<br>
+to tube station salvation?<br><br>
+
+friendship is being drenched and nourished and blinded and saved.
+  </p>
+<details>
   <summary style="margin-left:2em"><b>BBE: 10-07-2020</b> september 2020</summary> 
   <p style="margin-left:3em">
 He scoured the shelves<br>
