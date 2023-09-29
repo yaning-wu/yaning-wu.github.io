@@ -83,48 +83,48 @@ author_profile: true
   <details>
   <summary style="margin-left:2em"><b>- there is the home key</b> april 2023</summary> 
   <br>
-I struck my first note and the room’s silence swelled
-from the antiseptic dispenser hazard-red on the wall 
-to the reception’s almost-spring bouquets – there
-you were cradling your coffee cup with not a word 
-to each other or me and I tuned and wondered
-how you knew her and if you awoke together
-and for how long and who you kept vigil for
-and how to spell their name and how you
-spoke the name only you knew them by
-and where sundays mostly found them.
+I struck my first note and the room’s silence swelled<br>
+from the antiseptic dispenser hazard-red on the wall<br> 
+to the reception’s almost-spring bouquets – there<br>
+you were cradling your coffee cup with not a word<br>
+to each other or me and I tuned and wondered<br>
+how you knew her and if you awoke together<br>
+and for how long and who you kept vigil for<br>
+and how to spell their name and how you<br>
+spoke the name only you knew them by<br>
+and where sundays mostly found them.<br>
 
-During the chorus I looked up – there
-you were holding your little one up high
-and our eyes drew together and I sparkled 
-with mine and I turned the page wondering
-how many nursery rhymes covered the miles
-to here where he sits taller than your sighs
-on your shoulders ever-enchanted by your
-smiling bright and what that smile had 
-swallowed from words too wide 
-to unknowns that seemed always wider.
+During the chorus I looked up – there<br>
+you were holding your little one up high<br>
+and our eyes drew together and I sparkled<br>
+with mine and I turned the page wondering<br>
+how many nursery rhymes covered the miles<br>
+to here where he sits taller than your sighs<br>
+on your shoulders ever-enchanted by your<br>
+smiling bright and what that smile had<br> 
+swallowed from words too wide<br> 
+to unknowns that seemed always wider.<br>
 
-I reached the softest section – there
-you were as the double doors gave way
-to the figures who carried you into their
-flashing carriage in the middle of supper
-with your reading specs and today’s paper
-and I let the strings ring and wondered
-what the table you just set was like —
-the one they wrested you from tonight
-as you sat in garments you thought
-only your home would keep in sight.
+I reached the softest section – there<br>
+you were as the double doors gave way<br>
+to the figures who carried you into their<br>
+flashing carriage in the middle of supper<br>
+with your reading specs and today’s paper<br>
+and I let the strings ring and wondered<br>
+what the table you just set was like —<br>
+the one they wrested you from tonight<br>
+as you sat in garments you thought<br>
+only your home would keep in sight.<br>
 
-In a music theory class I left long ago
-they called home the key you depart from 
-and the one landing your stories safe so
-let me stop my wondering and tell this story
-so this hazard-red room may feel like another
-and if you listen for a second with a stranger
-I may stop your unknowns from growing wider
-and when I strike my last note in the final measure
-to dismiss the wailing carriages that flicker – there
+In a music theory class I left long ago<br>
+they called home the key you depart from<br> 
+and the one landing your stories safe so<br>
+let me stop my wondering and tell this story<br>
+so this hazard-red room may feel like another<br>
+and if you listen for a second with a stranger<br>
+I may stop your unknowns from growing wider<br>
+and when I strike my last note in the final measure<br>
+to dismiss the wailing carriages that flicker – there<br>
 is the home key and we will come home together.
   </details>
 </details>
