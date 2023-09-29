@@ -81,9 +81,8 @@ author_profile: true
 <details>
   <summary><b>poetry</b></summary> 
   <details>
-  <summary><b>- there is the home key</b> april 2023</summary> 
+  <summary style="margin-left:2em"><b>- there is the home key</b> april 2023</summary> 
   <br>
-    <pre>
 I struck my first note and the room’s silence swelled
 from the antiseptic dispenser hazard-red on the wall 
 to the reception’s almost-spring bouquets – there
@@ -127,7 +126,6 @@ I may stop your unknowns from growing wider
 and when I strike my last note in the final measure
 to dismiss the wailing carriages that flicker – there
 is the home key and we will come home together.
-  </pre>
   </details>
 </details>
 <br>
