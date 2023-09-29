@@ -8,7 +8,11 @@ author_profile: true
 <!---visual art---> 
 
 <details>
-  <summary><b>visual art</b></summary>
+  <summary>
+    <b>visual art</b>
+    <br>
+    drawing from life, memory, and places in between
+  </summary>
 <img src="../images/good girl.jpeg" alt="sketch of a swedish vallhund wearing a blue t-shirt with text 'you deserve all the not-so-sweet (cake emoji) in the universe'">
 <br><br>
 <b><i>good girl</i></b>, 2023. ink on A4 sketchbook paper and digital drawing. produced for mom's birthday.
@@ -69,7 +73,11 @@ author_profile: true
 <!---multimedia stories---> 
 
 <details>
-  <summary><b>multimedia stories</b></summary> 
+  <summary>
+    <b>multimedia work</b>
+    <br>
+    using original and borrowed material to tell personal and communal stories
+  </summary> 
   <p style="margin-left:2em"><b>tum hi ho</b> translated from hindi to english to french</p>
 <iframe style="margin-left:2em" width="560" height="315" src="https://www.youtube.com/embed/7rAOULkXF6U?si=NxeW05YscUv2_LUT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -88,7 +96,11 @@ https://www.instagram.com/p/CL5Eutihmp7/
 <!---poetry---> 
 
 <details>
-  <summary><b>poetry</b></summary> 
+  <summary>
+    <b>poetry</b>
+    <br>
+    reflections on ordinary encounters that become wondrous
+  </summary> 
   <details>
   <summary style="margin-left:2em"><b>there is the home key</b> april 2023</summary> 
   <p style="margin-left:3em">
@@ -263,7 +275,11 @@ that I had myself together.
 
 <!---data visualisation---> 
 <details>
-  <summary><b>data visualisation</b></summary>
+  <summary>
+    <b>data visualisation</b>
+    <br>
+    revealing the humanity behind statistics
+  </summary>
   xxx
 </details>
 
