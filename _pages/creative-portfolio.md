@@ -11,7 +11,7 @@ author_profile: true
   <summary><b>visual art</b></summary>
 <img src="../images/good girl.jpeg" alt="sketch of a swedish vallhund wearing a blue t-shirt with text 'you deserve all the not-so-sweet (cake emoji) in the universe'">
 <br><br>
-<b><i>good girl</i></b>, 2023. ink on A4 sketchbook paper and digital drawing. Produced for mom's birthday.
+<b><i>good girl</i></b>, 2023. ink on A4 sketchbook paper and digital drawing. produced for mom's birthday.
 <br><br>
 <img src="../images/bridge of sighs.jpeg" alt="black-and-white sketch of oxford's bridge of sighs">
 <br><br>
@@ -19,7 +19,7 @@ author_profile: true
 <br><br>
 <img src="../images/the gentleman.jpeg" alt="black-and-white sketch of an anteater in a bow tie talking to a group of ants. the anteater says 'hey how do I look? I'm meeting a date at this buffet tonight!'">
 <br><br>
-<b><i>the gentleman</i></b>, 2023. ink and highlighter on postcard. Produced in support of Sobell House Hospice's <a href="https://sobellhouse.org/get-involved/my-lovely-postcards/" target="_blank">art auction</a> to fundraise for hospice care training for nurses.
+<b><i>the gentleman</i></b>, 2023. ink and highlighter on postcard. produced in support of Sobell House Hospice's <a href="https://sobellhouse.org/get-involved/my-lovely-postcards/" target="_blank">art auction</a> to fundraise for hospice care training for nurses.
 <br><br>
 <img src="../images/初一.png" alt="black-and-white sketch of a kitten clinging onto my mom's clothing">
 <br><br>
@@ -31,7 +31,7 @@ author_profile: true
 <br><br>
 <img src="../images/two boys.jpeg" alt="black-and-white sketch of two preteen boys smiling">
 <br><br>
-<b><i>two boys</i></b>, 2020. ink on A4 card. Produced in support of MedSupplyDrive UK's <a href="https://www.youtube.com/watch?v=gPJOg4k1Zp4" target="_blank">art auction</a> to fundraise for protective equipment for healthcare workers during COVID-19.
+<b><i>two boys</i></b>, 2020. ink on A4 card. produced in support of MedSupplyDrive UK's <a href="https://www.youtube.com/watch?v=gPJOg4k1Zp4" target="_blank">art auction</a> to fundraise for protective equipment for healthcare workers during COVID-19.
 <br><br>
 <img src="../images/lights will guide you home.jpeg" alt="black-and-white sketch of london's BT tower viewed from a nearby street">
 <br><br>
