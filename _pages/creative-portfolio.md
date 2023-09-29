@@ -99,7 +99,7 @@ https://www.instagram.com/p/CL5Eutihmp7/
   <summary>
     <b>poetry</b>
     <br>
-    reflections on ordinary encounters that become wondrous
+    reflecting on ordinary encounters that become wondrous
   </summary> 
   <details>
   <summary style="margin-left:2em"><b>there is the home key</b> april 2023</summary> 
