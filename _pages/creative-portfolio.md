@@ -82,7 +82,7 @@ author_profile: true
   <summary><b>poetry</b></summary> 
   xxx
 <details>
-  <summary style="margin-left: 25px;"><b>– there is the home key</b></summary>
+  <summary style="margin-left: 25px;"><b>there is the home key</b></summary>
   <p style="margin-left: 25px;">hello hello</p>
 </details>
 </details>
