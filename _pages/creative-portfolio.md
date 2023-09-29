@@ -127,6 +127,7 @@ and when I strike my last note in the final measure<br>
 to dismiss the wailing carriages that flicker – there<br>
 is the home key and we will come home together.
   </p>
+  </details>
   <details>
   <summary style="margin-left:2em"><b>chicken soup</b> april 2023</summary> 
   <p style="margin-left:3em">
@@ -192,6 +193,7 @@ no matter the temptation<br><br>
 this kitchen was mine tonight<br>
 so I made chicken soup
   </p>
+  </details>
 <details>
   <summary style="margin-left:2em"><b>amersham</b> december 2021</summary> 
   <p style="margin-left:3em">
@@ -216,6 +218,7 @@ to tube station salvation?<br><br>
 
 friendship is being drenched and nourished and blinded and saved.
   </p>
+  </details>
 <details>
   <summary style="margin-left:2em"><b>BBE: 10-07-2020</b> september 2020</summary> 
   <p style="margin-left:3em">
@@ -246,9 +249,6 @@ wondering how I smiled so big<br>
 to the stranger who stripped me of the illusion<br>
 that I had myself together.
   </p>
-</details>
-</details>
-</details>
 </details>
 
 <!---data visualisation---> 
