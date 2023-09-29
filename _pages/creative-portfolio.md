@@ -83,7 +83,6 @@ author_profile: true
   <details>
   <summary style="margin-left:2em"><b>- there is the home key</b> april 2023</summary> 
   <p style="margin-left:4em">
-  <br>
 I struck my first note and the room’s silence swelled<br>
 from the antiseptic dispenser hazard-red on the wall<br> 
 to the reception’s almost-spring bouquets – there<br>
@@ -93,7 +92,7 @@ how you knew her and if you awoke together<br>
 and for how long and who you kept vigil for<br>
 and how to spell their name and how you<br>
 spoke the name only you knew them by<br>
-and where sundays mostly found them.<br>
+and where sundays mostly found them.<br><br>
 
 During the chorus I looked up – there<br>
 you were holding your little one up high<br>
@@ -115,7 +114,7 @@ and I let the strings ring and wondered<br>
 what the table you just set was like —<br>
 the one they wrested you from tonight<br>
 as you sat in garments you thought<br>
-only your home would keep in sight.<br>
+only your home would keep in sight.<br><br>
 
 In a music theory class I left long ago<br>
 they called home the key you depart from<br> 
