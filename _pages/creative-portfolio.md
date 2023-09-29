@@ -73,7 +73,6 @@ author_profile: true
   <b>media title</b>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7rAOULkXF6U?si=NxeW05YscUv2_LUT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </details> 
-<br>
 
 <!---poetry---> 
 
