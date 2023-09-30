@@ -306,7 +306,7 @@ that I had myself together.
   <br>
   <b>happy mothers' day:</b> visualising a mother-daughter relationship with pen and paper - read <a href="https://wmjlwuh.medium.com/happy-mothers-day-my-first-attempt-at-hand-drawn-data-visualisation-79dc720894ca" target="_blank">here</a>
   <br>
-  <b>holding my breath</b> visualising India's COVID-19 crisis - read <a href="https://wmjlwuh.medium.com/i-hold-my-breath-part-1-4c07f6096cb8" target="_blank">here</a>  
+  <b>holding my breath:</b> visualising India's COVID-19 crisis - read <a href="https://wmjlwuh.medium.com/i-hold-my-breath-part-1-4c07f6096cb8" target="_blank">here</a>  
   <br>
-  <b>meet the superhumans</b> visualising the growth of the Paralympic Games - read <a href="https://wmjlwuh.medium.com/meet-the-superhumans-have-the-paralympic-games-lived-up-to-their-name-50da9064ef6" target="_blank">here</a></p>  
+  <b>meet the superhumans:</b> visualising the growth of the Paralympic Games - read <a href="https://wmjlwuh.medium.com/meet-the-superhumans-have-the-paralympic-games-lived-up-to-their-name-50da9064ef6" target="_blank">here</a></p>  
 </details>
