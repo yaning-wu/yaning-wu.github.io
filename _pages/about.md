@@ -12,10 +12,10 @@ I'm **Yaning** (she/her), a PhD student at the University of Cambridge. My resea
 
 You can learn more about my **academic**, **professional**, and **creative** background by exploring this site. If you'd like to discuss a potential collaboration, seek guidance for graduate school applications, or talk about the weather, please book a virtual meeting with me [here](https://calendly.com/yaningwu/30min){:target="_blank" rel="noopener"}. 
 
-If you're in Cambridge, come say hi at the Victor Phillip Dahdaleh Heart and Lung Research Institute ([HLRI](https://www.hlri.cam.ac.uk/){:target="_blank" rel="noopener"}) near Addenbrooke's Hospital 😀 ⬇️ 
-
-P.S. I play the piano at the nearby Royal Papworth Hospital weekly and will be updating [this](https://yaning-wu.github.io/piano-rph/){:target="_blank" rel="noopener"} page regularly with recordings.
+If you're in Cambridge, come say hi at the Victor Phillip Dahdaleh Heart and Lung Research Institute ([HLRI](https://www.hlri.cam.ac.uk/){:target="_blank" rel="noopener"}) on the Biomedical Campus 😀 ⬇️ 
 
 ![hlri-cropped](https://github.com/yaning-wu/yaning-wu.github.io/assets/145920710/27efc361-6b76-4e28-9754-ae151afcb43e)
+
+P.S. I play the piano at the nearby Royal Papworth Hospital weekly and will be updating [this](https://yaning-wu.github.io/piano-rph/){:target="_blank" rel="noopener"} page regularly with recordings.
 
 This website was built using the [Academic Pages template](https://academicpages.github.io/){:target="_blank" rel="noopener"}. 
