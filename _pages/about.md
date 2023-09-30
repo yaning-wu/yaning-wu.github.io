@@ -16,6 +16,4 @@ If you're in Cambridge, come say hi at the Victor Phillip Dahdaleh Heart and Lun
 
 ![hlri-cropped](https://github.com/yaning-wu/yaning-wu.github.io/assets/145920710/27efc361-6b76-4e28-9754-ae151afcb43e)
 
-P.S. I play the piano at the nearby Royal Papworth Hospital weekly and will be updating [this](https://yaning-wu.github.io/piano-rph/){:target="_blank" rel="noopener"} page regularly with recordings.
-
 This website was built using the [Academic Pages template](https://academicpages.github.io/){:target="_blank" rel="noopener"}. 
