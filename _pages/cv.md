@@ -12,7 +12,11 @@ redirect_from:
 education
 ======
 * 09/2019 - 06/2022: **[BSc in Population Health Sciences](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/population-health-sciences-bsc){:target="_blank" rel="noopener"}** (Data Science specialism), University College London (first class honours)
-  * Modules: 
+  * 1st year modules: Epidemiological Transition, Social Determinants of Health, Measuring Population Health, Social Determinants of Health, Research Methods in Population Health, Principles of Social Science Research, Introduction to Quantitative Research Methods (all pass/fail assessed due to COVID-19 pandemic)
+  * 2nd year modules: Frontiers of Knowledge in Population Health (80+), The Life Course (75+), Acute and Chronic Infectious Diseases (70+), Health Demography (80+), Health and Behaviour (80+), Qualitative Research Methods (80+), Data Analysis (65+)
+  * 3rd year modules: Health, Poverty and Development (65+), Digital Health (70+), Population Ageing (90+), Health Psychology (70+), Causal Analysis in Data Science (70+), Measurements in Data Science (65+)
+  * Dissertation (70+): "Feeling less useful but under less strain: furlough and psychological distress in the UK Household Longitudinal Study’s COVID-19 waves" supervised by Dr Liam Wright
+
 * 10/2022 - 09/2023: **[MSc in Global Health Science and Epidemiology](https://www.ox.ac.uk/admissions/graduate/courses/msc-global-health-science-and-epidemiology){:target="_blank" rel="noopener"}**, University of Oxford (expected)
   * Compulsory modules: Principles of Statistics, Principles of Epidemiology, Introduction to International Research Ethics, Introduction to Global Health Science
   * Optional modules: Principles and Applications of Data Science, Non-Communicable Diseases, Nutritional Epidemiology, Health Economics, Clinical Trials and Meta-Analyses (audited), Genetic Epidemiology (audited)
