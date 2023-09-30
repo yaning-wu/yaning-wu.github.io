@@ -9,9 +9,8 @@ author_profile: true
 
 <details>
   <summary>
-    <b>visual art</b>
+    <b>visual art</b> drawing from life, memory, and places in between
     <br>
-    <p style="margin-left:2em">drawing from life, memory, and places in between</p>
   </summary>
 <img src="../images/good girl.jpeg" alt="sketch of a swedish vallhund wearing a blue t-shirt with text 'you deserve all the not-so-sweet (cake emoji) in the universe'">
 <br><br>
@@ -74,9 +73,8 @@ author_profile: true
 
 <details>
   <summary>
-    <b>multimedia work</b>
+    <b>multimedia work</b> using original and borrowed material to tell personal and communal stories
     <br>
-    <p style="margin-left:2em">using original and borrowed material to tell personal and communal stories</p>
   </summary> 
   <p style="margin-left:2em"><b>tum hi ho</b> translated from hindi to english to french</p>
 <iframe style="margin-left:2em" width="560" height="315" src="https://www.youtube.com/embed/7rAOULkXF6U?si=NxeW05YscUv2_LUT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -98,9 +96,8 @@ author_profile: true
 
 <details>
   <summary>
-    <b>poetry</b>
+    <b>poetry</b> reflecting on ordinary encounters that become wondrous
     <br>
-    <p style="margin-left:2em">reflecting on ordinary encounters that become wondrous</p>
   </summary> 
   <details>
   <summary style="margin-left:2em"><b>there is the home key</b> april 2023</summary> 
@@ -280,9 +277,8 @@ that I had myself together.
 <!---data visualisation---> 
 <details>
   <summary>
-    <b>data visualisation</b>
-    <br>
-    <p style="margin-left:2em">revealing data from humanity and humanity from data</p>  
+    <b>data visualisation</b> revealing data from humanity and humanity from data
+    <br> 
   </summary>
   <p style="margin-left:2em"><b>I wrote this for you:</b> visualising the dedications behind 500 award-winning books - read <a href="https://wmjlwuh.medium.com/i-wrote-this-for-you-6435b002c6c6" target="_blank">here</a>
   <br>
