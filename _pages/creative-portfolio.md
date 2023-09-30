@@ -285,7 +285,7 @@ that I had myself together.
     <br>
     revealing the humanity behind statistics
   </summary>
-  <b>I wrote this for you</b> visualising the dedications behind 500 award-winning books - read <a href="https://wmjlwuh.medium.com/i-wrote-this-for-you-6435b002c6c6" target="_blank">here</a>
+  <p style="margin-left:3em"><b>I wrote this for you</b> visualising the dedications behind 500 award-winning books - read <a href="https://wmjlwuh.medium.com/i-wrote-this-for-you-6435b002c6c6" target="_blank">here</a>
   <br>
   <b>Napoleon's defeat and Lewis' continuing fight</b> visualising the Selma-Montgomery marches with a 200-year-old chart type - read 
   <a href="https://wmjlwuh.medium.com/napoleons-defeat-and-lewis-continuing-fight-968ca435a607" target="_blank">here</a> 
@@ -308,5 +308,5 @@ that I had myself together.
   <br>
   <b>holding my breath</b> visualising India's COVID-19 crisis - read <a href="https://wmjlwuh.medium.com/i-hold-my-breath-part-1-4c07f6096cb8" target="_blank">here</a>  
   <br>
-  <b>meet the superhumans</b> visualising the growth of the Paralympic Games - read <a href="https://wmjlwuh.medium.com/meet-the-superhumans-have-the-paralympic-games-lived-up-to-their-name-50da9064ef6" target="_blank">here</a>  
+  <b>meet the superhumans</b> visualising the growth of the Paralympic Games - read <a href="https://wmjlwuh.medium.com/meet-the-superhumans-have-the-paralympic-games-lived-up-to-their-name-50da9064ef6" target="_blank">here</a></p>  
 </details>
