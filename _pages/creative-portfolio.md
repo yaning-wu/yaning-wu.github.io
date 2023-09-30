@@ -149,8 +149,7 @@ and when I strike my last note in the final measure<br>
 to dismiss the wailing carriages that flicker – there<br>
 is the home key and we will come home together.
   </p>
-<br>
-  <p style="margin-left:3em">placed first in 2023's Kellogg College Creative Writing Competition.</p>
+  <p style="margin-left:3em"><i>placed first in 2023's Kellogg College Creative Writing Competition.</i></p>
 <p style="margin-left:2em"><b>performance with musical accompaniment</b></p>
 <iframe style="margin-left:2em" width="560" height="315" src="https://www.youtube.com/embed/AahKWc61KNM?si=8GDwVe3CI8-p9tKy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   </details>
