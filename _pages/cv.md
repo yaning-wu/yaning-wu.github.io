@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-
 ## education
 * 09/2019 - 06/2022: **[BSc in Population Health Sciences](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/population-health-sciences-bsc){:target="_blank" rel="noopener"}** (Data Science specialism), University College London (first class honours)
   * 1st year modules: Epidemiological Transition, Social Determinants of Health, Measuring Population Health, Social Determinants of Health, Research Methods in Population Health, Principles of Social Science Research, Introduction to Quantitative Research Methods (all pass/fail assessed due to COVID-19 pandemic)
