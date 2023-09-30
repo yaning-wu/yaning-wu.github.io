@@ -43,23 +43,23 @@ author_profile: true
 <br><br>
 <img src="../images/al-qahira.jpeg" alt="black-and-white sketch of a brother and sister staring at the camera in cairo with a backdrop of local architecture">
 <br><br>
-<b><i>al-qahira</i></b>, 2019. ink on A3 card.
+<b><i>al-qahira</i></b>, 2019. ink on A3 card. included in Advanced Placement Studio Art portfolio scoring 5 (extremely well qualified for university-level visual arts coursework).
 <br><br>
 <img src="../images/bent, not broken.jpeg" alt="black-and-white sketch of a scoliosis brace (corset) with a variety of juvenile motivational messages on its front">
 <br><br>
-<b><i>bent, not broken</i></b>, 2019. ink on A3 card.
+<b><i>bent, not broken</i></b>, 2019. ink on A3 card. included in Advanced Placement Studio Art portfolio scoring 5 (extremely well qualified for university-level visual arts coursework).
 <br><br>
 <img src="../images/profit over patient.jpeg" alt="sketch of a young woman bent over with a series of ferocious surgical tools drilling into her">
 <br><br>
-<b><i>profit over patient</i></b>, 2019. ink, graphite, and colour pencil on A3 card.
+<b><i>profit over patient</i></b>, 2019. ink, graphite, and colour pencil on A3 card. included in Advanced Placement Studio Art portfolio scoring 5 (extremely well qualified for university-level visual arts coursework).
 <br><br>
 <img src="../images/patient journey.jpeg" alt="sketch of a series of objects aligned in the shape of a curved spine">
 <br><br>
-<b><i>patient journey</i></b>, 2019. marker and ink on A3 card.
+<b><i>patient journey</i></b>, 2019. marker and ink on A3 card. included in Advanced Placement Studio Art portfolio scoring 5 (extremely well qualified for university-level visual arts coursework).
 <br><br>
 <img src="../images/cultural field studies.jpeg" alt="sketch of an open suitcase with a guitar and miscellaneous essentials">
 <br><br>
-<b><i>cultural field studies</i></b>, 2018. ink, marker, and colour pencil on A3 card.
+<b><i>cultural field studies</i></b>, 2018. ink, marker, and colour pencil on A3 card. included in Advanced Placement Studio Art portfolio scoring 5 (extremely well qualified for university-level visual arts coursework).
 <br><br>
 <img src="../images/left behind.jpeg" alt="sketch of a deer/wildebeest skull">
 <br><br>
@@ -86,6 +86,8 @@ author_profile: true
 <iframe style="margin-left:2em" width="560" height="315" src="https://www.youtube.com/embed/cpqRz9zeLoE?si=XIcSQ2YFG5NEWhfo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   <p style="margin-left:2em"><b>telling the story of "come from away"</b> with found objects</p>
 <iframe style="margin-left:2em" width="560" height="315" src="https://www.youtube.com/embed/qIkPQtrzfXs?si=LWLj1SYTdiK7nTyo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <br>
+  commended by real-life Gander residents and by the West End's "Come From Away" production.
   <p style="margin-left:2em"><b>polar bears</b> a christmas story</p>
 <iframe style="margin-left:2em" width="560" height="315" src="https://www.youtube.com/embed/9vflCz6MUwM?si=U-1b3ZwA-cx9_xBj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   <p style="margin-left:2em"><b>thanksgiving</b> what gratitude means to 500 people</p>
@@ -147,6 +149,8 @@ and when I strike my last note in the final measure<br>
 to dismiss the wailing carriages that flicker – there<br>
 is the home key and we will come home together.
   </p>
+<br>
+  <p style="margin-left:3em">placed first in 2023's Kellogg College Creative Writing Competition.</p>
 <p style="margin-left:2em"><b>performance with musical accompaniment</b></p>
 <iframe style="margin-left:2em" width="560" height="315" src="https://www.youtube.com/embed/AahKWc61KNM?si=8GDwVe3CI8-p9tKy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   </details>
@@ -283,7 +287,7 @@ that I had myself together.
   </summary>
   xxx
 </details>
-
+<br>
 <!---awards and honours---> 
 <details>
   <summary><b>awards and honours</b></summary>
