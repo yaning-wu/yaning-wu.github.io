@@ -46,14 +46,14 @@ redirect_from:
   * presented paper to interdisciplinary academic and student audience in 2021 research conference
 
 ## skills and proficiencies
-* study design (incl. cross-sectional, case-control, cohort, and trial designs)
+* **study design** (incl. cross-sectional, case-control, cohort, and trial designs)
   * research question formulation
   * protocol and proposal drafting
   * sample size and power calculations
   * literature reviewing (incl. search term identification, study screening, critical appraisal)
   * project management (incl. diverse stakeholder liaison) 
   * tools: Rayyan.ai, EndNote
-* quantitative research methods
+* **quantitative research methods**
   * descriptive statistics (incl. calculation and presentation)
   * regression (incl. linear, logistic, mixed, Poisson, Cox)
   * missing data (incl. characterisation, imputation)
@@ -61,23 +61,23 @@ redirect_from:
   * classification (incl. measurement error, supervised and unsupervised machine learning) 
   * spatial analysis (incl. clustering, autocorrelation)
   * software: R (incl. loops, custom function-building, and tidyverse), Stata
-* qualitative research methods
+* **qualitative research methods**
   * qualitative and mixed-methods study designs
   * focus group planning, topic guide drafting
   * thematic and content analysis
-* data visualisation
+* **data visualisation**
   * conventional charts (incl. line, bar, pie, scatter)
   * epidemiology-specific charts (incl. Manhattan plots, forest plots, funnel plots, shape plots)
   * interactive visualisations (incl. maps, multimedia data stories)
   * tools: Canva, Autodesk Sketchbook, Flourish, Tableau, Datawrapper, Microsoft Excel, plain old pen and paper!
   * software: R (ggplot2 and various add-ons)
-* graphic and website design
+* **graphic and website design**
   * Instagram, Twitter, Facebook, LinkedIn assets
   * tools: Canva, WordPress
   * software: HTML, CSS, JavaScript
-* team-working
+* **team-working**
   * tools: Microsoft Office Suite, Google Suite, Notion, Slack, Trello, Miro, Calendly
-* languages
+* **languages**
   * English (native speaker)
   * Mandarin (native speaker)
   * French ([CEFR](https://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale){:target="_blank" rel="noopener"} B1/2)
