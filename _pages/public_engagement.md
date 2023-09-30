@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-I become a keeper, sharer, or recipient of scientific knowledge depending on my environment. As I continue reflecting the power these identities hold, here's some information about my public engagement experience.
+I become a keeper, sharer, or recipient of knowledge depending on my environment. As I continue reflecting the power these identities hold, here's some information about my public engagement experience.
 
 ### as a researcher
 * as the co-founder of <b>[WordSmith](https://www.wordsmithtech.com/){:target="_blank" rel="noopener"}</b>, an app for people with word-retrieval difficulties caused by stroke, dementia, or learning disability, I spoke with potential users and speech and language therapists to learn about what they value in assistive technology software. With a volunteer team, I then implemented this feedback into our iterating prototypes. 
