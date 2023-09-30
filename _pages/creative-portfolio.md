@@ -7,6 +7,7 @@ author_profile: true
 
 <!---visual art---> 
 
+<div>
 <details>
   <summary>
     <b>visual art</b> drawing from life, memory, and places in between
@@ -68,9 +69,9 @@ author_profile: true
 <br><br>
 <b><i>self-portrait</i></b>, 2017. graphite on A4 card.
 </details> 
-
+</div>
 <!---multimedia---> 
-
+<div>
 <details>
   <summary>
     <b>multimedia</b> creating and borrowing material to tell personal and communal stories
@@ -91,9 +92,9 @@ author_profile: true
   <p style="margin-left:2em"><b>thanksgiving: what gratitude means to 500 people</b> november 2022</p>
 <iframe style="margin-left:2em" width="560" height="315" src="https://www.youtube.com/embed/O-gSNdvSXsM?si=upVZp36AqPle9CaD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </details> 
-
+</div>
 <!---poetry---> 
-
+<div>
 <details>
   <summary>
     <b>poetry</b> reflecting on ordinary encounters that become wondrous
@@ -273,8 +274,9 @@ that I had myself together.
   </p>
 </details>
 </details>
-
+</div>
 <!---data visualisation---> 
+<div>
 <details>
   <summary>
     <b>data visualisation</b> revealing data from humanity and humanity from data
@@ -305,3 +307,4 @@ that I had myself together.
   <br>
   <b>meet the superhumans:</b> visualising the growth of the Paralympic Games - read <a href="https://wmjlwuh.medium.com/meet-the-superhumans-have-the-paralympic-games-lived-up-to-their-name-50da9064ef6" target="_blank">here</a></p>  
 </details>
+</div>
