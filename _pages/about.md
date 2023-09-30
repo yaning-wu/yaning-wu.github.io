@@ -16,6 +16,4 @@ Alternatively, if you're in Cambridge, come say hi at the Victor Phillip Dahdale
 
 ![hlri-cropped](https://github.com/yaning-wu/yaning-wu.github.io/assets/145920710/27efc361-6b76-4e28-9754-ae151afcb43e)
 
-![image](https://github.com/yaning-wu/yaning-wu.github.io/assets/145920710/91c8521e-9ea4-422d-a4ff-62d8e5d4f98e)
-
 This website was built using the [Academic Pages template](https://academicpages.github.io/){:target="_blank" rel="noopener"}. 
