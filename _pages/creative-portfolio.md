@@ -79,7 +79,7 @@ author_profile: true
   </summary> 
   <p style="margin-left:2em"><b>hospitality during international tragedy: a 9/12 story</b> september 2023</p>
 <iframe style="margin-left:2em" width="560" height="315" src="https://www.youtube.com/embed/ihIQh7mgDAM?si=msxP1us_cg17cCvl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-  <p style="margin-left:2em"><b>coding a flower with R for father's day 2023</b> june 2023</p>
+  <p style="margin-left:2em"><b>coding a flower with R for father's day</b> june 2023</p>
 <iframe style="margin-left:2em" width="560" height="315" src="https://www.youtube.com/embed/cpqRz9zeLoE?si=XIcSQ2YFG5NEWhfo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   <p style="margin-left:2em"><b>"tum hi ho" translated from hindi to english to french</b> april 2023</p>
 <iframe style="margin-left:2em" width="560" height="315" src="https://www.youtube.com/embed/7rAOULkXF6U?si=NxeW05YscUv2_LUT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
