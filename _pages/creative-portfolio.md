@@ -285,16 +285,28 @@ that I had myself together.
     <br>
     revealing the humanity behind statistics
   </summary>
-  xxx
+  <b>I wrote this for you</b> visualising the dedications behind 500 award-winning books - read <a href="https://wmjlwuh.medium.com/i-wrote-this-for-you-6435b002c6c6" target="_blank">here</a>
+  <br>
+  <b>Napoleon's defeat and Lewis' continuing fight</b> visualising the Selma-Montgomery marches with a 200-year-old chart type - read 
+  <a href="https://wmjlwuh.medium.com/napoleons-defeat-and-lewis-continuing-fight-968ca435a607" target="_blank">here</a> 
+  <br>
+  <b>Memory and longing in "This is Us"</b> visualising flashbacks in my favourite drama series - read <a href="https://wmjlwuh.medium.com/memory-and-longing-in-this-is-us-37dbf81b4b7e" target="_blank">here</a> 
+  <br>
+  <b>This is for Maple</b> visualising the career of a musician-turned rescue dog - read <a href="https://wmjlwuh.medium.com/this-is-for-maple-30967e6ff973" target="_blank">here</a> 
+  <br>
+  <b>Is the telly for everyone?</b> visualising the accessibility of European TV channels (published on UX Collective) - read <a href="https://uxdesign.cc/is-the-telly-for-everyone-22e68ec36945" target="_blank">here</a>  
+  <br>
+  <b>No art, just the artist?</b> visualising Marina Abramović's iconic MoMA performance - read <a href="https://wmjlwuh.medium.com/no-art-just-the-artist-f144f01b8374" target="_blank">here</a>  
+  <br>
+  <b>The white rhinos of linguistics</b> visualising the world's endangered languages (published on Towards Data Science) - read <a href="https://towardsdatascience.com/the-white-rhinos-of-linguistics-c8072b390212" target="_blank">here</a> 
+  <br>
+  <b>Lullaby</b> honouring the most vulnerable victims of violence in Palestine and Israel - read <a href="https://wmjlwuh.medium.com/lullaby-bde23cec23ca" target="_blank">here</a>
+  <br>
+  <b>Can you hear the sirens?</b> visualising NYC ambulance response patterns during the pandemic - read <a href="https://wmjlwuh.medium.com/can-you-hear-the-sirens-61fe05efb1eb" target="_blank">here</a>
+  <br>
+  <b>Happy Mothers' Day</b> visualising a mother-daughter relationship with pen and paper - read <a href="https://wmjlwuh.medium.com/happy-mothers-day-my-first-attempt-at-hand-drawn-data-visualisation-79dc720894ca" target="_blank">here</a>
+  <br>
+  <b>Holding my breath</b> visualising India's COVID-19 crisis - read <a href="https://wmjlwuh.medium.com/i-hold-my-breath-part-1-4c07f6096cb8" target="_blank">here</a>  
+  <br>
+  <b>Meet the superhumans</b> visualising the growth of the Paralympic Games - read <a href="https://wmjlwuh.medium.com/meet-the-superhumans-have-the-paralympic-games-lived-up-to-their-name-50da9064ef6" target="_blank">here</a>  
 </details>
-<br>
-<!---awards and honours---> 
-<details>
-  <summary><b>awards and honours</b></summary>
-<ul>
-  <li>xxx</li>
-  <li>xxx</li>
-  <li>xxx</li>
-</ul>
-</details>
-
