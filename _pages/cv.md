@@ -75,7 +75,8 @@ redirect_from:
   * Instagram, Twitter, Facebook, LinkedIn assets
   * tools: Canva, WordPress
   * software: HTML, CSS, JavaScript
-* **team-working**
+* **project management**
+  * administration, goal-setting, and team-working
   * tools: Microsoft Office Suite, Google Suite, Notion, Slack, Trello, Miro, Calendly
 * **languages**
   * English (native speaker)
