@@ -52,7 +52,7 @@ redirect_from:
   * sample size and power calculations
   * literature reviewing (incl. search term identification, study screening, critical appraisal)
   * project management (incl. diverse stakeholder liaison) 
-  * tools: Rayyan.ai
+  * tools: Rayyan.ai, EndNote
 * quantitative research methods
   * descriptive statistics (incl. calculation and presentation)
   * regression (incl. linear, logistic, mixed, Poisson, Cox)
