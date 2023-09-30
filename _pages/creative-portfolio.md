@@ -11,7 +11,7 @@ author_profile: true
   <summary>
     <b>visual art</b>
     <br>
-    drawing from life, memory, and places in between
+    <p style="margin-left:2em">drawing from life, memory, and places in between</p>
   </summary>
 <img src="../images/good girl.jpeg" alt="sketch of a swedish vallhund wearing a blue t-shirt with text 'you deserve all the not-so-sweet (cake emoji) in the universe'">
 <br><br>
@@ -76,7 +76,7 @@ author_profile: true
   <summary>
     <b>multimedia work</b>
     <br>
-    using original and borrowed material to tell personal and communal stories
+    <p style="margin-left:2em">using original and borrowed material to tell personal and communal stories</p>
   </summary> 
   <p style="margin-left:2em"><b>tum hi ho</b> translated from hindi to english to french</p>
 <iframe style="margin-left:2em" width="560" height="315" src="https://www.youtube.com/embed/7rAOULkXF6U?si=NxeW05YscUv2_LUT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -100,7 +100,7 @@ author_profile: true
   <summary>
     <b>poetry</b>
     <br>
-    reflecting on ordinary encounters that become wondrous
+    <p style="margin-left:2em">reflecting on ordinary encounters that become wondrous</p>
   </summary> 
   <details>
   <summary style="margin-left:2em"><b>there is the home key</b> april 2023</summary> 
@@ -282,7 +282,7 @@ that I had myself together.
   <summary>
     <b>data visualisation</b>
     <br>
-    revealing the humanity behind statistics
+    <p style="margin-left:2em">revealing data from humanity and humanity from data</p>  
   </summary>
   <p style="margin-left:2em"><b>I wrote this for you:</b> visualising the dedications behind 500 award-winning books - read <a href="https://wmjlwuh.medium.com/i-wrote-this-for-you-6435b002c6c6" target="_blank">here</a>
   <br>
