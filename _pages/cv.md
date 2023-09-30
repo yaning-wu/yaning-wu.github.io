@@ -20,7 +20,7 @@ education
 * 10/2022 - 09/2023: **[MSc in Global Health Science and Epidemiology](https://www.ox.ac.uk/admissions/graduate/courses/msc-global-health-science-and-epidemiology){:target="_blank" rel="noopener"}**, University of Oxford (expected)
   * Compulsory modules: Principles of Statistics, Principles of Epidemiology, Introduction to International Research Ethics, Introduction to Global Health Science
   * Optional modules: Principles and Applications of Data Science, Non-Communicable Diseases, Nutritional Epidemiology, Health Economics, Clinical Trials and Meta-Analyses (audited), Genetic Epidemiology (audited)
-* 10/2023 - : **[PhD in Public Health and Primary Care](https://www.postgraduate.study.cam.ac.uk/courses/directory/cvphpdhpc){:target="_blank" rel="noopener"}**, University of Cambridge (expected)
+* 10/2023 - present: **[PhD in Public Health and Primary Care](https://www.postgraduate.study.cam.ac.uk/courses/directory/cvphpdhpc){:target="_blank" rel="noopener"}**, University of Cambridge (expected)
   * Supervisors: Prof Angela Wood and Dr Lois Kim
   * Based within the Blood and Transplant Research Unit and the Cardiovascular Epidemiology Unit
 
