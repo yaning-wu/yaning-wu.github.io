@@ -20,9 +20,9 @@ education
 
 academic awards and honours
 ======
-* 06/2023: **NIHR PhD Studentship**. Awarded full scholarship from the NIHR for a 3-year PhD in blood donor health at the University of Cambridge.
-* 05/2023: **ESRC DTP Studentship** (unused). Awarded full scholarship from the ESRC for a 3.5-year PhD in blood donor recruitment at the University of Nottingham.
-* 03/2023: **ACRC Academy PhD Studentship** (unused). Awarded full scholarship from the Advanced Care Research Centre for a 4-year PhD in multimorbidity at the University of Edinburgh.
+* 06/2023: **NIHR PhD Studentship**. Awarded full scholarship from the National Institute for Health and Care Research (NIHR) for a 3-year PhD in blood donor health at the University of Cambridge.
+* 05/2023: **ESRC DTP Studentship** (unused). Awarded full scholarship from the Economic and Social Research Council (ESRC) for a 3.5-year PhD in blood donor recruitment at the University of Nottingham.
+* 03/2023: **ACRC Academy PhD Studentship** (unused). Awarded full scholarship from the Advanced Care Research Centre (ACRC) for a 4-year PhD in multimorbidity at the University of Edinburgh.
 * 07/2022: **Dean's List, 2021-22**. Awarded for outstanding academic performance by 2022 graduates, equivalent to the top 5% of student achievement within UCL's Faculty of Population Health Sciences.
 * 09/2021: **Undergraduate Scholarship for Excellence, Year 2**. Awarded to the most academically outstanding student in 2020-21 in my BSc cohort. £3 000.
 * 09/2021: **Year 2 Prize for Overall Academic Achievement**. Awarded to the highest-scoring student across all modules in my BSc cohort.
@@ -103,17 +103,14 @@ other work experience
 
 publications
 ======
-**2021**<br>
-<b>Wu Y</b> et al. Keeping Our Frontline Safe: Linking personal protective equipment policies and healthcare worker mortality in the United Kingdom, United States, Germany, and New Zealand. Bentham Brooks Institute Research Journal, 2021, 1(1):125–189. Available [here](https://issuu.com/ucleuropeanhorizons/docs/final_bbi_global_health__new__1){:target="_blank" rel="noopener"}.
+* <b>Wu Y</b> et al. Keeping Our Frontline Safe: Linking personal protective equipment policies and healthcare worker mortality in the United Kingdom, United States, Germany, and New Zealand. Bentham Brooks Institute Research Journal, 2021, 1(1):125–189. Available [here](https://issuu.com/ucleuropeanhorizons/docs/final_bbi_global_health__new__1){:target="_blank" rel="noopener"}.
 
 *You can also find my publications on my [Google Scholar profile](https://scholar.google.co.uk/citations?user=BfQsB3gAAAAJ&hl=en){:target="_blank" rel="noopener"}.*
   
 talks
 ======
-**2021**<br>
-17/06/2021 | Individual presentation at UCL's 2021 [R Project Showcase](https://www.ucl.ac.uk/research/domains/eresearch/developing-technical-skills-good-practice-careers/develop-better-research-software-0#Research){:target="_blank" rel="noopener"}: **Can you hear the sirens? Presenting ambulance response patterns during a coronavirus surge using multimedia**. Based on [this](https://wmjlwuh.medium.com/can-you-hear-the-sirens-61fe05efb1eb){:target="_blank" rel="noopener"} blog post. Abstract [here](https://www.ellenwebborn.com/pdf/Abstracts_v03.pdf){:target="_blank" rel="noopener"}. 
-<br><br>
-21/03/2021 | Research team presentation at the Bentham Brooks Institute Research Conference: **Keeping our frontline safe: Linking personal protective equipment policies and healthcare worker mortality in the United Kingdom, United States, Germany, and New Zealand**. Recording [here](https://www.youtube.com/watch?v=Gw9sNWdPD4E){:target="_blank" rel="noopener"}. 
+* 06/2021: Individual presentation at UCL's 2021 [R Project Showcase](https://www.ucl.ac.uk/research/domains/eresearch/developing-technical-skills-good-practice-careers/develop-better-research-software-0#Research){:target="_blank" rel="noopener"}: **Can you hear the sirens? Presenting ambulance response patterns during a coronavirus surge using multimedia**. Based on [this](https://wmjlwuh.medium.com/can-you-hear-the-sirens-61fe05efb1eb){:target="_blank" rel="noopener"} blog post. Abstract [here](https://www.ellenwebborn.com/pdf/Abstracts_v03.pdf){:target="_blank" rel="noopener"}. 
+* 03/2021: Research team presentation at the Bentham Brooks Institute Research Conference: **Keeping our frontline safe: Linking personal protective equipment policies and healthcare worker mortality in the United Kingdom, United States, Germany, and New Zealand**. Recording [here](https://www.youtube.com/watch?v=Gw9sNWdPD4E){:target="_blank" rel="noopener"}. 
   
 leadership
 ======
