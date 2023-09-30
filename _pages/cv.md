@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-education
-======
+## education
 * 09/2019 - 06/2022: **[BSc in Population Health Sciences](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/population-health-sciences-bsc){:target="_blank" rel="noopener"}** (Data Science specialism), University College London (first class honours)
   * 1st year modules: Epidemiological Transition, Social Determinants of Health, Measuring Population Health, Social Determinants of Health, Research Methods in Population Health, Principles of Social Science Research, Introduction to Quantitative Research Methods (all pass/fail assessed due to COVID-19 pandemic)
   * 2nd year modules: Frontiers of Knowledge in Population Health (80+), The Life Course (75+), Acute and Chronic Infectious Diseases (70+), Health Demography (80+), Health and Behaviour (80+), Qualitative Research Methods (80+), Data Analysis (65+)
@@ -24,8 +23,7 @@ education
   * Supervisors: Prof Angela Wood and Dr Lois Kim
   * Based within the Blood and Transplant Research Unit and the Cardiovascular Epidemiology Unit
 
-academic awards and honours
-======
+## academic awards and honours
 * 06/2023: **NIHR PhD Studentship**. Awarded full scholarship from the National Institute for Health and Care Research (NIHR) for a 3-year PhD in blood donor health at the University of Cambridge.
 * 05/2023: **ESRC DTP Studentship** (unused). Awarded full scholarship from the Economic and Social Research Council (ESRC) for a 3.5-year PhD in blood donor recruitment at the University of Nottingham.
 * 03/2023: **ACRC Academy PhD Studentship** (unused). Awarded full scholarship from the Advanced Care Research Centre (ACRC) for a 4-year PhD in multimorbidity at the University of Edinburgh.
@@ -35,8 +33,7 @@ academic awards and honours
 * 07/2019: **AP Scholar with Distinction**. Awarded to Advanced Placement (American A-level equivalent) candidates with excellent performance across five or more exams.
 * 06/2019: **Highest Honours**. Awarded to students in the top 10% of my high school's 2019 graduating class.
 
-research experience
-======
+## research experience
 * 03/2023 - 08/2023: **Research Student @ [Clinical Trials Service Unit](https://www.ctsu.ox.ac.uk/){:target="_blank" rel="noopener"}, University of Oxford**
   * designed pheWAS study, conducted a literature review, ran analyses in R, and presented findings as part of MSc placement
   * drafted Lancet-style journal article for assessment
@@ -49,8 +46,7 @@ research experience
   * led six-person team to conceptualise and publish paper linking personal protective equipment policies and healthcare worker mortality during COVID-19 in four high-income countries (cited in presentations to UK policymakers)
   * presented paper to interdisciplinary academic and student audience in 2021 research conference
 
-skills and proficiencies
-======
+## skills and proficiencies
 * study design (incl. cross-sectional, case-control, cohort, and trial designs)
   * research question formulation
   * protocol and proposal drafting
@@ -88,8 +84,7 @@ skills and proficiencies
   * French ([CEFR](https://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale){:target="_blank" rel="noopener"} B1/2)
   * Egyptian colloquial Arabic (enough to get by in Cairo)
     
-other work experience
-======
+## other work experience
 * 07/2022: **Journalism Intern @ [Carbon Brief](https://www.carbonbrief.org/){:target="_blank" rel="noopener"}**
   * covered a [Nature paper](https://www.nature.com/articles/s41558-022-01401-w){:target="_blank" rel="noopener"} on migration and climate change (including interviewing lead author, Harvard Kennedy School Environmental Fellow [Dr Hélène Benveniste](https://www.helenebenveniste.com/){:target="_blank" rel="noopener"})
   * contributed to a [media reaction piece](https://www.carbonbrief.org/media-reaction-uks-record-smashing-40c-heatwave-and-climate-change/){:target="_blank" rel="noopener"} about the summer 2022 UK heatwave on a tight deadline (and while melting)
@@ -107,23 +102,19 @@ other work experience
   * researched, analysed, and visualised data on the nature of economic inequality in the UK and other high-income countries with a focus on how protected characteristics
   * reviewed literature around economics, income and wealth inequality, and disability theory
 
-publications
-======
+## publications
 * <b>Wu Y</b> et al. Keeping Our Frontline Safe: Linking personal protective equipment policies and healthcare worker mortality in the United Kingdom, United States, Germany, and New Zealand. Bentham Brooks Institute Research Journal, 2021, 1(1):125–189. Available [here](https://issuu.com/ucleuropeanhorizons/docs/final_bbi_global_health__new__1){:target="_blank" rel="noopener"}.
 
 *You can also find my publications on my [Google Scholar profile](https://scholar.google.co.uk/citations?user=BfQsB3gAAAAJ&hl=en){:target="_blank" rel="noopener"}.*
   
-talks
-======
+## talks
 * 06/2021: Individual presentation at UCL's 2021 [R Project Showcase](https://www.ucl.ac.uk/research/domains/eresearch/developing-technical-skills-good-practice-careers/develop-better-research-software-0#Research){:target="_blank" rel="noopener"}: **Can you hear the sirens? Presenting ambulance response patterns during a coronavirus surge using multimedia**. Based on [this](https://wmjlwuh.medium.com/can-you-hear-the-sirens-61fe05efb1eb){:target="_blank" rel="noopener"} blog post. Abstract [here](https://www.ellenwebborn.com/pdf/Abstracts_v03.pdf){:target="_blank" rel="noopener"}. 
 * 03/2021: Research team presentation at the Bentham Brooks Institute Research Conference: **Keeping our frontline safe: Linking personal protective equipment policies and healthcare worker mortality in the United Kingdom, United States, Germany, and New Zealand**. Recording [here](https://www.youtube.com/watch?v=Gw9sNWdPD4E){:target="_blank" rel="noopener"}. 
   
-leadership
-======
+## leadership
 * ...
 
-volunteering
-======
+## volunteering
 * ...
 
 
