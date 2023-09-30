@@ -86,7 +86,7 @@ author:
   location         : "Cambridge, 🇬🇧"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.co.uk/citations?view_op=list_works&hl=en&hl=en&user=BfQsB3gAAAAJ"
+  googlescholar    : # "https://scholar.google.co.uk/citations?view_op=list_works&hl=en&hl=en&user=BfQsB3gAAAAJ"
   email            : "ywu645@cam.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
