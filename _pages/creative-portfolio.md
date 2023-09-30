@@ -87,7 +87,7 @@ author_profile: true
   <p style="margin-left:2em"><b>telling the story of "come from away"</b> with found objects</p>
 <iframe style="margin-left:2em" width="560" height="315" src="https://www.youtube.com/embed/qIkPQtrzfXs?si=LWLj1SYTdiK7nTyo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   <br>
-  commended by real-life Gander residents and by the West End's "Come From Away" production.
+  <p style="margin-left:2em"><i>commended by real-life Gander residents and by the West End's "Come From Away" production.</i></p>
   <p style="margin-left:2em"><b>polar bears</b> a christmas story</p>
 <iframe style="margin-left:2em" width="560" height="315" src="https://www.youtube.com/embed/9vflCz6MUwM?si=U-1b3ZwA-cx9_xBj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   <p style="margin-left:2em"><b>thanksgiving</b> what gratitude means to 500 people</p>
