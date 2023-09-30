@@ -69,11 +69,11 @@ author_profile: true
 <b><i>self-portrait</i></b>, 2017. graphite on A4 card.
 </details> 
 
-<!---multimedia stories---> 
+<!---multimedia---> 
 
 <details>
   <summary>
-    <b>multimedia work</b> creating and borrowing material to tell personal and communal stories
+    <b>multimedia</b> creating and borrowing material to tell personal and communal stories
     <br>
   </summary> 
   <p style="margin-left:2em"><b>a 9/12 story</b> hospitality during international tragedy</p>
