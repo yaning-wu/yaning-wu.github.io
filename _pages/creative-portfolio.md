@@ -5,6 +5,8 @@ permalink: /creative-portfolio/
 author_profile: true
 ---
 
+I consider my self-directed creative work an integral part of my identity as a beginner researcher, and one that keeps me motivated during challenging periods. here are some examples of my outputs:
+
 <!---visual art---> 
 
 <div>
@@ -77,7 +79,7 @@ author_profile: true
     <b>multimedia</b> creating and borrowing material to tell personal and communal stories
     <br>
   </summary> 
-  <p style="margin-left:2em"><b>hospitality during international tragedy: a 9/12 story</b> september 2023</p>
+  <p style="margin-left:2em"><b>a 9/12 story</b> september 2023</p>
 <iframe style="margin-left:2em" width="560" height="315" src="https://www.youtube.com/embed/ihIQh7mgDAM?si=msxP1us_cg17cCvl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   <p style="margin-left:2em"><b>coding a flower with R for father's day</b> june 2023</p>
 <iframe style="margin-left:2em" width="560" height="315" src="https://www.youtube.com/embed/cpqRz9zeLoE?si=XIcSQ2YFG5NEWhfo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
