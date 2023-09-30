@@ -123,7 +123,7 @@ to here where he sits taller than your sighs<br>
 on your shoulders ever-enchanted by your<br>
 smiling bright and what that smile had<br> 
 swallowed from words too wide<br> 
-to unknowns that seemed always wider.<br>
+to unknowns that seemed always wider.<br><br>
 
 I reached the softest section – there<br>
 you were as the double doors gave way<br>
