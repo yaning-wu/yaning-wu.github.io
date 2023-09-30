@@ -76,37 +76,19 @@ author_profile: true
     <b>multimedia</b> creating and borrowing material to tell personal and communal stories
     <br>
   </summary> 
-  <p style="margin-left:2em"><b>a 9/12 story</b> hospitality during international tragedy</p>
-  <br> 
-  september 2023
-  <br>
+  <p style="margin-left:2em"><b>hospitality during international tragedy: a 9/12 story</b> september 2023</p>
 <iframe style="margin-left:2em" width="560" height="315" src="https://www.youtube.com/embed/ihIQh7mgDAM?si=msxP1us_cg17cCvl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-  <p style="margin-left:2em"><b>coding a flower with R</b> for father's day 2023</p>
-  <br> 
-  june 2023
-  <br>  
+  <p style="margin-left:2em"><b>coding a flower with R for father's day 2023</b> june 2023</p>
 <iframe style="margin-left:2em" width="560" height="315" src="https://www.youtube.com/embed/cpqRz9zeLoE?si=XIcSQ2YFG5NEWhfo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-  <p style="margin-left:2em"><b>tum hi ho</b> translated from hindi to english to french</p>
-  <br> 
-  april 2023
-  <br>
+  <p style="margin-left:2em"><b>"tum hi ho" translated from hindi to english to french</b> april 2023</p>
 <iframe style="margin-left:2em" width="560" height="315" src="https://www.youtube.com/embed/7rAOULkXF6U?si=NxeW05YscUv2_LUT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-  <p style="margin-left:2em"><b>telling the story of "come from away"</b> with found objects</p>
-  <br> 
-  january 2023
-  <br>
+  <p style="margin-left:2em"><b>telling the story of "come from away" with found objects</b> january 2023</p>
 <iframe style="margin-left:2em" width="560" height="315" src="https://www.youtube.com/embed/qIkPQtrzfXs?si=LWLj1SYTdiK7nTyo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   <br>
   <p style="margin-left:2em"><i>commended by real-life Gander residents and by the West End's "Come From Away" production.</i></p>
-  <p style="margin-left:2em"><b>polar bears</b> a christmas story</p>
-  <br> 
-  december 2022
-  <br>
+  <p style="margin-left:2em"><b>polar bears: a christmas story</b> december 2022</p>
 <iframe style="margin-left:2em" width="560" height="315" src="https://www.youtube.com/embed/9vflCz6MUwM?si=U-1b3ZwA-cx9_xBj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-  <p style="margin-left:2em"><b>thanksgiving</b> what gratitude means to 500 people</p>
-  <br> 
-  november 2022
-  <br>
+  <p style="margin-left:2em"><b>thanksgiving: what gratitude means to 500 people</b> november 2022</p>
 <iframe style="margin-left:2em" width="560" height="315" src="https://www.youtube.com/embed/O-gSNdvSXsM?si=upVZp36AqPle9CaD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </details> 
 
