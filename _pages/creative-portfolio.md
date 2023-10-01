@@ -5,7 +5,7 @@ permalink: /creative-portfolio/
 author_profile: true
 ---
 
-I consider my self-directed creative work an integral part of my identity as a beginner researcher, and one that keeps me motivated during challenging periods. here are some examples of my outputs:
+I consider my self-directed creative work an integral part of my identity as a researcher, and one that keeps me motivated during challenging periods. here are some examples of my outputs:
 
 <!---visual art---> 
 
