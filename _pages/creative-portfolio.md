@@ -15,6 +15,7 @@ I consider my self-directed creative work an integral part of my identity as a r
     <b>visual art</b> drawing from life, memory, and places in between
     <br>
   </summary>
+  <div style="margin-left:2em">
 <img src="../images/good girl.jpeg" alt="sketch of a swedish vallhund wearing a blue t-shirt with text 'you deserve all the not-so-sweet (cake emoji) in the universe'">
 <br><br>
 <b><i>good girl</i></b>, 2023. ink on A4 sketchbook paper and digital drawing. produced for mom's birthday.
@@ -70,6 +71,7 @@ I consider my self-directed creative work an integral part of my identity as a r
 <img src="../images/self-portrait.jpeg" alt="sketch of yaning, a teenage chinese woman in glasses staring intently at the camera">
 <br><br>
 <b><i>self-portrait</i></b>, 2017. graphite on A4 card.
+    </div>
 </details> 
 </div>
 <!---multimedia---> 
