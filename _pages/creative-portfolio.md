@@ -24,6 +24,10 @@ I consider my self-directed creative work an integral part of my identity as a r
 <br><br>
 <b><i>bridge of sighs</i></b>, 2023. ink on A5 card and limited prints.
 <br><br>
+<img src="../images/flamingo-flamenco.JPG" alt="collage of various pink things turned into a flamingo with a backdrop of flamenco dancers">
+<br><br>
+<b><i>flamingo/flamenco</i></b>, 2023. magazine collage on A6 card and limited zines (produced during Blossoming Wards workshop).
+<br><br>
 <img src="../images/the gentleman.jpeg" alt="black-and-white sketch of an anteater in a bow tie talking to a group of ants. the anteater says 'hey how do I look? I'm meeting a date at this buffet tonight!'">
 <br><br>
 <b><i>the gentleman</i></b>, 2023. ink and highlighter on postcard. produced in support of Sobell House Hospice's <a href="https://sobellhouse.org/get-involved/my-lovely-postcards/" target="_blank">art auction</a> to fundraise for hospice care training for nurses.
