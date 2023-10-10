@@ -26,8 +26,6 @@ redirect_from:
 
 ## academic awards and honours
 * 06/2023: **NIHR PhD Studentship**. Awarded full scholarship from the National Institute for Health and Care Research (NIHR) for a 3-year PhD in blood donor health at the University of Cambridge.
-* 05/2023: **ESRC DTP Studentship** (unused). Awarded full scholarship from the Economic and Social Research Council (ESRC) for a 3.5-year PhD in blood donor recruitment at the University of Nottingham.
-* 03/2023: **ACRC Academy PhD Studentship** (unused). Awarded full scholarship from the Advanced Care Research Centre (ACRC) for a 4-year PhD in multimorbidity at the University of Edinburgh.
 * 07/2022: **Dean's List, 2021-22**. Awarded for outstanding academic performance by 2022 graduates, equivalent to the top 5% of student achievement within UCL's Faculty of Population Health Sciences.
 * 09/2021: **Undergraduate Scholarship for Excellence, Year 2**. Awarded to the most academically outstanding student in 2020-21 in my BSc cohort. £3 000.
 * 09/2021: **Year 2 Prize for Overall Academic Achievement**. Awarded to the highest-scoring student across all modules in my BSc cohort.
