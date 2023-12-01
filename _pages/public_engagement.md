@@ -9,7 +9,7 @@ author_profile: true
 
 I become a keeper, sharer, or recipient of knowledge depending on my environment. As I continue reflecting the power these identities hold, here's some information about my public engagement experience. I intend to continue **working with diverse stakeholders during my doctoral studies to improve the impact and accessibility of my research**.
 
-### as a researcher
+### as a product designer
 * As the co-founder of <b>[WordSmith](https://www.wordsmithtech.com/){:target="_blank" rel="noopener"}</b>, an app for people with word-retrieval difficulties caused by stroke, dementia, or learning disability, I spoke with potential users and speech and language therapists to learn about what they value in assistive technology software. With a volunteer team, I then implemented this feedback into our iterating prototypes. 
 * For a digital health module during my undergraduate studies, I ideated <b>emBRACE</b>, a software helping adolescent idiopathic scoliosis patients to customise their orthotics. When considering whether I should make the technology come to life, I spoke to patients, families, and clinicians about the challenges they face with treatment adherence. Through these conversations, I realised that my idea wouldn't fill a pressing or prevalent need and therefore halted its development.
 
