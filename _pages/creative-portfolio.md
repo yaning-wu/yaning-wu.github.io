@@ -36,6 +36,12 @@ I consider my self-directed creative work an integral part of my identity as a r
 <br><br>
 <b><i>初一</i></b>, 2022. ink on printer paper.
 <br><br>
+<img src="../images/refugees-1.png" alt="black-and-white sketch of a series of items belonging to refugees from an unnamed state">
+<br>
+<img src="../images/refugees-2.png" alt="black-and-white sketch of a series of items belonging to refugees from an unnamed state">   
+<br>
+<b><i>could these belong to you?</i></b>, 2021. digital illustration using references from Google Images.
+<br><br> 
 <img src="../images/birchington-on-sea.png" alt="black-and-white sketch of the kent coast">
 <br><br>
 <b><i>birchington-on-sea</i></b>, 2021. ink on A4 card. 
