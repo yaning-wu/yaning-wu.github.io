@@ -21,7 +21,7 @@ redirect_from:
   * Dissertation: "Fresh fruit consumption and the risks of >350 diseases in China: a prospective cohort study" supervised by [Dr Pang Yao](https://www.ndph.ox.ac.uk/team/pang-yao){:target="_blank" rel="noopener"}, [Assoc Prof Huaidong Du](https://www.ndph.ox.ac.uk/team/huaidong-du){:target="_blank" rel="noopener"}, and [Assoc Prof Derrick Bennett](https://www.ndph.ox.ac.uk/team/derrick-bennett){:target="_blank" rel="noopener"}
     
 * 10/2023 - present: **[PhD (Probationary) in Public Health and Primary Care](https://www.postgraduate.study.cam.ac.uk/courses/directory/cvphpdhpc){:target="_blank" rel="noopener"}**, University of Cambridge
-  * Supervisors: Prof Angela Wood and Dr Lois Kim
+  * Supervisor: Dr Lois Kim
   * Based within the Blood and Transplant Research Unit and the Cardiovascular Epidemiology Unit
 
 ## academic awards and honours
