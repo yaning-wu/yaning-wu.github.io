@@ -90,7 +90,9 @@ I consider my self-directed creative work an integral part of my identity as a r
   <summary>
     <b>multimedia</b> creating and borrowing material to tell personal and communal stories
     <br>
-  </summary> 
+  </summary>
+  <p style="margin-left:2em"><b>holiday wishes from thirty-two bears</b> december 2023</p>
+<iframe style="margin-left:2em" width="560" height="315" src="https://www.youtube.com/embed/oX0sLidqJWk?si=CZIa0e3_cMuQUysY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   <p style="margin-left:2em"><b>thanksgiving 2023: what gratitude means to 178 people</b> december 2023</p>
 <iframe style="margin-left:2em" width="560" height="315" src="https://www.youtube.com/embed/z4FWHgYv2Pc?si=CG0xfXveYX_acpi1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   <p style="margin-left:2em"><b>a 9/12 story</b> september 2023</p>
