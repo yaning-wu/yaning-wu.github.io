@@ -16,4 +16,8 @@ If you're in Cambridge, come say hi at the Victor Phillip Dahdaleh Heart and Lun
 
 ![hlri-cropped](https://github.com/yaning-wu/yaning-wu.github.io/assets/145920710/27efc361-6b76-4e28-9754-ae151afcb43e)
 
+**my 2023 updates**
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7144392142906413056" height="1274" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
 This website was built using the [Academic Pages template](https://academicpages.github.io/){:target="_blank" rel="noopener"}. 
