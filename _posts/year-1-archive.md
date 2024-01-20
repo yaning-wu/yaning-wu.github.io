@@ -3,7 +3,7 @@ title: 'september 25, 2023 - january 1, 2024: archives from a week in the life'
 date: 2024-01-01
 permalink: /posts/2024/01/year-1-archives
 tags:
-  - archive
+  - week-in-the-life
 ---
 
 <details>
