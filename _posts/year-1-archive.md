@@ -1,3 +1,11 @@
+---
+title: 'september 25, 2023 - january 1, 2024: archives from a week in the life'
+date: 2024-01-14
+permalink: /posts/2024/01/14-post
+tags:
+  - archive
+---
+
 <details>
   <summary><b>week 0</b> w/c 25 sept 2023</summary>
   <ul>
