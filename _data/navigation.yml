@@ -9,8 +9,8 @@ main:
   - title: "creative portfolio"
     url: /creative-portfolio/
     
-  - title: "weekly updates"
-    url: /weekly-updates/
+# - title: "weekly updates"
+   # url: /weekly-updates/ 
 
   - title: "blog"
     url: /blog/
