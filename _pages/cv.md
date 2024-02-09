@@ -40,8 +40,7 @@ redirect_from:
 * 04/2021 -  07/2021: **Research Assistant @ [Aceso Global Health Consultants](https://www.acesoghc.com/){:target="_blank" rel="noopener"}**
   * edited research protocols, conducted literature reviews, and developed interventions for a [RSPH-award-winning](https://www.arc-nt.nihr.ac.uk/news-and-events/2021/september/community-led-neon-programme-wins-rsph-award/){:target="_blank" rel="noopener"} [child nutrition RCT](https://www.acesoghc.com/neon){:target="_blank" rel="noopener"}
   * took meeting minutes and assisted research team with administrative tasks
-  * the NEON trial protocol can be found [here](https://bmjopen.bmj.com/content/13/11/e063885){:target="_blank" rel="noopener"}!
-    
+  * the NEON trial protocol can be found [here](https://bmjopen.bmj.com/content/13/11/e063885.full){:target="_blank" rel="noopener"}!
 
 * 10/2020 - 03/2021: **Research Team Lead @ [Bentham Brooks Institute](https://benthambrooks.wixsite.com/home){:target="_blank" rel="noopener"}**
   * led six-person team to conceptualise and publish paper linking personal protective equipment policies and healthcare worker mortality during COVID-19 in four high-income countries (cited in presentations to UK policymakers)
