@@ -113,6 +113,6 @@ redirect_from:
 * 03/2021: Research team presentation at the Bentham Brooks Institute Research Conference: **Keeping our frontline safe: Linking personal protective equipment policies and healthcare worker mortality in the United Kingdom, United States, Germany, and New Zealand**. Recording [here](https://www.youtube.com/watch?v=Gw9sNWdPD4E){:target="_blank" rel="noopener"}. 
 
 ## volunteering and leadership
-You can learn more about my volunteering and leadership experience via my [LinkedIn profile](https://www.linkedin.com/in/yaning-wu/){:target="_blank" rel="noopener"}.
+You can learn more about my volunteering and leadership experience via my [LinkedIn profile](https://www.linkedin.com/in/yaning-wu/details/volunteering-experiences/){:target="_blank" rel="noopener"}.
 
 
