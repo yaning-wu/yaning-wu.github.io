@@ -1,0 +1,127 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title>onemorelight</title>
+  <meta name="Author" content="Yaning Wu">
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="1894.6">
+  <style type="text/css">
+    p.p2 {margin: 0.0px 0.0px 20.0px 0.0px; text-align: center; line-height: 30.0px; font: 20.0px Georgia; color: #141414; -webkit-text-stroke: #141414}
+    p.p3 {margin: 0.0px 0.0px 20.0px 0.0px; line-height: 25.0px; font: 17.0px Menlo; color: #141414; -webkit-text-stroke: #141414}
+    p.p5 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 25.0px; font: 17.0px Menlo; color: #141414; -webkit-text-stroke: #141414}
+    p.p7 {margin: 0.0px 0.0px 20.0px 0.0px; line-height: 30.0px; font: 20.0px Georgia; color: #141414; -webkit-text-stroke: #141414}
+    span.s1 {font-kerning: none}
+    span.s2 {text-decoration: underline ; font-kerning: none}
+  </style>
+</head>
+<body>
+<h1 style="margin: 0.0px 0.0px 26.8px 0.0px; text-align: center; line-height: 60.0px; font: 40.0px Georgia; color: #141414; -webkit-text-stroke: #141414"><span class="s1"><b>onemorelight</b></span></h1>
+<p class="p2"><span class="s1">Yaning Wu</span></p>
+<p class="p2"><span class="s1">2024-02-15</span></p>
+<p class="p3"><span class="s1">{r setup, include=FALSE} knitr::opts_chunk$set(echo = TRUE)</span></p>
+<h1 style="margin: 0.0px 0.0px 26.8px 0.0px; line-height: 60.0px; font: 40.0px Georgia; color: #141414; -webkit-text-stroke: #141414"><span class="s1"><b>Loading packages</b></span></h1>
+<p class="p5"><span class="s1">library(ggplot2)</span></p>
+<p class="p5"><span class="s1">library(rlang)</span></p>
+<h1 style="margin: 0.0px 0.0px 26.8px 0.0px; line-height: 60.0px; font: 40.0px Georgia; color: #141414; -webkit-text-stroke: #141414"><span class="s1"><b>Original function</b></span></h1>
+<p class="p5"><span class="s1">onemorelight &lt;- function(df, datetime, title){</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">  </span>library(ggplot2)</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">    </span>df[, 1] &lt;- as.POSIXct(strptime(df[, 1], format = datetime))</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">    </span>first_df &lt;- data.frame(c(1:sum(df[, 2])), c(1:sum(df[, 2])), c(1:sum(df[, 2])))</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">    </span>names(first_df) &lt;- c("date", "X", "Y")</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">    </span>duptimes &lt;- df[, 2]</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">    </span>index &lt;- rep(1:nrow(df), duptimes)</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">    </span>incomp_df &lt;- df[index, ]</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">    </span>new_df &lt;- incomp_df</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">    </span>new_df[, 2] &lt;- runif(nrow(incomp_df), min = 0, max = 10000)</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">    </span>new_df[, 3] &lt;- runif(nrow(incomp_df), min = 0, max = 100)</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">    </span>plot &lt;- ggplot(new_df, aes(x = new_df[, 2], y = new_df[, 3])) +<span class="Apple-converted-space"> </span></span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">      </span>geom_point(shape = 21, size = 0.02, color = "#edd290", fill = "white", stroke = 0.15) +</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">      </span>facet_grid(new_df[, 1] ~.) +</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">      </span>labs(title = title) +</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">      </span>theme_void() +</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">      </span>theme(plot.title = element_text(face = "bold", color = "white", size = 5, margin = margin(0, 0, 5, 0), hjust = 0.055),</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">            </span>strip.text = element_text(size = 2.5, color = "light grey", face = "bold", margin = margin(2, 0, 3, 0)),</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">            </span>plot.margin = margin(20, 20, 20, 20, "pt"),</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">            </span>plot.background = element_rect(fill = "#002241", color = NA),</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">            </span>panel.spacing = unit(0.008, "lines"))</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">    </span>return(plot)</span></p>
+<p class="p5"><span class="s1">}</span></p>
+<h1 style="margin: 0.0px 0.0px 26.8px 0.0px; line-height: 60.0px; font: 40.0px Georgia; color: #141414; -webkit-text-stroke: #141414"><span class="s1"><b>Original function (non-sensical parts removed)</b></span></h1>
+<p class="p5"><span class="s1">onemorelight &lt;- function(df, datetime, title){</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">  </span>library(ggplot2)</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">    </span>df[, 1] &lt;- as.POSIXct(strptime(df[, 1], format = datetime))</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">    </span>duptimes &lt;- df[, 2]</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">    </span>index &lt;- rep(1:nrow(df), duptimes)</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">    </span>incomp_df &lt;- df[index, ]</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">    </span>new_df &lt;- incomp_df</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">    </span>new_df[, 2] &lt;- runif(nrow(incomp_df), min = 0, max = 10000)</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">    </span>new_df[, 3] &lt;- runif(nrow(incomp_df), min = 0, max = 100)</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">    </span>plot &lt;- ggplot(new_df, aes(x = new_df[, 2], y = new_df[, 3])) +<span class="Apple-converted-space"> </span></span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">      </span>geom_point(shape = 21, size = 0.02, color = "#edd290", fill = "white", stroke = 0.15) +</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">      </span>facet_grid(new_df[, 1] ~.) +</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">      </span>labs(title = title) +</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">      </span>theme_void() +</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">      </span>theme(plot.title = element_text(face = "bold", color = "white", size = 5, margin = margin(0, 0, 5, 0), hjust = 0.055),</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">            </span>strip.text = element_text(size = 2.5, color = "light grey", face = "bold", margin = margin(2, 0, 3, 0)),</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">            </span>plot.margin = margin(20, 20, 20, 20, "pt"),</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">            </span>plot.background = element_rect(fill = "#002241", color = NA),</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">            </span>panel.spacing = unit(0.008, "lines"))</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">    </span>return(plot)</span></p>
+<p class="p5"><span class="s1">}</span></p>
+<h1 style="margin: 0.0px 0.0px 26.8px 0.0px; line-height: 60.0px; font: 40.0px Georgia; color: #141414; -webkit-text-stroke: #141414"><span class="s1"><b>Improved function</b></span></h1>
+<p class="p5"><span class="s1">onemorelight &lt;- function(df,</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">                         </span>dot_colour = "#edd290",</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">                         </span>dot_fill = "white",</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">                         </span>bg_fill = "#002241",</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">                         </span>label_colour = "white",</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">                         </span>title_colour = "white",</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">                         </span>facet = T,</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">                         </span>title = "one more light",</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">                         </span>filename,</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">                         </span>width = 30,</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">                         </span>height = 45){</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">    </span>if (class(df[, 1]) != "Date" &amp;&amp; class(df[, 1]) != "numeric") {</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">      </span>abort(paste0(</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">        </span>"First column must be a Date or numeric, not ", typeof(df[, 1]), ", object."</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">      </span>)) # more flexible to Date or numeric classes</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">    </span># stops execution if data types are incorrect</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">    </span>}</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">    </span>if (class(df[, 2]) != "numeric") {</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">      </span>abort(paste0(</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">        </span>"First column must be a numeric, not ", typeof(df[, 2]), ", object."</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">      </span>))</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">    </span># stops execution if data types are incorrect <span class="Apple-converted-space"> </span></span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">    </span>}</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">    </span>plot_df &lt;- data.frame(date = df[rep(1:nrow(df), # duplicates the number of total days<span class="Apple-converted-space"> </span></span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">                                 </span>df[, 2]), 1], # the number of events on each day</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">                          </span>x = runif(sum(df[, 2]), min = 0, max = 10000), # generates random x positions for all events</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">                          </span>y = runif(sum(df[, 2]), min = 0, max = 100) # generates random y positions for all events</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">                        </span>)</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">    </span>ggplot(plot_df, aes(x = x, y = y)) +<span class="Apple-converted-space"> </span></span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">      </span>geom_point(shape = 21, size = 0.02, colour = dot_colour, fill = dot_fill, stroke = 0.15) +</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">      </span>{</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">        </span>if (facet) facet_grid(rows = vars(date))</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">        </span>} +<span class="Apple-converted-space"> </span></span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">      </span>labs(title = title) +</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">      </span>theme_void() +</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">      </span>theme(plot.title = element_text(face = "bold", color = title_colour, size = 5, margin = margin(0, 0, 5, 0), hjust = 0.055),</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">            </span>strip.text = element_text(size = 2.5,<span class="Apple-converted-space"> </span></span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">                                      </span>color = label_colour,<span class="Apple-converted-space"> </span></span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">                                      </span>face = "bold",<span class="Apple-converted-space"> </span></span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">                                      </span>margin = margin(2, 0, 3, 0)),</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">            </span>plot.margin = margin(20, 20, 20, 20, "pt"),</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">            </span>plot.background = element_rect(fill = bg_fill, color = NA),</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">            </span>panel.spacing = unit(0.008, "lines"))</span></p>
+<p class="p5"><span class="s1"><span class="Apple-converted-space">    </span>ggsave(filename, width = width, height = height)</span></p>
+<p class="p5"><span class="s1">}</span></p>
+<h1 style="margin: 0.0px 0.0px 26.8px 0.0px; line-height: 60.0px; font: 40.0px Georgia; color: #141414; -webkit-text-stroke: #141414"><span class="s1"><b>Applying function to example data</b></span></h1>
+<h2 style="margin: 0.0px 0.0px 24.9px 0.0px; line-height: 45.0px; font: 30.0px Georgia; color: #141414; -webkit-text-stroke: #141414"><span class="s1"><b>Loading data</b></span></h2>
+<p class="p5"><span class="s1">df &lt;- as.data.frame(read.csv("onemorelight_data.csv"))</span></p>
+<p class="p5"><span class="s1">df$Date &lt;- as.Date(df$Date, format = '%m/%e/%Y')</span></p>
+<h2 style="margin: 0.0px 0.0px 24.9px 0.0px; line-height: 45.0px; font: 30.0px Georgia; color: #141414; -webkit-text-stroke: #141414"><span class="s1"><b>Applying function</b></span></h2>
+<p class="p5"><span class="s1">onemorelight(df, "onemorelight.png")</span></p>
+<p class="p7"><span class="s1">Thank you! :) Please feel free to contact me at </span><span class="s2">yw645@cam.ac.uk</span><span class="s1"> if you have any questions or suggestions.</span></p>
+</body>
+</html>
