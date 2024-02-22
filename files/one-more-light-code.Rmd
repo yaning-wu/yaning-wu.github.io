@@ -1,0 +1,132 @@
+---
+title: "onemorelight"
+author: "Yaning Wu"
+date: '2024-02-15'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Loading packages
+``` {r}
+library(ggplot2)
+library(rlang)
+```
+
+# Original function 
+``` {r}
+onemorelight <- function(df, datetime, title){
+  library(ggplot2)
+    df[, 1] <- as.POSIXct(strptime(df[, 1], format = datetime))
+    first_df <- data.frame(c(1:sum(df[, 2])), c(1:sum(df[, 2])), c(1:sum(df[, 2])))
+    names(first_df) <- c("date", "X", "Y")
+    duptimes <- df[, 2]
+    index <- rep(1:nrow(df), duptimes)
+    incomp_df <- df[index, ]
+    new_df <- incomp_df
+    new_df[, 2] <- runif(nrow(incomp_df), min = 0, max = 10000)
+    new_df[, 3] <- runif(nrow(incomp_df), min = 0, max = 100)
+    plot <- ggplot(new_df, aes(x = new_df[, 2], y = new_df[, 3])) + 
+      geom_point(shape = 21, size = 0.02, color = "#edd290", fill = "white", stroke = 0.15) +
+      facet_grid(new_df[, 1] ~.) +
+      labs(title = title) +
+      theme_void() +
+      theme(plot.title = element_text(face = "bold", color = "white", size = 5, margin = margin(0, 0, 5, 0), hjust = 0.055),
+            strip.text = element_text(size = 2.5, color = "light grey", face = "bold", margin = margin(2, 0, 3, 0)),
+            plot.margin = margin(20, 20, 20, 20, "pt"),
+            plot.background = element_rect(fill = "#002241", color = NA),
+            panel.spacing = unit(0.008, "lines"))
+    return(plot)
+}
+```
+
+# Original function (non-sensical parts removed)
+``` {r}
+onemorelight <- function(df, datetime, title){
+  library(ggplot2)
+    df[, 1] <- as.POSIXct(strptime(df[, 1], format = datetime))
+    duptimes <- df[, 2]
+    index <- rep(1:nrow(df), duptimes)
+    incomp_df <- df[index, ]
+    new_df <- incomp_df
+    new_df[, 2] <- runif(nrow(incomp_df), min = 0, max = 10000)
+    new_df[, 3] <- runif(nrow(incomp_df), min = 0, max = 100)
+    plot <- ggplot(new_df, aes(x = new_df[, 2], y = new_df[, 3])) + 
+      geom_point(shape = 21, size = 0.02, color = "#edd290", fill = "white", stroke = 0.15) +
+      facet_grid(new_df[, 1] ~.) +
+      labs(title = title) +
+      theme_void() +
+      theme(plot.title = element_text(face = "bold", color = "white", size = 5, margin = margin(0, 0, 5, 0), hjust = 0.055),
+            strip.text = element_text(size = 2.5, color = "light grey", face = "bold", margin = margin(2, 0, 3, 0)),
+            plot.margin = margin(20, 20, 20, 20, "pt"),
+            plot.background = element_rect(fill = "#002241", color = NA),
+            panel.spacing = unit(0.008, "lines"))
+    return(plot)
+}
+```
+
+# Improved function
+``` {r}
+onemorelight <- function(df,
+                         dot_colour = "#edd290",
+                         dot_fill = "white",
+                         bg_fill = "#002241",
+                         label_colour = "white",
+                         title_colour = "white",
+                         facet = T,
+                         title = "one more light",
+                         filename,
+                         width = 30,
+                         height = 45){
+    if (class(df[, 1]) != "Date" && class(df[, 1]) != "numeric") {
+      abort(paste0(
+        "First column must be a Date or numeric, not ", typeof(df[, 1]), ", object."
+      )) # more flexible to Date or numeric classes
+    # stops execution if data types are incorrect
+    }
+    if (class(df[, 2]) != "numeric") {
+      abort(paste0(
+        "First column must be a numeric, not ", typeof(df[, 2]), ", object."
+      ))
+    # stops execution if data types are incorrect  
+    }
+    plot_df <- data.frame(date = df[rep(1:nrow(df), # duplicates the number of total days 
+                                 df[, 2]), 1], # the number of events on each day
+                          x = runif(sum(df[, 2]), min = 0, max = 10000), # generates random x positions for all events
+                          y = runif(sum(df[, 2]), min = 0, max = 100) # generates random y positions for all events
+                        )
+    ggplot(plot_df, aes(x = x, y = y)) + 
+      geom_point(shape = 21, size = 0.02, colour = dot_colour, fill = dot_fill, stroke = 0.15) +
+      {
+        if (facet) facet_grid(rows = vars(date))
+        } + 
+      labs(title = title) +
+      theme_void() +
+      theme(plot.title = element_text(face = "bold", color = title_colour, size = 5, margin = margin(0, 0, 5, 0), hjust = 0.055),
+            strip.text = element_text(size = 2.5, 
+                                      color = label_colour, 
+                                      face = "bold", 
+                                      margin = margin(2, 0, 3, 0)),
+            plot.margin = margin(20, 20, 20, 20, "pt"),
+            plot.background = element_rect(fill = bg_fill, color = NA),
+            panel.spacing = unit(0.008, "lines"))
+    ggsave(filename, width = width, height = height)
+}
+```
+
+# Applying function to example data
+## Loading data
+``` {r}
+df <- as.data.frame(read.csv("onemorelight_data.csv"))
+df$Date <- as.Date(df$Date, format = '%m/%e/%Y')
+```
+
+## Applying function
+``` {r}
+onemorelight(df, "onemorelight.png")
+```
+
+Thank you! :)
+Please feel free to contact me at yw645@cam.ac.uk if you have any questions or suggestions.
