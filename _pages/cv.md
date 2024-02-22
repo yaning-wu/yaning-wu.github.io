@@ -8,22 +8,22 @@ redirect_from:
 ---
 
 {% include base_path %}
-## education
+## education  
+* 10/2023 - present: **[PhD (Probationary) in Public Health and Primary Care](https://www.postgraduate.study.cam.ac.uk/courses/directory/cvphpdhpc){:target="_blank" rel="noopener"}**, University of Cambridge
+  * Supervisor: Dr Lois Kim
+  * Based within the Blood and Transplant Research Unit and the Cardiovascular Epidemiology Unit
+ 
+* 10/2022 - 09/2023: **[MSc in Global Health Science and Epidemiology](https://www.ox.ac.uk/admissions/graduate/courses/msc-global-health-science-and-epidemiology){:target="_blank" rel="noopener"}**, University of Oxford (pass with merit, 65%+)
+  * Compulsory modules: Principles of Statistics, Principles of Epidemiology, Introduction to International Research Ethics, Introduction to Global Health Science
+  * Optional modules: Principles and Applications of Data Science, Non-Communicable Diseases, Nutritional Epidemiology, Health Economics, Clinical Trials and Meta-Analyses (audited), Genetic Epidemiology (audited)
+  * Dissertation: "Fresh fruit consumption and the risks of >350 diseases in China: a prospective cohort study" supervised by [Dr Pang Yao](https://www.ndph.ox.ac.uk/team/pang-yao){:target="_blank" rel="noopener"}, [Assoc Prof Huaidong Du](https://www.ndph.ox.ac.uk/team/huaidong-du){:target="_blank" rel="noopener"}, and [Assoc Prof Derrick Bennett](https://www.ndph.ox.ac.uk/team/derrick-bennett){:target="_blank" rel="noopener"}
+
 * 09/2019 - 06/2022: **[BSc in Population Health Sciences](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/population-health-sciences-bsc){:target="_blank" rel="noopener"}** (Data Science specialism), University College London (first class honours, 75%+)
   * 1st year modules: Epidemiological Transition, Social Determinants of Health, Measuring Population Health, Social Determinants of Health, Research Methods in Population Health, Principles of Social Science Research, Introduction to Quantitative Research Methods (all pass/fail assessed due to COVID-19 pandemic)
   * 2nd year modules: Frontiers of Knowledge in Population Health (80+), The Life Course (75+), Acute and Chronic Infectious Diseases (70+), Data Analysis (65+), Health and Behaviour (80+), Qualitative Research Methods (80+), Health Demography (80+)
   * 3rd year modules: Causal Analysis in Data Science (70+), Measurements in Data Science (65+), Health, Poverty and Development (65+), Digital Health (70+), Population Ageing (90+), Health Psychology (70+)
   * Dissertation (70+): "Feeling less useful but under less strain: furlough and psychological distress in the UK Household Longitudinal Study’s COVID-19 waves" supervised by [Dr Liam Wright](https://www.ucl.ac.uk/mental-health/people/liam-wright){:target="_blank" rel="noopener"}
-
-* 10/2022 - 09/2023: **[MSc in Global Health Science and Epidemiology](https://www.ox.ac.uk/admissions/graduate/courses/msc-global-health-science-and-epidemiology){:target="_blank" rel="noopener"}**, University of Oxford (pass with merit, 65%+)
-  * Compulsory modules: Principles of Statistics, Principles of Epidemiology, Introduction to International Research Ethics, Introduction to Global Health Science
-  * Optional modules: Principles and Applications of Data Science, Non-Communicable Diseases, Nutritional Epidemiology, Health Economics, Clinical Trials and Meta-Analyses (audited), Genetic Epidemiology (audited)
-  * Dissertation: "Fresh fruit consumption and the risks of >350 diseases in China: a prospective cohort study" supervised by [Dr Pang Yao](https://www.ndph.ox.ac.uk/team/pang-yao){:target="_blank" rel="noopener"}, [Assoc Prof Huaidong Du](https://www.ndph.ox.ac.uk/team/huaidong-du){:target="_blank" rel="noopener"}, and [Assoc Prof Derrick Bennett](https://www.ndph.ox.ac.uk/team/derrick-bennett){:target="_blank" rel="noopener"}
     
-* 10/2023 - present: **[PhD (Probationary) in Public Health and Primary Care](https://www.postgraduate.study.cam.ac.uk/courses/directory/cvphpdhpc){:target="_blank" rel="noopener"}**, University of Cambridge
-  * Supervisor: Dr Lois Kim
-  * Based within the Blood and Transplant Research Unit and the Cardiovascular Epidemiology Unit
-
 ## academic awards and honours
 * 06/2023: **NIHR PhD Studentship**. Awarded full scholarship from the National Institute for Health and Care Research (NIHR) for a 3-year PhD in blood donor health at the University of Cambridge.
 * 07/2022: **Dean's List, 2021-22**. Awarded for outstanding academic performance by 2022 graduates, equivalent to the top 5% of student achievement within UCL's Faculty of Population Health Sciences.
