@@ -1,16 +1,16 @@
 # main links
 main:
-  - title: "cv"
+  - title: "CV"
     url: /cv/
 
-  - title: "public engagement"
+  - title: "Public engagement"
     url: /public-engagement/    
   
-  - title: "creative portfolio"
+  - title: "Creative portfolio"
     url: /creative-portfolio/
     
 # - title: "weekly updates"
    # url: /weekly-updates/ 
 
-  - title: "blog"
+  - title: "Blog"
     url: /blog/
