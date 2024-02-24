@@ -21,7 +21,7 @@ I become a keeper, sharer, or recipient of knowledge depending on my environment
 ### As an instructor
 * With a £500 grant from Oxford Hub during my MSc, I ran a project called <b>[Blossoming Wards](https://blossomingwards.wordpress.com/){:target="_blank" rel="noopener"}</b> that delivered art from the public to patients at local hospitals. I facilitated at least an hour of art workshops weekly, guiding local residents with varying levels of experience to produce pieces they could be proud of. For more details about the project, read our impact report [here](https://www.linkedin.com/feed/update/urn:li:activity:7104204730624524288/){:target="_blank" rel="noopener"}!
 
-### As a patient/member of the public
+### As the "P" in PPIE
 * Since my scoliosis diagnosis as a teen, I have engaged with researchers, clinicians, and artists to enhance the patient impact of their work.
   * in secondary school, I facilitated support groups for young women with the same diagnosis in Kenya, discussing issues of self-esteem and treatment access to find solutions together.
   * during my undergraduate degree, I interviewed Dr Nachiappan Chockalingam for the British Scoliosis Research Foundation's [magazine](https://sauk.org.uk/wp-content/uploads/2021/07/Backbone-103.pdf){:target="_blank" rel="noopener"} about his investigation of the biomechanics of scoliosis and its translations to clinical settings.
