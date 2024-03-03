@@ -18,8 +18,11 @@ I consider my self-directed creative work an integral part of my identity as a r
   <div style="margin-left:2em">
 <img src="../images/good girl.jpeg" alt="sketch of a swedish vallhund wearing a blue t-shirt with text 'you deserve all the not-so-sweet (cake emoji) in the universe'">
 <br><br>
-<b><i>good girl</i></b>, 2023. ink on A4 sketchbook paper and digital drawing. produced for mom's birthday.
+<b><i>good girl</i></b>, 2023. ink on A4 sketchbook paper and digital drawing. produced for mom's birthday.    
 <br><br>
+<img src="../images/ndph.png" alt="digital sketch with title text 'Happy 10 years, OxPop!' and subtitle text 'We work to prevent suffering and improve human health for everyone through clinical trials, health economics, ethics, perinatal epidemiology, cancer epidemiology, and much more!'. the sketch also includes a rough illustration of a green-and-blue globe with faces peering around every continent. lining the bottom of the image are simplified portraits of patients, staff, researchers, and students who have contributed to the Nuffield Department of Population Health for the last ten years.">
+<br><br>
+<b><i>happy anniversary</i></b>, 2023. digital drawing commissioned by the University of Oxford's Nuffield Department of Population Health.
 <img src="../images/bridge of sighs.jpeg" alt="black-and-white sketch of oxford's bridge of sighs">
 <br><br>
 <b><i>bridge of sighs</i></b>, 2023. ink on A5 card and limited prints.
