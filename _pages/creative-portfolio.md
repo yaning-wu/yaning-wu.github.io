@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "creative portfolio"
+title: "Creative portfolio"
 permalink: /creative-portfolio/
 author_profile: true
 ---
