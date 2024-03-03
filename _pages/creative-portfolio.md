@@ -1,4 +1,4 @@
----
+r---
 layout: archive
 title: "Creative portfolio"
 permalink: /creative-portfolio/
@@ -22,7 +22,7 @@ I consider my self-directed creative work an integral part of my identity as a r
 <br><br>
 <img src="../images/ndph.png" alt="digital sketch with title text 'Happy 10 years, OxPop!' and subtitle text 'We work to prevent suffering and improve human health for everyone through clinical trials, health economics, ethics, perinatal epidemiology, cancer epidemiology, and much more!'. the sketch also includes a rough illustration of a green-and-blue globe with faces peering around every continent. lining the bottom of the image are simplified portraits of patients, staff, researchers, and students who have contributed to the Nuffield Department of Population Health for the last ten years.">
 <br><br>
-<b><i>happy anniversary</i></b>, 2023. digital drawing commissioned by the University of Oxford's Nuffield Department of Population Health.
+<b><i>happy anniversary</i></b>, 2023. digital drawing commissioned by the University of Oxford's <a href="https://www.ndph.ox.ac.uk/10th-anniversary/10th-anniversary" target="_blank">Nuffield Department of Population Health</a>.
 <img src="../images/bridge of sighs.jpeg" alt="black-and-white sketch of oxford's bridge of sighs">
 <br><br>
 <b><i>bridge of sighs</i></b>, 2023. ink on A5 card and limited prints.
