@@ -1,7 +1,7 @@
 ---
 title: 'What if you can't give blood?'
 date: 2024-03-19
-permalink: /posts/2024/03/19-what-if-you-can't-give-blood
+permalink: /what-if-you-can't-give-blood
 tags:
   - out-in-the-world
 ---
