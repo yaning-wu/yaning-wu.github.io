@@ -2,8 +2,6 @@
 title: 'What if you can't give blood?'
 date: 2024-03-19
 permalink: /what-if-you-can't-give-blood
-tags:
-  - out-in-the-world
 ---
 
 Today was going to be the Big Day.
