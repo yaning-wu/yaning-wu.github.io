@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-## education  
+## Education  
 * 10/2023 - present: **[PhD (Probationary) in Public Health and Primary Care](https://www.postgraduate.study.cam.ac.uk/courses/directory/cvphpdhpc){:target="_blank" rel="noopener"}**, University of Cambridge
   * Supervisor: [Dr Lois Kim](https://orcid.org/0000-0002-4552-3820){:target="_blank" rel="noopener"}
   * Based within the Blood and Transplant Research Unit and the Cardiovascular Epidemiology Unit
@@ -24,7 +24,7 @@ redirect_from:
   * 3rd year modules: Causal Analysis in Data Science (70+), Measurements in Data Science (65+), Health, Poverty and Development (65+), Digital Health (70+), Population Ageing (90+), Health Psychology (70+)
   * Dissertation (70+): "Feeling less useful but under less strain: furlough and psychological distress in the UK Household Longitudinal Study’s COVID-19 waves" supervised by [Dr Liam Wright](https://www.ucl.ac.uk/mental-health/people/liam-wright){:target="_blank" rel="noopener"}
     
-## academic awards and honours
+## Academic awards and honours
 * 06/2023: **NIHR PhD Studentship**. Awarded full scholarship from the National Institute for Health and Care Research (NIHR) for a 3-year PhD in blood donor health at the University of Cambridge.
 * 07/2022: **Dean's List, 2021-22**. Awarded for outstanding academic performance by 2022 graduates, equivalent to the top 5% of student achievement within UCL's Faculty of Population Health Sciences.
 * 09/2021: **Undergraduate Scholarship for Excellence, Year 2**. Awarded to the most academically outstanding student in 2020-21 in my BSc cohort. £3 000.
@@ -32,7 +32,7 @@ redirect_from:
 * 07/2019: **AP Scholar with Distinction**. Awarded to Advanced Placement (American A-level equivalent) candidates with excellent performance across five or more exams.
 * 06/2019: **Highest Honours**. Awarded to students in the top 10% of my high school's 2019 graduating class.
 
-## research experience
+## Research experience
 * 03/2023 - 08/2023: **Research Student @ [Clinical Trials Service Unit](https://www.ctsu.ox.ac.uk/){:target="_blank" rel="noopener"}, University of Oxford**
   * designed pheWAS study, conducted a literature review, ran analyses in R, and presented findings as part of MSc placement
   * drafted Lancet-style journal article for assessment
@@ -46,7 +46,7 @@ redirect_from:
   * led six-person team to conceptualise and publish paper linking personal protective equipment policies and healthcare worker mortality during COVID-19 in four high-income countries (cited in presentations to UK policymakers)
   * presented paper to interdisciplinary academic and student audience in 2021 research conference
 
-## skills and proficiencies
+## Skills and proficiencies
 * **study design** (incl. cross-sectional, case-control, cohort, and trial designs)
   * research question formulation
   * protocol and proposal drafting
@@ -85,7 +85,7 @@ redirect_from:
   * French ([CEFR](https://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale){:target="_blank" rel="noopener"} B1/2)
   * Egyptian colloquial Arabic (enough to get by in Cairo)
     
-## other work experience
+## Other work experience
 * 07/2022: **Journalism Intern @ [Carbon Brief](https://www.carbonbrief.org/){:target="_blank" rel="noopener"}**
   * covered a [Nature paper](https://www.nature.com/articles/s41558-022-01401-w){:target="_blank" rel="noopener"} on migration and climate change (including interviewing lead author, Harvard Kennedy School Environmental Fellow [Dr Hélène Benveniste](https://www.helenebenveniste.com/){:target="_blank" rel="noopener"})
   * contributed to a [media reaction piece](https://www.carbonbrief.org/media-reaction-uks-record-smashing-40c-heatwave-and-climate-change/){:target="_blank" rel="noopener"} about the summer 2022 UK heatwave on a tight deadline (and while melting)
@@ -103,12 +103,12 @@ redirect_from:
   * researched, analysed, and visualised data on the nature of economic inequality in the UK and other high-income countries with a focus on how protected characteristics
   * reviewed literature around economics, income and wealth inequality, and disability theory
 
-## publications
+## Publications
 * <b>Wu Y</b> et al. Keeping Our Frontline Safe: Linking personal protective equipment policies and healthcare worker mortality in the United Kingdom, United States, Germany, and New Zealand. Bentham Brooks Institute Research Journal, 2021, 1(1):125–189. Available [here](https://issuu.com/ucleuropeanhorizons/docs/final_bbi_global_health__new__1){:target="_blank" rel="noopener"}.
 
 *You can also find my publications on my [Google Scholar profile](https://scholar.google.co.uk/citations?user=BfQsB3gAAAAJ&hl=en){:target="_blank" rel="noopener"}.*
   
-## talks
+## Talks
 * 02/2024: **One more light: making better R functions**. Presented to UCL's [R User Group](https://www.ellenwebborn.com/rusergroup/){:target="_blank" rel="noopener"}. Slides [here](https://yaning-wu.github.io/files/one-more-light-slides.pdf){:target="_blank" rel="noopener"}. Code [here](https://yaning-wu.github.io/files/one-more-light-code.html){:target="_blank" rel="noopener"}.
 * 06/2021: **Can you hear the sirens? Presenting ambulance response patterns during a coronavirus surge using multimedia**. Presented during UCL's [R Project Showcase](https://www.ucl.ac.uk/research/domains/eresearch/developing-technical-skills-good-practice-careers/develop-better-research-software-0#Research){:target="_blank" rel="noopener"}. Abstract [here](https://www.ellenwebborn.com/pdf/Abstracts_v03.pdf){:target="_blank" rel="noopener"}. Slides [here](https://www.canva.com/design/DAEeYP1sKaM/srr_vnJjr8z0bBRSO0rWVg/view?utm_content=DAEeYP1sKaM&utm_campaign=designshare&utm_medium=link&utm_source=editor){:target="_blank" rel="noopener"}. Based on [this](https://wmjlwuh.medium.com/can-you-hear-the-sirens-61fe05efb1eb){:target="_blank" rel="noopener"} blog post. 
 * 03/2021: **Keeping our frontline safe: Linking personal protective equipment policies and healthcare worker mortality in the United Kingdom, United States, Germany, and New Zealand**. Research team presentation at the [Bentham Brooks Institute](https://benthambrooks.wixsite.com/home){:target="_blank" rel="noopener"}'s Research Conference awarded "Best Presentation" out of five teams. Recording [here](https://youtu.be/Gw9sNWdPD4E?feature=shared&t=19){:target="_blank" rel="noopener"}. 
