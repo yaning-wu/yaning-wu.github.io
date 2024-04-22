@@ -51,15 +51,21 @@ redirect_from:
   * Research question formulation
   * Protocol and proposal drafting
   * Sample size and power calculations
-  * Literature reviewing (incl. search term identification, study screening, critical appraisal)
-  * Project management (incl. diverse stakeholder liaison) 
-  * Tools: Rayyan.ai, EndNote
+  * Critical appraisal
+  * Project management
+* **Evidence synthesis**
+  * Search term formulation
+  * Record deduplication and screening
+  * Consensus gathering
+  * Data extraction
+  * Narrative synthesis
+  * Meta-analysis (incl. dose-response methods)
+  * Tools: Rayyan.ai, EndNote, R
 * **Quantitative research methods**
-  * Descriptive statistics (incl. calculation and presentation)
   * Regression (incl. linear, logistic, mixed, Poisson, Cox)
-  * Missing data (incl. characterisation, imputation)
+  * Missing data (incl. description, visualisation, imputation)
   * Causal inference (incl. instrumental variables, regression discontinuity, synthetic controls)
-  * Classification (incl. measurement error, supervised and unsupervised machine learning) 
+  * Classification (incl. supervised and unsupervised machine learning) 
   * Spatial analysis (incl. clustering, autocorrelation)
   * Software: R (incl. loops, custom function-building, and tidyverse), Stata
 * **Qualitative research methods**
