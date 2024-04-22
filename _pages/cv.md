@@ -106,16 +106,16 @@ redirect_from:
 ## Publications
 * <b>Wu Y</b> et al. Keeping Our Frontline Safe: Linking personal protective equipment policies and healthcare worker mortality in the United Kingdom, United States, Germany, and New Zealand. Bentham Brooks Institute Research Journal, 2021, 1(1):125–189. Available [here](https://issuu.com/ucleuropeanhorizons/docs/final_bbi_global_health__new__1){:target="_blank" rel="noopener"}.
 
-*You can also find my publications on my [Google Scholar profile](https://scholar.google.co.uk/citations?user=BfQsB3gAAAAJ&hl=en){:target="_blank" rel="noopener"}.*
+You can also find my publications on my [Google Scholar profile](https://scholar.google.co.uk/citations?user=BfQsB3gAAAAJ&hl=en){:target="_blank" rel="noopener"}.
   
 ## Talks
 
-* 03/2024: **Could donating blood make you healthier?** Presented at the [Famelab](https://www.cheltenhamfestivals.com/famelab){:target="_blank" rel="noopener"} East of England final to scientists, students, and public audiences. Related blog post [here](https://yaning-wu.github.io/posts/2024/03/29-post){:target="_blank" rel="noopener"}.
+* 03/2024: **Could donating blood make you healthier?** Selected from 100+ entrants to share science for three minutes with 9 other finalists at the [Famelab](https://www.cheltenhamfestivals.com/famelab){:target="_blank" rel="noopener"} East of England final with public audiences. Related blog post [here](https://yaning-wu.github.io/posts/2024/03/29-post){:target="_blank" rel="noopener"}.
 * 02/2024: **One more light: making better R functions**. Presented to UCL's [R User Group](https://www.ellenwebborn.com/rusergroup/){:target="_blank" rel="noopener"}. Slides [here](https://yaning-wu.github.io/files/one-more-light-slides.pdf){:target="_blank" rel="noopener"}. Code [here](https://yaning-wu.github.io/files/one-more-light-code.html){:target="_blank" rel="noopener"}.
 * 06/2021: **Can you hear the sirens? Presenting ambulance response patterns during a coronavirus surge using multimedia**. Presented during UCL's [R Project Showcase](https://www.ucl.ac.uk/research/domains/eresearch/developing-technical-skills-good-practice-careers/develop-better-research-software-0#Research){:target="_blank" rel="noopener"}. Abstract [here](https://www.ellenwebborn.com/pdf/Abstracts_v03.pdf){:target="_blank" rel="noopener"}. Slides [here](https://www.canva.com/design/DAEeYP1sKaM/srr_vnJjr8z0bBRSO0rWVg/view?utm_content=DAEeYP1sKaM&utm_campaign=designshare&utm_medium=link&utm_source=editor){:target="_blank" rel="noopener"}. Based on [this](https://wmjlwuh.medium.com/can-you-hear-the-sirens-61fe05efb1eb){:target="_blank" rel="noopener"} blog post. 
 * 03/2021: **Keeping our frontline safe: Linking personal protective equipment policies and healthcare worker mortality in the United Kingdom, United States, Germany, and New Zealand**. Research team presentation at the [Bentham Brooks Institute](https://benthambrooks.wixsite.com/home){:target="_blank" rel="noopener"}'s Research Conference awarded "Best Presentation" out of five teams. Recording [here](https://youtu.be/Gw9sNWdPD4E?feature=shared&t=19){:target="_blank" rel="noopener"}. 
 
 ## Volunteering and leadership
-You can learn more about my volunteering and leadership experience via my [LinkedIn profile](https://www.linkedin.com/in/yaning-wu/details/volunteering-experiences/){:target="_blank" rel="noopener"}.
+You can learn more about my volunteering and leadership experience on my [LinkedIn profile](https://www.linkedin.com/in/yaning-wu/details/volunteering-experiences/){:target="_blank" rel="noopener"}.
 
 
