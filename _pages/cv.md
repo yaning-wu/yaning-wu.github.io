@@ -97,7 +97,13 @@ redirect_from:
   * Designed data visualisations for clients such as Imperial College London, McKinsey, EY, YouGov, and the BBC
   * Coded novel visualisation tools and "hacks" using HTML and CSS
   * Responded to business and private customer queries in timely and professional manner
-  * Produced data visualisation and storytelling content for [company website](https://flourish.studio/blog/){:target="_blank" rel="noopener"} and [socials](https://www.instagram.com/madewithflourish/){:target="_blank" rel="noopener"}
+  * Produced data visualisation and storytelling content for [company website](https://flourish.studio/blog/){:target="_blank" rel="noopener"} and [socials](https://www.instagram.com/madewithflourish/){:target="_blank" rel="noopener"}, including:
+    * [A piece about common data visualisation mistakes](https://flourish.studio/blog/common-mistakes-in-data-visualization/)
+    * [A customer story for the award-winning editorial studio Kontinentalist](https://flourish.studio/blog/kontinentalist-customer-story/)
+    * [A visualisation series about my Maasai Mara safari adventures](https://flourish.studio/blog/visualizing-safari-masai-mara/)
+    * [Charts showing the distribution, causes, and impact of the world's air pollution](https://flourish.studio/blog/world-health-day-visualizing-air-pollution/)
+    * [An introduction to visualising survey data](https://flourish.studio/blog/visualizing-survey-data/) inspired by our work with Imperial and YouGov teams
+  * Pushed for the addition of alt text to public-facing content, which remains to this day
  
 * 08/2021 - 09/2021: **Research Assistant @ [The Equality Trust](https://equalitytrust.org.uk/){:target="_blank" rel="noopener"}**
   * Researched, analysed, and visualised data on the nature of economic inequality in the UK and other high-income countries with a focus on how protected characteristics
