@@ -11,7 +11,7 @@ redirect_from:
 ## Education  
 * 10/2023 - present: **[PhD (Probationary) in Public Health and Primary Care](https://www.postgraduate.study.cam.ac.uk/courses/directory/cvphpdhpc){:target="_blank" rel="noopener"}**, University of Cambridge
   * Dissertation: "Improving the safety and efficiency of blood donation in England" (provisional) supervised by [Dr Lois Kim](https://orcid.org/0000-0002-4552-3820){:target="_blank" rel="noopener"}
-  * Based within the Blood and Transplant Research Unit and the Cardiovascular Epidemiology Unit
+  * Based within the [Blood and Transplant Research Unit](https://www.donorhealth-btru.nihr.ac.uk/contact_btru/){:target="_blank" rel="noopener"} and the Cardiovascular Epidemiology Unit
  
 * 10/2022 - 09/2023: **[MSc in Global Health Science and Epidemiology](https://www.ox.ac.uk/admissions/graduate/courses/msc-global-health-science-and-epidemiology){:target="_blank" rel="noopener"}**, University of Oxford (pass with merit, 65%+)
   * Compulsory modules: Principles of Statistics, Principles of Epidemiology, Introduction to International Research Ethics, Introduction to Global Health Science
