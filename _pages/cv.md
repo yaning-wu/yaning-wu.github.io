@@ -87,7 +87,7 @@ redirect_from:
     
 ## Other work experience
 * 07/2022: **Journalism Intern @ [Carbon Brief](https://www.carbonbrief.org/){:target="_blank" rel="noopener"}**
-  * Covered a [Nature paper](https://www.nature.com/articles/s41558-022-01401-w){:target="_blank" rel="noopener"} on migration and climate change (including interviewing lead author, Harvard Kennedy School Environmental Fellow [Dr Hélène Benveniste](https://www.helenebenveniste.com/){:target="_blank" rel="noopener"})
+  * Drafted and edited [coverage](https://www.carbonbrief.org/climate-change-will-make-it-harder-for-worlds-poorest-to-migrate-study-says/) of a [Nature paper](https://www.nature.com/articles/s41558-022-01401-w){:target="_blank" rel="noopener"} on migration and climate change (including interviewing its lead author, Harvard Kennedy School Environmental Fellow [Dr Hélène Benveniste](https://www.helenebenveniste.com/){:target="_blank" rel="noopener"})
   * Contributed to a [media reaction piece](https://www.carbonbrief.org/media-reaction-uks-record-smashing-40c-heatwave-and-climate-change/){:target="_blank" rel="noopener"} about the summer 2022 UK heatwave on a tight deadline (and while melting)
   * Drafted copy for two [newsletters](https://www.carbonbrief.org/newsletter-sign-up/){:target="_blank" rel="noopener"} with worldwide reach
   * Supported senior team members in designing and coding data visualisations of climate data using Highcharts, a Javascript library
