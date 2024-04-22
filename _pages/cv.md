@@ -10,13 +10,14 @@ redirect_from:
 {% include base_path %}
 ## Education  
 * 10/2023 - present: **[PhD (Probationary) in Public Health and Primary Care](https://www.postgraduate.study.cam.ac.uk/courses/directory/cvphpdhpc){:target="_blank" rel="noopener"}**, University of Cambridge
-  * Supervisor: [Dr Lois Kim](https://orcid.org/0000-0002-4552-3820){:target="_blank" rel="noopener"}
+  * Dissertation: "Improving the safety and efficiency of blood donation in England" (provisional) supervised by [Dr Lois Kim](https://orcid.org/0000-0002-4552-3820){:target="_blank" rel="noopener"}
   * Based within the Blood and Transplant Research Unit and the Cardiovascular Epidemiology Unit
  
 * 10/2022 - 09/2023: **[MSc in Global Health Science and Epidemiology](https://www.ox.ac.uk/admissions/graduate/courses/msc-global-health-science-and-epidemiology){:target="_blank" rel="noopener"}**, University of Oxford (pass with merit, 65%+)
   * Compulsory modules: Principles of Statistics, Principles of Epidemiology, Introduction to International Research Ethics, Introduction to Global Health Science
   * Optional modules: Principles and Applications of Data Science, Non-Communicable Diseases, Nutritional Epidemiology, Health Economics, Clinical Trials and Meta-Analyses (audited), Genetic Epidemiology (audited)
   * Dissertation (65+): "Fresh fruit consumption and the risks of >350 diseases in China: a prospective cohort study" supervised by [Dr Pang Yao](https://www.ndph.ox.ac.uk/team/pang-yao){:target="_blank" rel="noopener"}, [Assoc Prof Huaidong Du](https://www.ndph.ox.ac.uk/team/huaidong-du){:target="_blank" rel="noopener"}, and [Assoc Prof Derrick Bennett](https://www.ndph.ox.ac.uk/team/derrick-bennett){:target="_blank" rel="noopener"}
+  * Based within the [Nuffield Department of Population Health](https://www.ndph.ox.ac.uk/){:target="_blank" rel="noopener"} and the [Big Data Institute](https://www.bdi.ox.ac.uk/){:target="_blank" rel="noopener"}
 
 * 09/2019 - 06/2022: **[BSc in Population Health Sciences](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/population-health-sciences-bsc){:target="_blank" rel="noopener"}** (Data Science specialism), University College London (first class honours, 75%+)
   * 1st year modules: Epidemiological Transition, Social Determinants of Health, Measuring Population Health, Social Determinants of Health, Research Methods in Population Health, Principles of Social Science Research, Introduction to Quantitative Research Methods (all pass/fail assessed due to COVID-19 pandemic)
