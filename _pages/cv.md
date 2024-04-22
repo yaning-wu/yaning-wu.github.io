@@ -34,51 +34,51 @@ redirect_from:
 
 ## Research experience
 * 03/2023 - 08/2023: **Research Student @ [Clinical Trials Service Unit](https://www.ctsu.ox.ac.uk/){:target="_blank" rel="noopener"}, University of Oxford**
-  * designed pheWAS study, conducted a literature review, ran analyses in R, and presented findings as part of MSc placement
-  * drafted Lancet-style journal article for assessment
+  * Designed pheWAS study, conducted a literature review, ran analyses in R, and presented findings as part of MSc placement
+  * Drafted Lancet-style journal article for assessment
 
 * 04/2021 -  07/2021: **Research Assistant @ [Aceso Global Health Consultants](https://www.acesoghc.com/){:target="_blank" rel="noopener"}**
-  * edited research protocols, conducted literature reviews, and developed interventions for a [RSPH-award-winning](https://www.arc-nt.nihr.ac.uk/news-and-events/2021/september/community-led-neon-programme-wins-rsph-award/){:target="_blank" rel="noopener"} [child nutrition RCT](https://www.acesoghc.com/neon){:target="_blank" rel="noopener"}
-  * took meeting minutes and assisted research team with administrative tasks
-  * the NEON trial protocol can be found [here](https://bmjopen.bmj.com/content/13/11/e063885.full){:target="_blank" rel="noopener"}!
+  * Edited research protocols, conducted literature reviews, and developed interventions for a [RSPH-award-winning](https://www.arc-nt.nihr.ac.uk/news-and-events/2021/september/community-led-neon-programme-wins-rsph-award/){:target="_blank" rel="noopener"} [child nutrition RCT](https://www.acesoghc.com/neon){:target="_blank" rel="noopener"}
+  * Took meeting minutes and assisted research team with administrative tasks
+  * The NEON trial protocol can be found [here](https://bmjopen.bmj.com/content/13/11/e063885.full){:target="_blank" rel="noopener"}!
 
 * 10/2020 - 03/2021: **Research Team Lead @ [Bentham Brooks Institute](https://benthambrooks.wixsite.com/home){:target="_blank" rel="noopener"}**
-  * led six-person team to conceptualise and publish paper linking personal protective equipment policies and healthcare worker mortality during COVID-19 in four high-income countries (cited in presentations to UK policymakers)
-  * presented paper to interdisciplinary academic and student audience in 2021 research conference
+  * Led six-person team to conceptualise and publish paper linking personal protective equipment policies and healthcare worker mortality during COVID-19 in four high-income countries (cited in presentations to UK policymakers)
+  * Presented paper to interdisciplinary academic and student audience in 2021 research conference
 
 ## Skills and proficiencies
 * **Study design** (incl. cross-sectional, case-control, cohort, and trial designs)
-  * research question formulation
-  * protocol and proposal drafting
-  * sample size and power calculations
-  * literature reviewing (incl. search term identification, study screening, critical appraisal)
-  * project management (incl. diverse stakeholder liaison) 
-  * tools: Rayyan.ai, EndNote
+  * Research question formulation
+  * Protocol and proposal drafting
+  * Sample size and power calculations
+  * Literature reviewing (incl. search term identification, study screening, critical appraisal)
+  * Project management (incl. diverse stakeholder liaison) 
+  * Tools: Rayyan.ai, EndNote
 * **Quantitative research methods**
-  * descriptive statistics (incl. calculation and presentation)
-  * regression (incl. linear, logistic, mixed, Poisson, Cox)
-  * missing data (incl. characterisation, imputation)
-  * causal inference (incl. instrumental variables, regression discontinuity, synthetic controls)
-  * classification (incl. measurement error, supervised and unsupervised machine learning) 
-  * spatial analysis (incl. clustering, autocorrelation)
-  * software: R (incl. loops, custom function-building, and tidyverse), Stata
+  * Descriptive statistics (incl. calculation and presentation)
+  * Regression (incl. linear, logistic, mixed, Poisson, Cox)
+  * Missing data (incl. characterisation, imputation)
+  * Causal inference (incl. instrumental variables, regression discontinuity, synthetic controls)
+  * Classification (incl. measurement error, supervised and unsupervised machine learning) 
+  * Spatial analysis (incl. clustering, autocorrelation)
+  * Software: R (incl. loops, custom function-building, and tidyverse), Stata
 * **Qualitative research methods**
-  * qualitative and mixed-methods study designs
-  * focus group planning, topic guide drafting
-  * thematic and content analysis
+  * Qualitative and mixed-methods study designs
+  * Focus group planning, topic guide drafting
+  * Thematic and content analysis
 * **Data visualisation**
-  * conventional charts (incl. line, bar, pie, scatter)
-  * epidemiology-specific charts (incl. Manhattan plots, forest plots, funnel plots, shape plots)
-  * interactive visualisations (incl. maps, multimedia data stories)
-  * tools: Canva, Autodesk Sketchbook, Flourish, Tableau, Datawrapper, Microsoft Excel, plain old pen and paper!
-  * software: R (ggplot2 and various add-ons)
+  * Conventional charts (incl. line, bar, pie, scatter)
+  * Epidemiology-specific charts (incl. Manhattan plots, forest plots, funnel plots, shape plots)
+  * Interactive visualisations (incl. maps, multimedia data stories)
+  * Tools: Canva, Autodesk Sketchbook, Flourish, Tableau, Datawrapper, Microsoft Excel, plain old pen and paper!
+  * Software: R (ggplot2 and various add-ons)
 * **Graphic and website design**
   * Instagram, Twitter, Facebook, LinkedIn assets
-  * tools: Canva, WordPress
-  * software: HTML, CSS
+  * Tools: Canva, WordPress
+  * Software: HTML, CSS
 * **Project management**
-  * administration, goal-setting, and team-working
-  * tools: Microsoft Office Suite, Google Suite, Notion, Slack, Trello, Miro, Calendly
+  * Administration, goal-setting, and team-working
+  * Tools: Microsoft Office Suite, Google Suite, Notion, Slack, Trello, Miro, Calendly
 * **Languages**
   * English (native speaker)
   * Mandarin (native speaker)
@@ -87,21 +87,21 @@ redirect_from:
     
 ## Other work experience
 * 07/2022: **Journalism Intern @ [Carbon Brief](https://www.carbonbrief.org/){:target="_blank" rel="noopener"}**
-  * covered a [Nature paper](https://www.nature.com/articles/s41558-022-01401-w){:target="_blank" rel="noopener"} on migration and climate change (including interviewing lead author, Harvard Kennedy School Environmental Fellow [Dr Hélène Benveniste](https://www.helenebenveniste.com/){:target="_blank" rel="noopener"})
-  * contributed to a [media reaction piece](https://www.carbonbrief.org/media-reaction-uks-record-smashing-40c-heatwave-and-climate-change/){:target="_blank" rel="noopener"} about the summer 2022 UK heatwave on a tight deadline (and while melting)
-  * drafted copy for two [newsletters](https://www.carbonbrief.org/newsletter-sign-up/){:target="_blank" rel="noopener"} with worldwide reach
-  * supported senior team members in designing and coding data visualisations of climate data using Highcharts, a Javascript library
-  * designed [social media](https://www.instagram.com/p/CgcTxxkqcr2/?img_index=1){:target="_blank" rel="noopener"} and [website](https://www.carbonbrief.org/climate-change-will-make-it-harder-for-worlds-poorest-to-migrate-study-says/){:target="_blank" rel="noopener"} assets for published stories
+  * Covered a [Nature paper](https://www.nature.com/articles/s41558-022-01401-w){:target="_blank" rel="noopener"} on migration and climate change (including interviewing lead author, Harvard Kennedy School Environmental Fellow [Dr Hélène Benveniste](https://www.helenebenveniste.com/){:target="_blank" rel="noopener"})
+  * Contributed to a [media reaction piece](https://www.carbonbrief.org/media-reaction-uks-record-smashing-40c-heatwave-and-climate-change/){:target="_blank" rel="noopener"} about the summer 2022 UK heatwave on a tight deadline (and while melting)
+  * Drafted copy for two [newsletters](https://www.carbonbrief.org/newsletter-sign-up/){:target="_blank" rel="noopener"} with worldwide reach
+  * Supported senior team members in designing and coding data visualisations of climate data using Highcharts, a Javascript library
+  * Designed [social media](https://www.instagram.com/p/CgcTxxkqcr2/?img_index=1){:target="_blank" rel="noopener"} and [website](https://www.carbonbrief.org/climate-change-will-make-it-harder-for-worlds-poorest-to-migrate-study-says/){:target="_blank" rel="noopener"} assets for published stories
  
 * 07/2021 - 11/2021; 10/2021 - 06/2022: **Services, Support, and Content Intern @ [Flourish](https://flourish.studio/){:target="_blank" rel="noopener"}** (part of the [Canva](https://www.canva.com/){:target="_blank" rel="noopener"} family)
-  * designed data visualisations for clients such as Imperial College London, McKinsey, EY, YouGov, and the BBC
-  * coded novel visualisation tools and "hacks" using HTML and CSS
-  * responded to business and private customer queries in timely and professional manner
-  * produced data visualisation and storytelling content for company website and socials
+  * Designed data visualisations for clients such as Imperial College London, McKinsey, EY, YouGov, and the BBC
+  * Coded novel visualisation tools and "hacks" using HTML and CSS
+  * Responded to business and private customer queries in timely and professional manner
+  * Produced data visualisation and storytelling content for company website and socials
  
 * 08/2021 - 09/2021: **Research Assistant @ [The Equality Trust](https://equalitytrust.org.uk/){:target="_blank" rel="noopener"}**
-  * researched, analysed, and visualised data on the nature of economic inequality in the UK and other high-income countries with a focus on how protected characteristics
-  * reviewed literature around economics, income and wealth inequality, and disability theory
+  * Researched, analysed, and visualised data on the nature of economic inequality in the UK and other high-income countries with a focus on how protected characteristics
+  * Reviewed literature around economics, income and wealth inequality, and disability theory
 
 ## Publications
 * <b>Wu Y</b> et al. Keeping Our Frontline Safe: Linking personal protective equipment policies and healthcare worker mortality in the United Kingdom, United States, Germany, and New Zealand. Bentham Brooks Institute Research Journal, 2021, 1(1):125–189. Available [here](https://issuu.com/ucleuropeanhorizons/docs/final_bbi_global_health__new__1){:target="_blank" rel="noopener"}.
@@ -115,7 +115,7 @@ redirect_from:
 * 06/2021: **Can you hear the sirens? Presenting ambulance response patterns during a coronavirus surge using multimedia**. Presented during UCL's [R Project Showcase](https://www.ucl.ac.uk/research/domains/eresearch/developing-technical-skills-good-practice-careers/develop-better-research-software-0#Research){:target="_blank" rel="noopener"}. Abstract [here](https://www.ellenwebborn.com/pdf/Abstracts_v03.pdf){:target="_blank" rel="noopener"}. Slides [here](https://www.canva.com/design/DAEeYP1sKaM/srr_vnJjr8z0bBRSO0rWVg/view?utm_content=DAEeYP1sKaM&utm_campaign=designshare&utm_medium=link&utm_source=editor){:target="_blank" rel="noopener"}. Based on [this](https://wmjlwuh.medium.com/can-you-hear-the-sirens-61fe05efb1eb){:target="_blank" rel="noopener"} blog post. 
 * 03/2021: **Keeping our frontline safe: Linking personal protective equipment policies and healthcare worker mortality in the United Kingdom, United States, Germany, and New Zealand**. Research team presentation at the [Bentham Brooks Institute](https://benthambrooks.wixsite.com/home){:target="_blank" rel="noopener"}'s Research Conference awarded "Best Presentation" out of five teams. Recording [here](https://youtu.be/Gw9sNWdPD4E?feature=shared&t=19){:target="_blank" rel="noopener"}. 
 
-## volunteering and leadership
+## Volunteering and leadership
 You can learn more about my volunteering and leadership experience via my [LinkedIn profile](https://www.linkedin.com/in/yaning-wu/details/volunteering-experiences/){:target="_blank" rel="noopener"}.
 
 
