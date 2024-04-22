@@ -24,6 +24,7 @@ redirect_from:
   * 2nd year modules: Frontiers of Knowledge in Population Health (80+), The Life Course (75+), Acute and Chronic Infectious Diseases (70+), Data Analysis (65+), Health and Behaviour (80+), Qualitative Research Methods (80+), Health Demography (80+)
   * 3rd year modules: Causal Analysis in Data Science (70+), Measurements in Data Science (65+), Health, Poverty and Development (65+), Digital Health (70+), Population Ageing (90+), Health Psychology (70+)
   * Dissertation (70+): "Feeling less useful but under less strain: furlough and psychological distress in the UK Household Longitudinal Study’s COVID-19 waves" supervised by [Dr Liam Wright](https://www.ucl.ac.uk/mental-health/people/liam-wright){:target="_blank" rel="noopener"}
+  * Based within the [Institute of Epidemiology and Health Care](https://www.ucl.ac.uk/epidemiology-health-care/ucl-institute-epidemiology-and-health-care-advancing-health-across-populations){:target="_blank" rel="noopener"}
     
 ## Academic awards and honours
 * 06/2023: **NIHR PhD Studentship**. Awarded full scholarship from the National Institute for Health and Care Research (NIHR) for a 3-year PhD in blood donor health at the University of Cambridge.
