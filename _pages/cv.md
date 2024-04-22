@@ -97,7 +97,7 @@ redirect_from:
   * Designed data visualisations for clients such as Imperial College London, McKinsey, EY, YouGov, and the BBC
   * Coded novel visualisation tools and "hacks" using HTML and CSS
   * Responded to business and private customer queries in timely and professional manner
-  * Produced data visualisation and storytelling content for company website and socials
+  * Produced data visualisation and storytelling content for [company website](https://flourish.studio/blog/){:target="_blank" rel="noopener"} and [socials](https://www.instagram.com/madewithflourish/){:target="_blank" rel="noopener"}
  
 * 08/2021 - 09/2021: **Research Assistant @ [The Equality Trust](https://equalitytrust.org.uk/){:target="_blank" rel="noopener"}**
   * Researched, analysed, and visualised data on the nature of economic inequality in the UK and other high-income countries with a focus on how protected characteristics
