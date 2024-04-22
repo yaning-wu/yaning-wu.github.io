@@ -12,7 +12,7 @@ I consider my self-directed creative work an integral part of my identity as a r
 <div>
 <details>
   <summary>
-    <b>visual art</b> drawing from life, memory, and places in between
+    <b>Visual art</b>: drawing from life, memory, and places in between
     <br>
   </summary>
   <div style="margin-left:2em">
@@ -91,7 +91,7 @@ I consider my self-directed creative work an integral part of my identity as a r
 <div>
 <details>
   <summary>
-    <b>multimedia</b> creating and borrowing material to tell personal and communal stories
+    <b>Multimedia</b>: creating and borrowing material to tell personal and communal stories
     <br>
   </summary>
   <p style="margin-left:2em"><b>holiday wishes from thirty-two bears</b> december 2023</p>
@@ -118,7 +118,7 @@ I consider my self-directed creative work an integral part of my identity as a r
 <div>
 <details>
   <summary>
-    <b>poetry</b> reflecting on ordinary encounters that become wondrous
+    <b>Poetry</b>: reflecting on ordinary encounters that become wondrous
     <br>
   </summary> 
   <details>
@@ -300,7 +300,7 @@ that I had myself together.
 <div>
 <details>
   <summary>
-    <b>data visualisation</b> revealing data from humanity and humanity from data
+    <b>Data visualisation</b>: revealing data from humanity and humanity from data
     <br> 
   </summary>
   <p style="margin-left:2em"><b>I wrote this for you:</b> visualising the dedications behind 500 award-winning books - read <a href="https://wmjlwuh.medium.com/i-wrote-this-for-you-6435b002c6c6" target="_blank">here</a>
