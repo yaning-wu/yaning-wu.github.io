@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 ## Education  
-* 10/2023 - present: **[PhD (Probationary) in Public Health and Primary Care](https://www.postgraduate.study.cam.ac.uk/courses/directory/cvphpdhpc){:target="_blank" rel="noopener"}**, University of Cambridge (provisional)
+* 10/2023 - present: **[PhD (Probationary) in Public Health and Primary Care](https://www.postgraduate.study.cam.ac.uk/courses/directory/cvphpdhpc){:target="_blank" rel="noopener"}**, University of Cambridge 
   * Research on stewarding blood donor health with a focus on the English blood service
   * Supervised by [Dr Lois Kim](https://orcid.org/0000-0002-4552-3820){:target="_blank" rel="noopener"} and advised by [Dr Stephen Kaptoge](https://www.cph.cam.ac.uk/staff/stephen-kaptoge){:target="_blank" rel="noopener"}
   * Based within the [Blood and Transplant Research Unit](https://www.donorhealth-btru.nihr.ac.uk/contact_btru/){:target="_blank" rel="noopener"} and the Cardiovascular Epidemiology Unit
