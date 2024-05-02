@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 ## Education  
-* 10/2023 - present: **[PhD (Probationary) in Public Health and Primary Care](https://www.postgraduate.study.cam.ac.uk/courses/directory/cvphpdhpc){:target="_blank" rel="noopener"}**, University of Cambridge
+* 10/2023 - present: **[PhD (Probationary) in Public Health and Primary Care](https://www.postgraduate.study.cam.ac.uk/courses/directory/cvphpdhpc){:target="_blank" rel="noopener"}**, University of Cambridge (provisional)
   * Research on stewarding blood donor health with a focus on the English blood service
   * Supervised by [Dr Lois Kim](https://orcid.org/0000-0002-4552-3820){:target="_blank" rel="noopener"} and advised by [Dr Stephen Kaptoge](https://www.cph.cam.ac.uk/staff/stephen-kaptoge){:target="_blank" rel="noopener"}
   * Based within the [Blood and Transplant Research Unit](https://www.donorhealth-btru.nihr.ac.uk/contact_btru/){:target="_blank" rel="noopener"} and the Cardiovascular Epidemiology Unit
@@ -95,6 +95,11 @@ redirect_from:
   * Egyptian colloquial Arabic (enough to get by in Cairo)
     
 ## Other work experience
+* 05/2020-12/2022 **Communications Lead @ MedSupplyDrive UK** (voluntary)
+  * Led team of interdisciplinary volunteers to create and disseminate publicity materials to further the charity's mission of securing protective equipment for health and care workers during the COVID-19 pandemic
+  * Created content for Instagram, Facebook, Twitter, LinkedIn, and YouTube and engaged with relevant accounts and supporters online
+  * Contributed to donation of 100K+ items of protective equipment (including masks, gloves, wipes, and body suits)
+  * Read more about MedSupplyDrive UK's work via this publication by our American colleagues and inspirations: Sayyed A, Baker ML, Peesay T, Rooney A, Syed Z. An Auxiliary Medical Education: The Evolution of a Medical Student-Founded Organization in Response to the COVID-19 Era Personal Protective Equipment Shortage. Acad Med. 2021 Dec 1;96(12):1663-1670. doi: [10.1097/ACM.0000000000004185](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8603433/){:target="_blank" rel="noopener"}.
 * 07/2022: **Journalism Intern @ [Carbon Brief](https://www.carbonbrief.org/){:target="_blank" rel="noopener"}**
   * Drafted and edited [coverage](https://www.carbonbrief.org/climate-change-will-make-it-harder-for-worlds-poorest-to-migrate-study-says/) of a [Nature paper](https://www.nature.com/articles/s41558-022-01401-w){:target="_blank" rel="noopener"} on migration and climate change (including interviewing its lead author, Harvard Kennedy School Environmental Fellow [Dr Hélène Benveniste](https://www.helenebenveniste.com/){:target="_blank" rel="noopener"})
   * Contributed to a [media reaction piece](https://www.carbonbrief.org/media-reaction-uks-record-smashing-40c-heatwave-and-climate-change/){:target="_blank" rel="noopener"} about the summer 2022 UK heatwave on a tight deadline (and while melting)
