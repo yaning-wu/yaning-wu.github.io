@@ -95,7 +95,7 @@ redirect_from:
   * Egyptian colloquial Arabic (enough to get by in Cairo)
     
 ## Other work experience
-* 05/2020-12/2022 **Communications Lead @ MedSupplyDrive UK** (voluntary)
+* 05/2020 - 12/2022: **Communications Lead @ MedSupplyDrive UK** (voluntary)
   * Led team of interdisciplinary volunteers to create and disseminate publicity materials to further the charity's mission of securing protective equipment for health and care workers during the COVID-19 pandemic
   * Created content for Instagram, Facebook, Twitter, LinkedIn, and YouTube and engaged with relevant accounts and supporters online
   * Contributed to donation of 100K+ items of protective equipment (including masks, gloves, wipes, and body suits)
