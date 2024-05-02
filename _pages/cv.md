@@ -137,7 +137,7 @@ You can also find my publications on my [Google Scholar profile](https://scholar
 
 ## Poster presentations
 
-* **Wu Y**, Qi H, Kim LG. Risk factors for donation-related vasovagal reactions: a systematic review and meta-analysis. Presented at: Celebration of Research event at the Victor Philip Dahdaleh Heart and Lung Research Institute – April 2024. Poster [here](https://yaning-wu.github.io/files/cor-poster.pdf){:target="_blank" rel="noopener"}.
+* **Wu Y**, Qi H, Kim LG. Risk factors for donation-related vasovagal reactions: a systematic review and meta-analysis. Presented at: Celebration of Research event at the Victor Philip Dahdaleh Heart and Lung Research Institute – April 2024. Poster [here](https://yaning-wu.github.io/files/cor_poster.pdf){:target="_blank" rel="noopener"}.
 
 ## Volunteering and leadership
 You can learn more about my volunteering and leadership experience on my [LinkedIn profile](https://www.linkedin.com/in/yaning-wu/details/volunteering-experiences/){:target="_blank" rel="noopener"}.
