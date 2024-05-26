@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-... introduction
+Inspired by [this](https://www.nature.com/articles/nj7322-467a) Nature column by [Melanie Stefan](http://melaniestefan.net/), a neurobiologist now based in Berlin.
 
 * 2024: Rejected at pre-submission by Blood Advances and after editorial review at JAMA Poetry & Medicine
 * 2023: Rejected from PhD programmes at the University of Oxford and University College London
