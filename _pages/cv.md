@@ -144,4 +144,7 @@ You can also find my publications on my [Google Scholar profile](https://scholar
 ## Volunteering and leadership
 You can learn more about my volunteering and leadership experience on my [LinkedIn profile](https://www.linkedin.com/in/yaning-wu/details/volunteering-experiences/){:target="_blank" rel="noopener"}.
 
+## Failures
+You can find my CV of failures and rejections [here](https://yaning-wu.github.io/cv-fails/){:target="_blank" rel="noopener"}!
+
 
