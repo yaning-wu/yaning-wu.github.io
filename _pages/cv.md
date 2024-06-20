@@ -138,7 +138,7 @@ You can also find my publications on my [Google Scholar profile](https://scholar
 * 03/2021: **Keeping our frontline safe: Linking personal protective equipment policies and healthcare worker mortality in the United Kingdom, United States, Germany, and New Zealand**. Research team presentation at the [Bentham Brooks Institute](https://benthambrooks.wixsite.com/home){:target="_blank" rel="noopener"}'s Research Conference awarded "Best Presentation" out of five teams. Recording [here](https://youtu.be/Gw9sNWdPD4E?feature=shared&t=19){:target="_blank" rel="noopener"}.
 
 ## Poster presentations
-* **Wu Y**. Harnessing volunteer power to protect frontline workers during a pandemic: one charity’s story. Presented at West Hub Research Café on Pandemic Preparedness and One Health – June 2024. Poster [here](https://yaning-wu.github.io/files/west_hub_research_café_2024.pdf){:target="_blank" rel="noopener"}.
+* **Wu Y** on behalf of MedSupplyDrive UK. Harnessing volunteer power to protect frontline workers during a pandemic: one charity’s story. Presented at West Hub Research Café on Pandemic Preparedness and One Health – June 2024. Poster [here](https://yaning-wu.github.io/files/west_hub_research_café_2024.pdf){:target="_blank" rel="noopener"}.
 * **Wu Y**, Qi H, Kim LG. Risk factors for donation-related vasovagal reactions: a systematic review and meta-analysis. Presented at Celebration of Research event at the Victor Philip Dahdaleh Heart and Lung Research Institute – April 2024. Poster [here](https://yaning-wu.github.io/files/cor_poster.pdf){:target="_blank" rel="noopener"}.
 
 ## Volunteering and leadership
