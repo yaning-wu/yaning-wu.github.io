@@ -62,8 +62,9 @@ redirect_from:
   * Consensus gathering
   * Data extraction
   * Narrative synthesis
+  * Thematic synthesis
   * Meta-analysis (incl. dose-response methods)
-  * Tools: Rayyan.ai, EndNote, R
+  * Tools: EndNote, R, Rayyan.ai, Covidence
 * **Quantitative research methods**
   * Regression (incl. linear, logistic, mixed, Poisson, Cox)
   * Missing data (incl. description, visualisation, imputation)
