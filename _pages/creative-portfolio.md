@@ -16,10 +16,6 @@ I consider my self-directed creative work an integral part of my identity as a r
     <br>
   </summary>
   <div style="margin-left:2em">
-<img src="../files/isbt2024.jpeg" alt="four-panel sketch of a scientific poster by Dr Hans Van Remoortel and colleagues that reviewed the effectiveness of eating and drinking interventions in preventing vasovagal reactions in whole blood donors">
-<br><br>
-<b><i>eating and drinking interventions to reduce vasovagal reactions</i></b>, 2024. digital drawing. produced for Dr <a href="https://www.linkedin.com/in/hans-van-remoortel-8878a071/" target="_blank">Hans Van Remoortel</a> after he lost his original poster for an international blood transfusion conference.   
-<br><br>
 <img src="../images/good girl.jpeg" alt="sketch of a swedish vallhund wearing a blue t-shirt with text 'you deserve all the not-so-sweet (cake emoji) in the universe'">
 <br><br>
 <b><i>you deserve all</i></b>, 2023. ink on A4 sketchbook paper and digital drawing. produced for mom's birthday.    
@@ -333,3 +329,15 @@ that I had myself together.
   <b>Meet the superhumans:</b> visualising the growth of the Paralympic Games - read <a href="https://wmjlwuh.medium.com/meet-the-superhumans-have-the-paralympic-games-lived-up-to-their-name-50da9064ef6" target="_blank">here</a></p>  
 </details>
 </div>
+<!---science communications---> 
+<div>
+<details>
+  <summary>
+    <b>Science communication</b>: sharing rigorous evidence with broad audiences
+    <br> 
+  </summary>
+  <div style="margin-left:2em">
+<img src="../files/isbt2024.jpeg" alt="four-panel sketch of a scientific poster by Dr Hans Van Remoortel and colleagues that reviewed the effectiveness of eating and drinking interventions in preventing vasovagal reactions in whole blood donors">
+<br><br>
+<b><i>eating and drinking interventions to reduce vasovagal reactions</i></b>, 2024. digital drawing. produced for Dr <a href="https://www.linkedin.com/in/hans-van-remoortel-8878a071/" target="_blank">Hans Van Remoortel</a> after he lost his original poster for an international blood transfusion conference.   
+<br><br>
