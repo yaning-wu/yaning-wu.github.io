@@ -42,7 +42,7 @@ redirect_from:
   * Drafted Lancet-style journal article for assessment
 
 * 04/2021 -  07/2021: **Research Assistant @ [Aceso Global Health Consultants](https://www.acesoghc.com/){:target="_blank" rel="noopener"}**
-  * Edited research protocols, conducted literature reviews, and developed interventions for a [RSPH-award-winning](https://www.arc-nt.nihr.ac.uk/news-and-events/2021/september/community-led-neon-programme-wins-rsph-award/){:target="_blank" rel="noopener"} [child nutrition RCT](https://www.acesoghc.com/neon){:target="_blank" rel="noopener"}
+  * Edited research protocols, conducted literature reviews, and developed intervention materials for a [RSPH-award-winning](https://www.arc-nt.nihr.ac.uk/news-and-events/2021/september/community-led-neon-programme-wins-rsph-award/){:target="_blank" rel="noopener"} [child nutrition RCT](https://www.acesoghc.com/neon){:target="_blank" rel="noopener"}
   * Took meeting minutes and assisted research team with administrative tasks
   * The NEON trial protocol can be found [here](https://bmjopen.bmj.com/content/13/11/e063885.full){:target="_blank" rel="noopener"}!
 
