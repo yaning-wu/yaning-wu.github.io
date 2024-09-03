@@ -37,23 +37,23 @@ redirect_from:
 * 06/2019: **Highest Honours**. Awarded to students in the top 10% of my high school's 2019 graduating class.
 
 ## Research experience
-* 05/2024 - present: **Research Assistant @ [the Interdisciplinary Research Lab at the University of Florida's Center for Arts in Medicine](https://arts.ufl.edu/academics/center-for-arts-in-medicine/programs/professional-development-internships/research-team/){:target="_blank" rel="noopener"}**
+* 05/2024 - present: **Research Assistant @ [the University of Florida's Center for Arts in Medicine](https://arts.ufl.edu/academics/center-for-arts-in-medicine/programs/professional-development-internships/research-team/){:target="_blank" rel="noopener"}** (part-time)
   * Team-working to develop and run literature searches, screen peer-reviewed and grey literature, extract data, and draft manuscript for scoping review on receptive engagement with visual art and wellbeing in healthcare settings
   * Working with the [Jameel Arts and Health Lab](https://www.jameelartshealthlab.org/){:target="_blank" rel="noopener"}, a collaboration between NYU's Steinhardt School, the WHO, Community Jameel, and Culturunners
   
-* 09/2023 - present: **Researcher @ [the Universty of Brighton's Donor Research Team](https://blogs.brighton.ac.uk/donorresearch/){:target="_blank" rel="noopener"}**
+* 09/2023 - present: **Researcher @ [the Universty of Brighton's Donor Research Team](https://blogs.brighton.ac.uk/donorresearch/){:target="_blank" rel="noopener"}** (part-time)
   * Team-working to develop and run literature searches, screen articles, extract data, perform qualitative syntheses, and draft manuscript for systematic review on barriers and facilitators to acute care access in UK adults with sickle cell disease
   
 * 03/2023 - 08/2023: **Research Student @ [Clinical Trials Service Unit](https://www.ctsu.ox.ac.uk/){:target="_blank" rel="noopener"}, University of Oxford**
   * Designed pheWAS study, conducted a literature review, ran analyses in R, and presented findings as part of MSc placement
   * Drafted Lancet-style journal article for assessment
 
-* 04/2021 -  07/2021: **Research Assistant @ [Aceso Global Health Consultants](https://www.acesoghc.com/){:target="_blank" rel="noopener"}**
+* 04/2021 -  07/2021: **Research Assistant @ [Aceso Global Health Consultants](https://www.acesoghc.com/){:target="_blank" rel="noopener"}** (part-time)
   * Edited research protocols, conducted literature reviews, and developed intervention materials for a [RSPH-award-winning](https://www.arc-nt.nihr.ac.uk/news-and-events/2021/september/community-led-neon-programme-wins-rsph-award/){:target="_blank" rel="noopener"} [child nutrition RCT](https://www.acesoghc.com/neon){:target="_blank" rel="noopener"}
   * Took meeting minutes and assisted research team with administrative tasks
   * The NEON trial protocol can be found [here](https://bmjopen.bmj.com/content/13/11/e063885.full){:target="_blank" rel="noopener"}!
 
-* 10/2020 - 03/2021: **Research Team Lead @ [Bentham Brooks Institute](https://benthambrooks.wixsite.com/home){:target="_blank" rel="noopener"}**
+* 10/2020 - 03/2021: **Research Team Lead @ [Bentham Brooks Institute](https://benthambrooks.wixsite.com/home){:target="_blank" rel="noopener"}** (part-time)
   * Led six-person team to conceptualise and publish paper linking personal protective equipment policies and healthcare worker mortality during COVID-19 in four high-income countries (cited in presentations to UK policymakers)
   * Presented paper to interdisciplinary academic and student audience in 2021 research conference
 
