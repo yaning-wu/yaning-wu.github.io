@@ -37,6 +37,13 @@ redirect_from:
 * 06/2019: **Highest Honours**. Awarded to students in the top 10% of my high school's 2019 graduating class.
 
 ## Research experience
+* 05/2024 - present: **Research Assistant @ [the Interdisciplinary Research Lab at the University of Florida's Center for Arts in Medicine](https://arts.ufl.edu/academics/center-for-arts-in-medicine/programs/professional-development-internships/research-team/){:target="_blank" rel="noopener"}**
+  * Team-working to develop and run literature searches, screen peer-reviewed and grey literature, extract data, and draft manuscript for scoping review on receptive engagement with visual art and wellbeing in healthcare settings
+  * Working with the [Jameel Arts and Health Lab](https://www.jameelartshealthlab.org/){:target="_blank" rel="noopener"}, a collaboration between NYU's Steinhardt School, the WHO, Community Jameel, and Culturunners
+  
+* 09/2023 - present: **Researcher @ [the Universty of Brighton's Donor Research Team](https://blogs.brighton.ac.uk/donorresearch/){:target="_blank" rel="noopener"}**
+  * Team-working to develop and run literature searches, screen articles, extract data, perform qualitative syntheses, and draft manuscript for systematic review on barriers and facilitators to acute care access in UK adults with sickle cell disease
+  
 * 03/2023 - 08/2023: **Research Student @ [Clinical Trials Service Unit](https://www.ctsu.ox.ac.uk/){:target="_blank" rel="noopener"}, University of Oxford**
   * Designed pheWAS study, conducted a literature review, ran analyses in R, and presented findings as part of MSc placement
   * Drafted Lancet-style journal article for assessment
