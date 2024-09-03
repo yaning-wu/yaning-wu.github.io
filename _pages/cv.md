@@ -143,5 +143,8 @@ You can also find my publications on my [Google Scholar profile](https://scholar
 * **Wu Y** on behalf of MedSupplyDrive UK. Harnessing volunteer power to protect frontline workers during a pandemic: one charity’s story. Presented at West Hub Research Café on Pandemic Preparedness and One Health – June 2024. Poster [here](https://yaning-wu.github.io/files/west_hub_research_cafe%CC%81_2024.pdf){:target="_blank" rel="noopener"}.
 * **Wu Y**, Qi H, Kim LG. Risk factors for donation-related vasovagal reactions: a systematic review and meta-analysis. Presented at Celebration of Research event at the Victor Philip Dahdaleh Heart and Lung Research Institute – April 2024. Poster [here](https://yaning-wu.github.io/files/cor_poster.pdf){:target="_blank" rel="noopener"}.
 
+## Service
+* Peer reviewer for [Vox Sanguinis](https://onlinelibrary.wiley.com/journal/14230410){:target="_blank" rel="noopener"} (2024-)
+
 ## Volunteering and leadership
 You can learn more about my volunteering and leadership experience on my [LinkedIn profile](https://www.linkedin.com/in/yaning-wu/details/volunteering-experiences/){:target="_blank" rel="noopener"}.
