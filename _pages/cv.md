@@ -38,7 +38,7 @@ redirect_from:
 
 ## Research experience
 * 05/2024 - present: **Research Assistant @ [the University of Florida's Center for Arts in Medicine](https://arts.ufl.edu/academics/center-for-arts-in-medicine/programs/professional-development-internships/research-team/){:target="_blank" rel="noopener"}** (part-time)
-  * Team-working to develop and run literature searches, screen peer-reviewed and grey literature, extract data, and draft manuscript for scoping review on receptive engagement with visual art and wellbeing in healthcare settings
+  * Team-working to run literature searches, screen peer-reviewed and grey literature, extract data, and draft manuscript for scoping review on receptive engagement with visual art and wellbeing in healthcare settings
   * Working with the [Jameel Arts and Health Lab](https://www.jameelartshealthlab.org/){:target="_blank" rel="noopener"}, a collaboration between NYU's Steinhardt School, the WHO, Community Jameel, and Culturunners
   
 * 09/2023 - present: **Researcher @ [the Universty of Brighton's Donor Research Team](https://blogs.brighton.ac.uk/donorresearch/){:target="_blank" rel="noopener"}** (part-time)
