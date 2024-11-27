@@ -134,7 +134,8 @@ redirect_from:
   * Reviewed literature around economics, income and wealth inequality, and disability theory
 
 ## Publications
-* <b>Wu Y</b> et al. Keeping Our Frontline Safe: Linking personal protective equipment policies and healthcare worker mortality in the United Kingdom, United States, Germany, and New Zealand. Bentham Brooks Institute Research Journal, 2021, 1(1):125–189. Available [here](https://issuu.com/ucleuropeanhorizons/docs/final_bbi_global_health__new__1){:target="_blank" rel="noopener"}.
+* <b>Wu, Y.</b>, Qi, H., Di Angelantonio, E., Kaptoge, S., Wood, A. M., & Kim, L. G. (2024). Risk factors for vasovagal reactions in blood donors: A systematic review and meta-analysis. Transfusion [Internet]. Epub 2024 Nov 26. Available from: doi.org/https://doi.org/10.1111/trf.18078 
+* <b>Wu Y</b> et al. Keeping Our Frontline Safe: Linking personal protective equipment policies and healthcare worker mortality in the United Kingdom, United States, Germany, and New Zealand. Bentham Brooks Institute Research Journal, 2021, 1(1):125–189. Available from: [https://issuu.com/ucleuropeanhorizons/docs/final_bbi_global_health__new__1](https://issuu.com/ucleuropeanhorizons/docs/final_bbi_global_health__new__1){:target="_blank" rel="noopener"}.
 
 ## Conference abstracts
 * <b>Wu Y</b> and Kim LG. Donation frequency and vasovagal reactions in English whole blood donors: Associations and mechanisms. Transfusion Medicine. 2024;34(S1):12-69. doi: 10.1111/tme.13084.
