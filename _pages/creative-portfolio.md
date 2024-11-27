@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Creative portfolio"
-permalink: /creative-portfolio/
+title: "Making art"
+permalink: /making-art/
 author_profile: true
 ---
 
