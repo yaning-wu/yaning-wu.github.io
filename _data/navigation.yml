@@ -1,13 +1,13 @@
 # main links
 main:
-  - title: "CV"
-    url: /cv/
+  - title: "Solving mysteries"
+    url: /solving-mysteries/
 
   - title: "Public engagement"
     url: /public-engagement/    
   
-  - title: "Creative portfolio"
-    url: /creative-portfolio/
+  - title: "Making art"
+    url: /marking-art/
     
 # - title: "weekly updates"
    # url: /weekly-updates/ 
