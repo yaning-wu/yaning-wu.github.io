@@ -1,16 +1,7 @@
 # main links
 main:
-  - title: "About"
-    url: /about-me/
-    
   - title: "Solving mysteries"
     url: /solving-mysteries/
   
   - title: "Making art"
     url: /making-art/
-    
-# - title: "weekly updates"
-   # url: /weekly-updates/ 
-
-  - title: "Blog"
-    url: /blog/
