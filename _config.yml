@@ -91,7 +91,7 @@ author:
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
-  calendly         : "yaningwu/30min"
+  calendly         : # "yaningwu/30min"
   codepen          :
   dribbble         :
   flickr           :
@@ -100,7 +100,7 @@ author:
   GitHub           : "donatingbetter"
   google_plus      :
   keybase          :
-  instagram        : "wusterw"
+  instagram        : # "wusterw"
   impactstory      : 
   lastfm           :
   linkedin         : "yaning-wu/"
@@ -110,7 +110,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "donatingbetter"
+  twitter          : # "donatingbetter"
   vine             :
   weibo            :
   xing             :
