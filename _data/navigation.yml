@@ -1,7 +1,13 @@
 # main links
 main:
-  - title: "📖 My research"
+  - title: "📖 Research"
     url: /my-research/
   
-  - title: "🖊️ My art"
+  - title: "🖊️ Art"
     url: /my-art/
+
+  - title: "💻 Work experience"
+    url: /my-work-experience/
+
+  - title: "[X] Giving back"
+    url: /giving-back/
