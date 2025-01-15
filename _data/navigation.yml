@@ -6,8 +6,8 @@ main:
   - title: "Art"
     url: /my-art/
 
-  - title: "Work experience"
-    url: /work-experience/
+#  - title: "Work experience"
+ #   url: /work-experience/
 
   - title: "Giving back"
     url: /giving-back/
