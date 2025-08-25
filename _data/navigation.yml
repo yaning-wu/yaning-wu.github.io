@@ -1,13 +1,10 @@
 # main links
 main:
-  - title: "PhD-ing"
-    url: /phding/
+  - title: "Research"
+    url: /research/
   
   - title: "Art"
     url: /art/
-
-#  - title: "Work experience"
- #   url: /work-experience/
 
   - title: "Giving back"
     url: /giving-back/
